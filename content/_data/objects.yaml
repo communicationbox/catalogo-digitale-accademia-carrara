@@ -14,25 +14,25 @@ object_display_order:
 object_list:
 
   - id: 1
-    autore: Scultore dell’Italia settentrionale / Bartolomeo Bellano (?) 
-    dati anagrafici autore: 
+    autore: Antonio Rizzo (bottega di) 
+    dati anagrafici autore: Verona 1430 circa - Cesena (?) post 1499
     titolo: San Girolamo in un paesaggio
-    datazione: 1460 circa 
+    datazione: 1465-1475 circa
     materia e tecnica: Marmo
     misure: 54,5 × 39,5 × 7 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00001
     numeri di inventario precedenti: Sc. 127 (1998-2007); Sc. 130; Sc. 115; 1998 AC Sculture 00001 (2011-2012); 98 SC ZR001 (2012-2015)
-    collocazione: Non esposto 
+    collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-1"
 
   - id: 2
-    autore: Scultore emiliano 
+    autore: Scultore lombardo (o veneto?) 
     dati anagrafici autore: 
     titolo: Ritratto d’uomo
-    datazione: Ultimo quarto del XV secolo
+    datazione: Ultimo quarto del XV secolo (?)
     materia e tecnica: Marmo
     misure: 49,5 × 38 × 8 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -41,22 +41,22 @@ object_list:
     numeri di inventario precedenti: Sc. 128 (1998-2007); Sc. 129; Sc. 114; 1998 AC Sculture 00002 (2011-2012); 98 SC ZR002 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-2"
 
   - id: 3
-    autore: Scultore dell’Italia meridionale
+    autore: Scultore lucano
     dati anagrafici autore: 
     titolo: Madonna con il Bambino in trono
-    datazione: Inizio del XVI secolo
-    materia e tecnica: Legno policromo
+    datazione: Fine del XV o inizio del XVI secolo
+    materia e tecnica: Legno scolpito, dipinto e parzialmente dorato
     misure: 147 × 78 × 22 cm
-    iscrizioni, etichette, cartellini, timbri:
+    iscrizioni, etichette, cartellini, timbri: Lungo la base, iscrizione in lettere capitali, solo parzialmente leggibile; sul libro, iscrizione in corsiva "Michi vindictam (così per vindicta), et ego | retribuam, ait Dominus omnipotens."
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00003
     numeri di inventario precedenti: Sc. 129 (1998-2007); Sc. 131; Sc. 116; 1998 AC Sculture 00003 (2011-2012); 98 SC ZR003 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-4"
 
   - id: 3a
     autore: Scultore attivo a Roma 
@@ -64,155 +64,20 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 84 x 14 x XX cm
+    misure: 85,5 x 14 x 6 cm ; 145 x 25,5 x 9 cm ; 125,5 x 22 x 9 cm ; 127 x 20,5 x 9 cm ; 107,5 x 20,5 x 11 cm ; 225,5 x 25,5 x 13 cm ; 225 x 25,4 x 13 cm ; 225 x 25,1 x 11 cm ; 225 x 25,2 x 13 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00047
+    numero di inventario: Inv. n. 98 ZR 00047, Inv. n. 98 ZR 00048, Inv. n. 98 ZR 00049, Inv. n. 98 ZR 00050, Inv. n. 98 ZR 00051, Inv. n. 98 ZR 00052, Inv. n. 98 ZR 00053, Inv. n. 98 ZR 00054, Inv. n. 98 ZR 00055, Inv. n. 98 ZR 00056
     numeri di inventario precedenti: Nessuno
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
-
-  - id: 3b
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 84 x 14 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00048
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto 
-    figure:
-      - id: "cat-35"
-
-  - id: 3c
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 144 x 25 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00049
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto 
-    figure:
-      - id: "cat-35"
-
-  - id: 3d
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 124 x 22 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00050
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto 
-    figure:
-      - id: "cat-35"
-
-  - id: 3e
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta 
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 127 x 20 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00051
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto 
-    figure:
-      - id: "cat-35"
-
-  - id: 3f
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 105 x 20 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
-    acquisizione: Legato Università di Bologna, 2023 
-    numero di inventario: Inv. n. 98 ZR 00052
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto
-    figure:
-      - id: "cat-35" 
-
-  - id: 3g
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 220 x 24 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna 
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00053
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto
-    figure:
-      - id: "cat-35"
-
-  - id: 3h
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 220 x 24 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00054
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto
-    figure:
-      - id: "cat-35"
-
-  - id: 3i
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 220 x 24 x XX cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna 
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00055
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto
-    figure:
-      - id: "cat-35"
-
-  - id: 3l
-    autore: Scultore attivo a Roma 
-    dati anagrafici autore: 
-    titolo: Parasta
-    datazione: Ultimo quarto del XV secolo
-    materia e tecnica: Marmo
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: Nessuna 
-    acquisizione: Legato Università di Bologna, 2023
-    numero di inventario: Inv. n. 98 ZR 00056
-    numeri di inventario precedenti: Nessuno
-    collocazione: Non esposto
-    figure:
-      - id: "cat-35"
+      - id: "cat-3"
 
   - id: 4
     autore: Scultore attivo a Roma
     dati anagrafici autore: 
-    titolo: Busto di prelato
-    datazione: 1550 circa
+    titolo: Busto di gentiluomo
+    datazione: Terzo quarto del XVI secolo
     materia e tecnica: Marmo
     misure: 63 × 42 × 40 cm (busto); 78 x 65 x 46 cm (busto con piedistallo)
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -221,22 +86,22 @@ object_list:
     numeri di inventario precedenti: Sc. 130 (1998-2007); Sc. 132; Sc. 117; 1998 AC Sculture 00004 (2011-2012); 98 SC ZR004 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-5"
 
   - id: 5
-    autore: Scultore senese
+    autore: Scultore senese (Domenico Cafaggi?)
     dati anagrafici autore: 
-    titolo: Ecate (Prudenza)
-    datazione: 1580-1600 circa 
+    titolo: Prudenza
+    datazione: Ultimo quarto del XVI secolo
     materia e tecnica: Legno policromo
-    misure: 123 × 53 × 28 cm
+    misure: 123 × 53 × 31 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00005
     numeri di inventario precedenti: Sc. 131 (1998-2007); Sc. 133; Sc. 118; 1998 AC Sculture 00005 (2011-2012); 98 SC ZR005 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-6"
 
   - id: 6
     autore: Alessandro Vittoria
@@ -251,7 +116,7 @@ object_list:
     numeri di inventario precedenti: Sc. 132 (1998-2007); Sc. 134; Sc. 119; 1998 AC Sculture 00006 (2011-2012); 98 SC ZR001 (2012-2015)
     collocazione: Esposto - Sala 5
     figure:
-      - id: "cat-35"
+      - id: "cat-7"
 
   - id: 7
     autore: Nicolas Cordier
@@ -266,13 +131,13 @@ object_list:
     numeri di inventario precedenti: Sc. 133 (1998-2007); Sc. 135; Sc. 120; 1998 AC Sculture 00007 (2011-2012); 98 SC ZR007 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-8"
 
   - id: 8
     autore: Pietro Bernini
     dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
     titolo: Andromeda
-    datazione: 1610-1620 circa
+    datazione: 1615-1616 circa
     materia e tecnica: Marmo
     misure: 105 × 52,5 × 41 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -281,22 +146,22 @@ object_list:
     numeri di inventario precedenti: Sc. 134 (1998-2007); Sc. 137; Sc. 122; 1998 AC Sculture 00008 (2011-2012); 98 SC ZR008 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-9"
 
   - id: 9
     autore: Pietro Bernini
     dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
-    titolo: La Virtù sottomette il Vizio 
-    datazione: 1615 circa
+    titolo: Allegoria della Virtù vittoriosa sul Vizio 
+    datazione: 1610-1615 circa
     materia e tecnica: Marmo
-    misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento intagliato dorato)
+    misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento in legno intagliato dorato)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00009
     numeri di inventario precedenti: Sc. 135 (1998-2007); Sc. 136; Sc. 121; 1998 AC Sculture 00009 (2011-2012); 98 SC ZR009 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-10"
 
   - id: 10
     autore: Francois du Quesnoy (o Duquesnoy), detto il Fiammingo
@@ -311,7 +176,7 @@ object_list:
     numeri di inventario precedenti: Sc. 137 (1998-2007); Sc. 138; Sc. 123; 1998 AC Sculture 00010 (2011-2012); 98 SC ZR010 (2012-2015) 
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-11"
 
   - id: 11
     autore: François du Quesnoy (o Duquesnoy), detto il Fiammingo
@@ -326,13 +191,13 @@ object_list:
     numeri di inventario precedenti: Sc. 136 (1998-2007); Sc. 139; Sc. 124; 1998 AC Sculture 00011 (2011-2012); 98 SC ZR011 (2012-2015) 
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-12"
 
   - id: 12
-    autore: Scultore attivo a Roma (Alessandro Algardi? Nicolas Cordier?)
+    autore: Scultore attivo a Roma nella prima metà del XVII secolo
     dati anagrafici autore: 
     titolo: Santa Martina
-    datazione: 1650 circa / 1590-1610 circa
+    datazione: 1634-1650 circa
     materia e tecnica: Terracotta
     misure: 91 × 57 × 41 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -341,14 +206,14 @@ object_list:
     numeri di inventario precedenti: Sc. 138 (1998-2007); Sc. 141; Sc. 126; 1998 AC Sculture 00012 (2011-2012); 98 SC ZR012 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-13"
 
   - id: 13
     autore: Scultore attivo a Roma
     dati anagrafici autore: Roma, prima metà del secolo XVII
     titolo: Testa di Socrate
     datazione: 1630-1650 circa
-    materia e tecnica: Marmo nero del Belgio (o Marmo nero Marquina)
+    materia e tecnica: Marmo nero del Belgio
     misure: 40,5 × 26,4 × 25,3 cm (busto); 12,7 × 21,5 × 18,9 cm (base)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
@@ -356,112 +221,112 @@ object_list:
     numeri di inventario precedenti: Sc. 139 (1998-2007); Sc. 140; Sc. 125; 1998 AC Sculture 00013 (2011-2012); 98 SC ZR013 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-14"
 
   - id: 14
     autore: Domenico Guidi
-    dati anagrafici autore: Torano, Carrara, 1625 - Roma, 1701
-    titolo: Busto di Alessandro Rondinini
-    datazione: 1667 circa
+    dati anagrafici autore: Torano, Carrara, 6 giugno 1625 – Roma, 28 marzo 1701
+    titolo: Busto di Alessandro Rondinini senior
+    datazione: 1669-1675 circa
     materia e tecnica: Marmo
-    misure: 93 × 73 × 33 cm (busto); 17,5 x XX x XX cm (base)
+    misure: 93 × 73 × 33 cm (busto); 18 x 24,5 x 24,5 cm (base)
     iscrizioni, etichette, cartellini, timbri: Sulla base, non unita al busto originariamente, iscrizione in lettere capitali «pavl aemilivs / card  zacchia / anno mdxcix»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00014
     numeri di inventario precedenti: Sc. 140 (1998-2007); Sc. 142; Sc. 127; 1998 AC Sculture 00014 (2011-2012); 98 SC ZR014 (2012-2015)
     collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-15"
 
   - id: 15
-    autore: Scultore attivo a Roma / Scultore romano
+    autore: Scultore attivo a Roma
     dati anagrafici autore:
-    titolo: Busto di cardinale (Toussaint de Forbin-Janson?)
-    datazione: 1700-1715 circa 
+    titolo: Busto del cardinale Toussaint de Forbin-Janson
+    datazione: Fine del XVII secolo - inizio del XVIII secolo 
     materia e tecnica: Marmo
-    misure: 69 × 72 × 33 cm (busto); cm. XX x XX (base)
+    misure: 69 × 72 × 33 cm (busto); 25 x 20 cm (base)
     iscrizioni, etichette, cartellini, timbri: Sul retro in basso etichetta adesiva circolare con iscrizione a china «[…] / 330»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00015
     numeri di inventario precedenti: Sc. 141 (1998-2007); Sc. 154; Sc. 139; 1998 AC Sculture 00015 (2011-2012); 98 SC ZR015 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-16"
 
   - id: 16
     autore: Giovanni Francesco Arrighi
     dati anagrafici autore: Roma, 1646-1730
     titolo: Statua reliquiario di Santa Palazia
     datazione: 1726
-    materia e tecnica: Argento, rame dorato, marmo, legno 
+    materia e tecnica: Argento, rame dorato, diaspro giallo, legno
     misure: 105 × 53 × 47 cm
-    iscrizioni, etichette, cartellini, timbri: All’attaccatura della testa, punzone della Corporazione degli orafi e argentieri di Roma (due chiavi pontificie incrociate e coperte da un ombrello). Punzone camerale nascosto. Sopra il camerale, punzone dell’artefice (zampa di leone).
+    iscrizioni, etichette, cartellini, timbri: Sul collo, all’attaccatura della testa è visibile il bollo camerale della Corporazione degli Orafi e Argentieri di Roma (due chiavi pontificie incrociate coperte da un ombrello). Accanto al bollo camerale è visibile un altro marchio, che raffigura la zampa di un leone ed è stato identificato con quello dell’orafo e argentiere romano Giovanni Francesco Arrighi.
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00016
     numeri di inventario precedenti: Sc. 142 (1998-2007); Sc. 143; Sc. 128; 1998 AC Sculture 00016 (2011-2012); 98 SC ZR016 (2012-2015)
-    collocazione: Esposto - Scalone d’onore
+    collocazione: Esposto - Pianerottolo di arrivo della scala nobile
     figure:
-      - id: "cat-35"
+      - id: "cat-17"
 
   - id: 17
-    autore: Ignazio Marabitti
-    dati anagrafici autore: Palermo, 1719-1797 
+    autore: Girolamo Ticciati
+    dati anagrafici autore: Firenze, 20 febbraio 1679 - Firenze, 11 marzo 1745 
     titolo: San Paolo
-    datazione: 1757
+    datazione: 1732 circa
     materia e tecnica: Terracotta
     misure: 55 × 35 × 18 cm 
-    iscrizioni, etichette, cartellini, timbri: Nessuna
+    iscrizioni, etichette, cartellini, timbri: Sul retro, in basso, iscrizione a matita in gran parte abrasa e quindi non più leggibile
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00017
     numeri di inventario precedenti: Sc. 143 (1998-2007); Sc. 157; Sc. 142; 1998 AC Sculture 00017 (2011-2012); 98 SC ZR017 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-18"
 
   - id: 18a
     autore: Anton Francesco Andreozzi 
     dati anagrafici autore: Firenze, 1663-1731
-    titolo: Incontro di Cristo con le pie donne 
-    datazione: 1685 circa
+    titolo: Incontro di Cristo con le pie donne di Gerusalemme
+    datazione: 1685
     materia e tecnica: Terracotta invetriata
-    misure: diam. 43,5 cm x X (con cornice diam. 58 cm x 3)
+    misure: Diametro 43,5 cm; spessore 3 cm; diametro con cornice 58 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00018
     numeri di inventario precedenti: Sc. 144 (1998-2007); Sc. 129; 1998 AC Sculture 00018 (2011-2012); 98 SC ZR018 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-19"
 
   - id: 18b
     autore: Anton Francesco Andreozzi
     dati anagrafici autore: Firenze, 1663-1731
     titolo: Seconda caduta di Cristo sotto la croce
-    datazione: 1685 circa 
+    datazione: 1685
     materia e tecnica: Terracotta invetriata
-    misure: diam. 43,5 cm x X (con cornice diam. 58 cm x 3)
-    iscrizioni, etichette, cartellini, timbri: Sul retro, sul controfondo in legno, iscrizione a gessetto azzurro «GELARDINI / SOTHEBY».
-    acquisizione: Llegato Federico Zeri, 1988
+    misure: Diametro 43,5 cm; spessore 3 cm; diametro con cornice 58 cm
+    iscrizioni, etichette, cartellini, timbri: Iscrizione sul retro a gessetto azzurro «GELARDINI / SOTHEBY»
+    acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00019
     numeri di inventario precedenti: Sc. 145 (1998-2007); Sc. 130; 1998 AC Sculture 00019 (2011-2012); 98 SC ZR019 (2012-2015)
     collocazione: Non esposto 
     figure:
-      - id: "cat-35"
+      - id: "cat-19"
 
   - id: 19
     autore: Filippo Parodi
     dati anagrafici autore: Genova, 1630-1702
-    titolo: Angeli e cherubini (Bozzetto per il basamento di candeliere della cappella dell’Arca di Sant’Antonio)
+    titolo: Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova
     datazione: 1688-1689 circa
     materia e tecnica: Terracotta
-    misure: 22 × 29 × 14 cm 
+    misure: 22,5 × 20 × 14,5 cm (base di marmo 27 x 21,7 x 15,3 cm)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00020
     numeri di inventario precedenti: Sc. 146 (1998-2007); Sc. 132; Sc. 131; 1998 AC Sculture 00020 (2011-2012); 98 SC ZR020 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-20"
 
   - id: 20
     autore: Orazio Marinali
@@ -570,9 +435,9 @@ object_list:
 
   - id: 24a
     autore: Jacques Bergé
-    dati anagrafici autore: Bruxelles, 1693 (o 1696) - 16 novembre 1756
+    dati anagrafici autore: Bruxelles, 15 maggio 1693 - 16 novembre 1756
     titolo: David
-    datazione: 1738 circa
+    datazione: 1738 
     materia e tecnica: Legno di quercia
     misure: 157 × 57 × 37 cm
     iscrizioni, etichette, cartellini, timbri: Sul retro, cartellino incollato con iscrizione a penna «[S C] 502 / fiamminga / 500». Sopra altro cartellino incollato del medesimo tipo, privo di iscrizioni. Sul lembo del mantello, vicino al piede sinistro, inciso nel legno, un marchio o una lettera, forse una «[G]»
@@ -581,13 +446,13 @@ object_list:
     numeri di inventario precedenti: Sc. 154 (1998-2007); Sc. 155; Sc. 140; 1998 AC Sculture 00028 (2011-2012); 98 SC ZR028 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-25"
 
   - id: 24b
     autore: Jacques Bergé
-    dati anagrafici autore: Bruxelles, 1693 (o 1696) - 16 novembre 1756
-    titolo: Sibilla / Betsabea
-    datazione: 1738 circa
+    dati anagrafici autore: Bruxelles, 15 maggio 1693 - 16 novembre 1756
+    titolo: Betsabea o Sibilla
+    datazione: 1738 
     materia e tecnica: Legno di quercia
     misure: 160 × 60 × 40 cm
     iscrizioni, etichette, cartellini, timbri: Sul cartiglio che la figura tiene nella mano sinistra, inciso nel legno, iscrizione in lettere capitali «DELICTUM / MEUM / COGNITUM / TIBI FECI». Sul retro, a destra, in basso, cartellino incollato con iscrizione a penna «[VC] 6503 / Sc. fiamminga / 1500». Sempre sul retro, in alto a sinistra, altro cartellino incollato del medesimo tipo, con una iscrizione a penna non facilmente leggibile «185 / […]»
@@ -596,22 +461,22 @@ object_list:
     numeri di inventario precedenti: Sc. 155 (1998-2007); Sc. 156; Sc. 141; 1998 AC Sculture 00029 (2011-2012); 98 SC ZR029 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-25"
 
   - id: 25
     autore: Innocenzo Spinazzi
-    dati anagrafici autore: Roma, 1718 - Firenze, 1798
-    titolo: Ritratto di Georges Nassau III Earl of Cowper
+    dati anagrafici autore: Roma, 18 luglio 1726 - Firenze, 19 novembre 1798
+    titolo: Ritratto di Georges Nassau Clevering III Earl of Cowper
     datazione: 1787
     materia e tecnica: Marmo
     misure: 62 x 60 x 31,5 cm (busto) XX × XX × XX cm (base)
-    iscrizioni, etichette, cartellini, timbri: Sul retro, iscrizione in lettere capitali incisa nel marmo con firma e data «Innoc.o Spinazzi Rom.o fac.o  / in Firenze 1787». Sul retro, a destra, Iscrizione a pennello nera «123».
+    iscrizioni, etichette, cartellini, timbri: Sul retro, iscrizione in lettere capitali incisa nel marmo con firma e data «Innoc(ENZ)o Spinazzi Rom(AN)o fac(EV)o  / in Firenze 1787». Sul retro, a destra, iscrizione a pennello nera «123».
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00030
     numeri di inventario precedenti: Sc. 156 (1998-2007); Sc. 164; Sc. 149; 1998 AC Sculture 00030 (2011-2012); 98 SC ZR030 (2012-2015)
-    collocazione: Non esposto
+    collocazione: Esposto - Sala 6
     figure:
-      - id: "cat-35"
+      - id: "cat-26"
 
   - id: 26a
     autore: Tommaso Righi
@@ -704,22 +569,22 @@ object_list:
       - id: "cat-35"
 
   - id: 28
-    autore: Filippo Tagliolini?
-    dati anagrafici autore: Cascia, 1745 - Napoli, 1808
+    autore: Filippo Tagliolini
+    dati anagrafici autore: Fogliano di Cascia, 29 dicembre 1745 - Napoli, 1808
     titolo: Ercole nel giardino delle Esperidi
     datazione: 1780-1800 circa
     materia e tecnica: Biscuit
     misure: 48 × 46 × 40 cm
-    iscrizioni, etichette, cartellini, timbri: Sul retro, all’interno di un ovale retto da una figura maschile, iscrizione incisa in lettere capitali «Ercoles ad experides / perventus / Dragone custode inte= / rempto / aureaq. poma eduxit».
+    iscrizioni, etichette, cartellini, timbri: Sul retro, all’interno di un ovale retto da una figura maschile, iscrizione incisa in lettere capitali «ERCOLES AD EXPERIDES / PERVENTUS / DRAGONE CUSTODE INTE/REMPTO / AUREAQ(UE). POMA EDUXIT».
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00037
     numeri di inventario precedenti: Sc. 163 (1998-2007); Sc. 168; Sc. 153; 1998 AC Sculture 00037 (2011-2012); 98 SC ZR037 (2012-2015).
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-29"
 
   - id: 29
-    autore: Joseph Chinard (?) / Bartolomeo Cavaceppi (?)
+    autore: Bartolomeo Cavaceppi
     dati anagrafici autore: 
     titolo: Venere di Roma
     datazione: 1780-1800 circa
@@ -731,7 +596,7 @@ object_list:
     numeri di inventario precedenti: Sc. 164 (1998-2007); Sc. 165; Sc. 150; 1998 AC Sculture 00038 (2011-2012); 98 SC ZR038 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-30"
 
   - id: 30
     autore: Camillo Pacetti
@@ -749,19 +614,19 @@ object_list:
       - id: "cat-35"
 
   - id: 31
-    autore: Giovanni Trevisan detto Giovanni Volpato
+    autore: Manifattura di Giovanni Volpato (da modelli di Christopher Hewetson)
     dati anagrafici autore: Bassano, 1735 - Roma, 1803
-    titolo: Doppia erma con i ritratti di Anton Raphael Mengs e José Nicolas de Azara
-    datazione: 1785-1796 circa
+    titolo: Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara
+    datazione: dopo il 1785
     materia e tecnica: Biscuit di porcellana 
-    misure: 28,1 × 19 × 14,2 cm
-    iscrizioni, etichette, cartellini, timbri: Ai piedi dei due busti, in basso, iscrizione incisa in lettere capitali «j.n. de. azara», «a.r. mengs». Su un fianco del busto, iscrizione a stampo «G. Volpato Roma». 
+    misure: 28,1 × 17 × 14 cm
+    iscrizioni, etichette, cartellini, timbri: Su un fianco del piedestallo stampo «G. Volpato Roma»; al piede delle due effigi «J. N. De. Azara.» e «A. R. Mengs.»
     acquisizione: Legato Federico Zeri, 1988  
     numero di inventario: Inv. n. 98 ZR 00041
-    numeri di inventario precedenti: Sc. 167 (1998-2007); Sc. 166; Sc. 151; 1998 AC Sculture 00041 (2011-2012); 98 SC ZR041 (2012-2015)
-    collocazione: Esposto - Sala 6
+    numeri di inventario precedenti: Sc. 167 (1998-2007); Sc. 166; Sc. 151; 1998 AC Sculture 00041 (2011-2012); 98 SC ZR041 (2012-2014)
+    collocazione: Esposto - Sala 6 (teca all’ingresso)
     figure:
-      - id: "cat-35"
+      - id: "cat-32"
 
   - id: 32
     autore: Bartolomeo Cavaceppi
@@ -779,10 +644,10 @@ object_list:
       - id: "cat-35"
 
   - id: 33
-    autore: Scultore italiano della prima metà dell’Ottocento 
-    dati anagrafici autore: 
+    autore: Scultore italiano di primo Ottocento
+    dati anagrafici autore: Lombardia (?), prima metà del XIX secolo
     titolo: Busto di donna con pelliccia
-    datazione: 1800-1820 circa
+    datazione: 1800-1830 circa
     materia e tecnica: Terracotta
     misure: 70 × 77 × 36 cm (busto); 18,5 x 25 x 23 (base)
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -791,22 +656,7 @@ object_list:
     numeri di inventario precedenti: Sc. 169 (1998-2007); Sc. 171; Sc. 156; 1998 AC Sculture 00043 (2011-2012); 98 SC ZR043 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
-
-  - id: 34
-    autore: 
-    dati anagrafici autore: 
-    titolo: 
-    datazione: 
-    materia e tecnica: 
-    misure: 
-    iscrizioni, etichette, cartellini, timbri: 
-    acquisizione: 
-    numero di inventario: 
-    numeri di inventario precedenti: 
-    collocazione: 
-    figure:
-      - id: "cat-35"
+      - id: "cat-34"
 
   - id: 35
     autore: Tito Sarrocchi, nella bottega di Giovanni Dupré
@@ -843,7 +693,7 @@ object_list:
     numeri di inventario precedenti: Sc. 171 (1998-2007); Sc. 173; Sc. 158; 1998 AC Sculture 00045 (2011-2012); 98 SC ZR045 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
-      - id: "cat-35"
+      - id: "cat-36"
 
   - id: 35b
     autore: Randolph Rogers
@@ -858,5 +708,5 @@ object_list:
     numeri di inventario precedenti: Sc. 172 (1998-2007); Sc. 174; Sc. 159; 1998 AC Sculture 00046 (2011-2012); 98 SC ZR046 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
-      - id: "cat-35"
-
+      - id: "cat-36"
+  
