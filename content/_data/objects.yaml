@@ -341,7 +341,7 @@ object_list:
     numeri di inventario precedenti: Sc. 147 (1998-2007); Sc. 132; 1998 AC Sculture 00021; (2011-2012); 98 SC ZR021 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-21"
 
   - id: 21a
     autore: Giusto Le Court
@@ -356,7 +356,7 @@ object_list:
     numeri di inventario precedenti: Sc. 148 (1998-2007); Sc. 133; 1998 AC Sculture 00022 (2011-2012); 98 SC ZR022 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-22"
 
   - id: 21b
     autore: Giusto Le Court
@@ -371,7 +371,7 @@ object_list:
     numeri di inventario precedenti: Sc. 149 (1998-2007); Sc. 134; 1998 AC Sculture 00023 (2011-2012); 98 SC ZR023 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-22"
 
   - id: 22a
     autore: Giusto Le Court
@@ -386,7 +386,7 @@ object_list:
     numeri di inventario precedenti: Sc. 150 (1998-2007); Sc. 135; 1998 AC Sculture 00024 (2011-2012); 98 SC ZR024 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-23"
 
   - id: 22b
     autore: Giusto Le Court
@@ -401,7 +401,7 @@ object_list:
     numeri di inventario precedenti: Sc. 151 (1998-2007); Sc. 136; 1998 AC Sculture 00025 (2011-2012); 98 SC ZR025 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-23"
 
   - id: 23a
     autore: Giovanni Bonazza
@@ -416,7 +416,7 @@ object_list:
     numeri di inventario precedenti: Sc. 152 (1998-2007); Sc. 137; 1998 AC Sculture 00026 (2011-2012); 98 SC ZR026 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-24"
 
   - id: 23b
     autore: Giovanni Bonazza 
@@ -431,7 +431,7 @@ object_list:
     numeri di inventario precedenti: Sc. 153 (1998-2007); Sc. 138; 1998 AC Sculture 00027 (2011-2012); 98 SC ZR027 (2012-2015)
     collocazione: Esposto - Sala 13
     figure:
-      - id: "cat-35"
+      - id: "cat-24"
 
   - id: 24a
     autore: Jacques Bergé
@@ -491,7 +491,7 @@ object_list:
     numeri di inventario precedenti: Sc. 157 (1998-2007); Sc. 158; Sc. 143; 1998 AC Sculture 00031 (2011-2012); 98 SC ZR031 (2012-2015).
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-27"
 
   - id: 26b
     autore: Tommaso Righi
@@ -506,7 +506,7 @@ object_list:
     numeri di inventario precedenti: Sc. 158 (1998-2007); Sc. 159; Sc. 144; 1998 AC Sculture 00032 (2011-2012); 98 SC ZR032 (2012-2015).
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-27"
 
   - id: 26c
     autore: Tommaso Righi
@@ -521,7 +521,7 @@ object_list:
     numeri di inventario precedenti: Sc. 159 (1998-2007); Sc. 160; Sc. 145; 1998 AC Sculture 00033 (2011-2012); 98 SC ZR033 (2012-2015).
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-27"
 
   - id: 26d
     autore: Tommaso Righi
@@ -536,7 +536,7 @@ object_list:
     numeri di inventario precedenti: Sc. 160 (1998-2007); Sc. 161; Sc. 146; 1998 AC Sculture 00034 (2011-2012); 98 SC ZR034 (2012-2015).
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-27"
 
   - id: 27a
     autore: Francesco Celebrano
@@ -551,7 +551,7 @@ object_list:
     numeri di inventario precedenti: Sc. 161 (1998-2007); Sc. 162; Sc. 147; 1998 AC Sculture 00035 (2011-2012); 98 SC ZR035 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-28"
 
   - id: 27b
     autore: Francesco Celebrano
@@ -566,7 +566,7 @@ object_list:
     numeri di inventario precedenti: Sc. 162 (1998-2007); Sc. 163; Sc. 148; 1998 AC Sculture 00036 (2011-2012); 98 SC ZR036 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-28"
 
   - id: 28
     autore: Filippo Tagliolini
@@ -611,7 +611,7 @@ object_list:
     numeri di inventario precedenti: Sc. 165 (1998-2007); Sc. 169; Sc. 154; 1998 AC Sculture 00039 (2011-2012); 98 SC ZR039 (2012-2015)
     collocazione: Non esposto
     figure:
-      - id: "cat-35"
+      - id: "cat-31"
 
   - id: 31
     autore: Manifattura di Giovanni Volpato (da modelli di Christopher Hewetson)
@@ -641,7 +641,7 @@ object_list:
     numeri di inventario precedenti: Sc. 168 (1998-2007); Sc. 167; Sc. 152; 1998 AC Sculture 00042 (2011-2012); 98 SC ZR042 (2012-2015)
     collocazione: Esposto - Scala nobile
     figure:
-      - id: "cat-35"
+      - id: "cat-33"
 
   - id: 33
     autore: Scultore italiano di primo Ottocento
