@@ -2702,41 +2702,6 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/951ad34d-141e-411e-8657-918d69e2b806/canvas/edb47530-b988-4b55-8c3b-a659ece55765
     zoom: true
 
-  - id: "cat-21_6"
-    src: figures/21_6.jpg
-    caption: "Fig. 6 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
-    zoom: true
-
-  - id: "cat-21_7"
-    src: figures/21_7.jpg
-    caption: "Fig. 7 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (retro)"
-    zoom: true
-
-  - id: "cat-21_8"
-    src: figures/21_8.jpg
-    caption: "Fig. 8 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
-    zoom: true
-
-  - id: "cat-21_9"
-    src: figures/21_9.jpg
-    caption: "Fig. 9 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
-    zoom: true
-
-  - id: "cat-21_10"
-    src: figures/21_10.jpg
-    caption: "Fig. 10 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
-    zoom: true
-
-  - id: "cat-21_11"
-    src: figures/21_11.jpg
-    caption: "Fig. 11 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare del retro)"
-    zoom: true
-
-  - id: "cat-21_12"
-    src: figures/21_12.jpg
-    caption: "Fig. 12 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
-    zoom: true
-
   - id: "cat-22"
     src: figures/22.jpg
     caption: "Giusto Le Court, *Profilo di vecchio*, *Profilo di vecchia*, 1670 circa"
@@ -2758,46 +2723,6 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d66a731c-67e1-4748-b9bb-33d3e5cb48f0/canvas/c163552e-349e-473c-9615-c23eeb2e0200
     zoom: true
 
-  - id: "cat-22_3"
-    src: figures/22_3.jpg
-    caption: "Fig. 3 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_4"
-    src: figures/22_4.jpg
-    caption: "Fig. 4 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_5"
-    src: figures/22_5.jpg
-    caption: "Fig. 5 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_6"
-    src: figures/22_6.jpg
-    caption: "Fig. 6 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_7"
-    src: figures/22_7.jpg
-    caption: "Fig. 7 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_8"
-    src: figures/22_8.jpg
-    caption: "Fig. 8 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_9"
-    src: figures/22_9.jpg
-    caption: "Fig. 9 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-22_10"
-    src: figures/22_10.jpg
-    caption: "Fig. 10 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
-    zoom: true
-
   - id: "cat-23"
     src: figures/23.jpg
     caption: "Giusto Le Court, *Profilo di giovane uomo*, *Profilo di giovane donna*, 1670 circa"
@@ -2817,56 +2742,6 @@ figure_list:
     caption: "Fig. 2 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2685ba2-991d-4c71-8aac-5dfd66c30752/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2685ba2-991d-4c71-8aac-5dfd66c30752/canvas/31cad342-f9e5-4dae-8b0f-fbb1aea90844
-    zoom: true
-
-  - id: "cat-23_3"
-    src: figures/23_3.jpg
-    caption: "Fig. 3 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_4"
-    src: figures/23_4.jpg
-    caption: "Fig. 4 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_5"
-    src: figures/23_5.jpg
-    caption: "Fig. 5 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_6"
-    src: figures/23_6.jpg
-    caption: "Fig. 6 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_7"
-    src: figures/23_7.jpg
-    caption: "Fig. 7 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_8"
-    src: figures/23_8.jpg
-    caption: "Fig. 8 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_9"
-    src: figures/23_9.jpg
-    caption: "Fig. 9 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_10"
-    src: figures/23_10.jpg
-    caption: "Fig. 10 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_11"
-    src: figures/23_11.jpg
-    caption: "Fig. 11 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
-    zoom: true
-
-  - id: "cat-23_12"
-    src: figures/23_12.jpg
-    caption: "Fig. 12 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
     zoom: true
 
   - id: "cat-24"
@@ -2902,66 +2777,6 @@ figure_list:
     caption: "Fig. 4 – Giovanni Bonazza, *Profilo di San Giovanni Evangelista*, 1680-1685 circa, Osimo (Ancona), Collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45a3006f-bcd4-4ca3-86ce-b91d3f9b7a1d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45a3006f-bcd4-4ca3-86ce-b91d3f9b7a1d/canvas/b85b848a-9550-4de3-8cc4-fb5d36250841
-    zoom: true
-
-  - id: "cat-24_5"
-    src: figures/24_5.jpg
-    caption: "Fig. 5 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa"
-    zoom: true
-
-  - id: "cat-24_6"
-    src: figures/24_6.jpg
-    caption: "Fig. 6 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa"
-    zoom: true
-
-  - id: "cat-24_7"
-    src: figures/24_7.jpg
-    caption: "Fig. 7 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_8"
-    src: figures/24_8.jpg
-    caption: "Fig. 8 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_9"
-    src: figures/24_9.jpg
-    caption: "Fig. 9 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_10"
-    src: figures/24_10.jpg
-    caption: "Fig. 10 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_11"
-    src: figures/24_11.jpg
-    caption: "Fig. 11 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_12"
-    src: figures/24_12.jpg
-    caption: "Fig. 12 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_13"
-    src: figures/24_13.jpg
-    caption: "Fig. 13 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_14"
-    src: figures/24_14.jpg
-    caption: "Fig. 14 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_15"
-    src: figures/24_15.jpg
-    caption: "Fig. 15 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
-    zoom: true
-
-  - id: "cat-24_16"
-    src: figures/24_16.jpg
-    caption: "Fig. 16 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
     zoom: true
 
   - id: "cat-25"
@@ -4180,41 +3995,6 @@ figure_list:
     caption: "Fig. 7 – Bartolomeo Cavaceppi, *Busto di Tiberio nelle vesti di Eracle*, 1788, marmo, Wörlitz, Wörlitz Palace"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c0e792e-51e0-4b65-8a86-e1e1cf636eb6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c0e792e-51e0-4b65-8a86-e1e1cf636eb6/canvas/e8daac07-857f-46ed-95c8-2953b3194cac
-    zoom: true
-
-  - id: "cat-33_8"
-    src: figures/33_8.jpg
-    caption: "Fig. 8 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
-    zoom: true
-
-  - id: "cat-33_9"
-    src: figures/33_9.jpg
-    caption: "Fig. 9 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
-    zoom: true
-
-  - id: "cat-33_10"
-    src: figures/33_10.jpg
-    caption: "Fig. 10 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare del retro)"
-    zoom: true
-
-  - id: "cat-33_11"
-    src: figures/33_11.jpg
-    caption: "Fig. 11 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
-    zoom: true
-
-  - id: "cat-33_12"
-    src: figures/33_12.jpg
-    caption: "Fig. 12 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
-    zoom: true
-
-  - id: "cat-33_13"
-    src: figures/33_13.jpg
-    caption: "Fig. 13 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
-    zoom: true
-
-  - id: "cat-33_14"
-    src: figures/33_14.jpg
-    caption: "Fig. 14 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (retro)"
     zoom: true
 
   - id: "cat-34"
