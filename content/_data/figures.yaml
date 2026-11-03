@@ -84,6 +84,48 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/15d1773e-3a1f-4a36-82a8-c3909a4eb720/canvas/2b9934ce-6165-4e68-ac48-05f4b3341086
     zoom: true
 
+  - id: "cat-1_13"
+    src: figures/1_13.jpg
+    caption: "Fig. 13 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/27a760a8-7018-4398-a423-4e689f36253f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/27a760a8-7018-4398-a423-4e689f36253f/canvas/1eb36200-9cd3-4d7d-b861-a5aeb8ee6fd2
+    zoom: true
+
+  - id: "cat-1_14"
+    src: figures/1_14.jpg
+    caption: "Fig. 14 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5fb72165-18e1-456d-9b82-acfc7a373ca1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5fb72165-18e1-456d-9b82-acfc7a373ca1/canvas/d3cd9fce-dbb0-4f0a-b225-17358bf09e22
+    zoom: true
+
+  - id: "cat-1_15"
+    src: figures/1_15.jpg
+    caption: "Fig. 15 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/02722af7-8b7c-4dc9-a677-7b3ed417013c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/02722af7-8b7c-4dc9-a677-7b3ed417013c/canvas/38940b51-9daf-4a76-a234-8ece67e10460
+    zoom: true
+
+  - id: "cat-1_16"
+    src: figures/1_16.jpg
+    caption: "Fig. 16 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8f180fd-dbc8-4d4c-b7b6-781fb3015996/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8f180fd-dbc8-4d4c-b7b6-781fb3015996/canvas/1102bf52-350f-4921-a017-d1ff36ee3484
+    zoom: true
+
+  - id: "cat-1_17"
+    src: figures/1_17.jpg
+    caption: "Fig. 17 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/79c4c4a2-c9d7-461b-b574-75790dc97c13/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/79c4c4a2-c9d7-461b-b574-75790dc97c13/canvas/afbc0895-3a9f-45cb-9558-6a793fb1b230
+    zoom: true
+
+  - id: "cat-1_18"
+    src: figures/1_18.jpg
+    caption: "Fig. 18 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d288315a-b44a-481d-89a8-d0a5296d319f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d288315a-b44a-481d-89a8-d0a5296d319f/canvas/5ef46928-4be9-4c74-bb02-f20ee3423363
+    zoom: true
+
   - id: "cat-2"
     src: figures/2.jpg
     caption: "Scultore lombardo (o veneto?), *Ritratto d'uomo*, ultimo quarto del XV secolo (?), Collezione Zeri, Accademia Carrara, Bergamo"
@@ -595,6 +637,20 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/87906d75-b10a-41a7-8d73-04e494ea6f52
     zoom: true
 
+  - id: "cat-5_9"
+    src: figures/5_9.jpg
+    caption: "Fig. 9 – Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/canvas/d52b2a96-4262-49e6-9182-788ddc0dc2ef
+    zoom: true
+
+  - id: "cat-5_10"
+    src: figures/5_10.jpg
+    caption: "Fig. 10 – Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc38e689-9e2f-4482-868f-77b444719de3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc38e689-9e2f-4482-868f-77b444719de3/canvas/0319d8c9-25e4-4c13-9d6c-f329f0800866
+    zoom: true
+
   - id: "cat-6"
     src: figures/6.jpg
     caption: "Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -870,14 +926,14 @@ figure_list:
 
   - id: "cat-8_6"
     src: figures/8_6.jpg
-    caption: "Fig. 6 – Paolo Sanquirico, Medaglia di Paolo V (facciata della Basilica di San Pietro), 1608, Londra, British Museum"
+    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V* (facciata della Basilica di San Pietro), 1608, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/canvas/d04274e7-ecea-48c6-925e-850a9498e99d
     zoom: true
 
   - id: "cat-8_7"
     src: figures/8_7.jpg
-    caption: "Fig. 7 – Paolo Sanquirico, Medagli di Paolo V, 1609 (fortezza di Ferrara), Londra, British Museum"
+    caption: "Fig. 7 – Paolo Sanquirico, *Medagli di Paolo V*, 1609 (fortezza di Ferrara), Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/canvas/080bd7b0-15cc-4d60-9ab3-a589c0927728
     zoom: true
@@ -891,7 +947,7 @@ figure_list:
 
   - id: "cat-8_9"
     src: figures/8_9.jpg
-    caption: "Fig. 9 – Sebastiano Sebastiani, statua in bronzo di Paolo V, Rimini, Piazza Cavour"
+    caption: "Fig. 9 – Sebastiano Sebastiani, *statua in bronzo di Paolo V*, Rimini, Piazza Cavour"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c12253f-ee62-4518-8ed5-958c51cb0976/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c12253f-ee62-4518-8ed5-958c51cb0976/canvas/895e8b17-b6b5-41fc-b907-20376240affa
     zoom: true
@@ -919,7 +975,7 @@ figure_list:
 
   - id: "cat-8_13"
     src: figures/8_13.jpg
-    caption: "Fig. 13 – Nicolas Cordier, Ritratto di Lesa Deti Aldobrandini scolpito per il suo monumento funebre, Roma, Santa Maria sopra Minerva"
+    caption: "Fig. 13 – Nicolas Cordier, *Ritratto di Lesa Deti Aldobrandini* scolpito per il suo monumento funebre, Roma, Santa Maria sopra Minerva"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/56f61e11-430a-4f69-a8f5-ab9a2933c0e4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/56f61e11-430a-4f69-a8f5-ab9a2933c0e4/canvas/79308e9b-53a7-4686-8cb3-123a5ab83785
     zoom: true
@@ -1003,7 +1059,7 @@ figure_list:
 
   - id: "cat-9_2"
     src: figures/9_2.jpg
-    caption: "Fig. 2 - Pietro Bernini, Flora (Erma allegorica), New York, Metropolitan Museum of Art"
+    caption: "Fig. 2 - Pietro Bernini, *Flora* (Erma allegorica), New York, Metropolitan Museum of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/793c89f1-552c-4f29-a453-33042ec3648f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/793c89f1-552c-4f29-a453-33042ec3648f/canvas/25eee8db-187f-4eb5-a87b-9225e69fb9e3
     zoom: true
@@ -1108,21 +1164,21 @@ figure_list:
 
   - id: "cat-10_1"
     src: figures/10_1.jpg
-    caption: "Fig. 1- Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 1 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3fd171-6cc6-4004-8bcd-908ec26296ca/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3fd171-6cc6-4004-8bcd-908ec26296ca/canvas/03068412-bea5-45de-bfc1-bdfe0e5ba02d
     zoom: true
 
   - id: "cat-10_2"
     src: figures/10_2.jpg
-    caption: "Fig. 2- Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 2 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12d754cc-95da-4c43-bcb9-d5b4d0459a81/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12d754cc-95da-4c43-bcb9-d5b4d0459a81/canvas/f7ac6cf5-113c-40a2-869f-1ad6af0bfd38
     zoom: true
 
   - id: "cat-10_3"
     src: figures/10_3.jpg
-    caption: "Fig. 3- Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 3 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1543bb18-ab5c-44cc-bc8c-bc89c6d90c34/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1543bb18-ab5c-44cc-bc8c-bc89c6d90c34/canvas/946db2f0-9d27-42fb-a406-cba7ba451a53
     zoom: true
@@ -1150,7 +1206,7 @@ figure_list:
 
   - id: "cat-10_7"
     src: figures/10_7.jpg
-    caption: "Fig. 7- Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare)"
+    caption: "Fig. 7 - Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a959ec-0c49-4601-bb1f-5360201ec490/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a959ec-0c49-4601-bb1f-5360201ec490/canvas/982db771-037a-4d56-8a5e-971c2d4a2843
     zoom: true
@@ -1304,14 +1360,14 @@ figure_list:
 
   - id: "cat-11_16"
     src: figures/11_16.jpg
-    caption: "Fig. 16 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da Antonia Nava Cellini, *Duquesnoy e Poussin: nuovi contributi*, in “Paragone”, XVII, 195, 1966, tav. 29)"
+    caption: "Fig. 16 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da Antonia Nava Cellini, *Duquesnoy e Poussin - nuovi contributi*, in “Paragone”, XVII, 195, 1966, tav. 29)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ebae4fb-71a8-4739-8fb6-8b926e470549/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ebae4fb-71a8-4739-8fb6-8b926e470549/canvas/79ac52df-c101-49c3-b4cf-3c1859bef9b7
     zoom: true
 
   - id: "cat-11_17"
     src: figures/11_17.jpg
-    caption: "Fig. 17 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da A. Bacchi, in *Il conoscitore d’arte: Sculture dal XV al XIX secolo della collezione di Federico Zeri*, catalogo della mostra, Milano, Electa, 1989, p. 35 cat. n. 10b)"
+    caption: "Fig. 17 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da A. Bacchi, in *Il conoscitore d’arte - Sculture dal XV al XIX secolo della collezione di Federico Zeri*, catalogo della mostra, Milano, Electa, 1989, p. 35 cat. n. 10b)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b5b3db9-2e08-4a35-94c3-caba78ad875b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b5b3db9-2e08-4a35-94c3-caba78ad875b/canvas/4422ef6a-0a97-494b-a96e-f072a9055b0d
     zoom: true
@@ -1540,6 +1596,76 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7595f45e-8ec0-46a6-98c6-6e21230d3614/canvas/0a43f2e3-bfa8-4ed9-b5c8-5464b9096a38
     zoom: true
 
+  - id: "cat-13_6"
+    src: figures/13_6.jpg
+    caption: "Fig. 6 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1d19f4b0-1641-4160-b2e9-45b6164e3958/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1d19f4b0-1641-4160-b2e9-45b6164e3958/canvas/df17cb66-5e7b-4980-afd6-8c1c32e66be0
+    zoom: true
+
+  - id: "cat-13_7"
+    src: figures/13_7.jpg
+    caption: "Fig. 7 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/78da72e0-4174-4392-b7cf-f82de3a2ac44/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/78da72e0-4174-4392-b7cf-f82de3a2ac44/canvas/77578e59-4431-441b-b4b0-0d0f090fb931
+    zoom: true
+
+  - id: "cat-13_8"
+    src: figures/13_8.jpg
+    caption: "Fig. 8 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e6f9c8db-959c-4693-b390-beda920189c6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e6f9c8db-959c-4693-b390-beda920189c6/canvas/6246283e-23a4-457b-af35-c861131c914c
+    zoom: true
+
+  - id: "cat-13_9"
+    src: figures/13_9.jpg
+    caption: "Fig. 9 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd10170a-9194-4b67-be89-733ba88fec63/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd10170a-9194-4b67-be89-733ba88fec63/canvas/8897d685-7d71-4a87-a47e-9ad326fb936b
+    zoom: true
+
+  - id: "cat-13_10"
+    src: figures/13_10.jpg
+    caption: "Fig. 10 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7551fdf6-c2db-4d0f-8e56-5e8b3e149598/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7551fdf6-c2db-4d0f-8e56-5e8b3e149598/canvas/ada6efcb-aaa4-4cc3-af22-24698285aa14
+    zoom: true
+
+  - id: "cat-13_11"
+    src: figures/13_11.jpg
+    caption: "Fig. 11 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d4033ca-7fee-4670-a086-403fdb757b93/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d4033ca-7fee-4670-a086-403fdb757b93/canvas/329fa351-cbca-41e9-a625-46f5f9d423e3
+    zoom: true
+
+  - id: "cat-13_12"
+    src: figures/13_12.jpg
+    caption: "Fig. 12 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3c71802c-7bf6-4f2a-b913-c6f24cc62bd8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3c71802c-7bf6-4f2a-b913-c6f24cc62bd8/canvas/ca371ab1-a5eb-4c62-9f7a-9ce5730c8ada
+    zoom: true
+
+  - id: "cat-13_13"
+    src: figures/13_13.jpg
+    caption: "Fig. 13 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a243f8f9-a88c-4dea-b9f5-2d3bf3d81921/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a243f8f9-a88c-4dea-b9f5-2d3bf3d81921/canvas/b60e49b3-75ce-443c-93b3-2e4ad81021bd
+    zoom: true
+
+  - id: "cat-13_14"
+    src: figures/13_14.jpg
+    caption: "Fig. 14 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b008298-1d46-48d5-ba1a-d49960d28497/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b008298-1d46-48d5-ba1a-d49960d28497/canvas/c8d23860-7957-44b8-97d1-9402c3e6a72d
+    zoom: true
+
+  - id: "cat-13_15"
+    src: figures/13_15.jpg
+    caption: "Fig. 15 – Scultore attivo a Roma, *Santa Martina (?)*, 1634-1650 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/efe5477e-8a91-473d-bfee-886ade436046/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/efe5477e-8a91-473d-bfee-886ade436046/canvas/f0dd5fda-bb71-4f1b-b22b-3a9291e7c339
+    zoom: true
+
   - id: "cat-14"
     src: figures/14.jpg
     caption: "Scultore attivo a Roma, *Testa di Socrate*, prima metà XVII sec, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1598,7 +1724,7 @@ figure_list:
 
   - id: "cat-14_8"
     src: figures/14_8.jpg
-    caption: "Fig. 8 - Testa di Sileno, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher)"
+    caption: "Fig. 8 - *Testa di Sileno*, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd499a12-0fbf-4f0f-9202-06f886519a0d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd499a12-0fbf-4f0f-9202-06f886519a0d/canvas/a40b55c0-79cc-4371-8042-4047885689da
     zoom: true
@@ -2228,7 +2354,7 @@ figure_list:
 
   - id: "cat-19_17"
     src: figures/19_17.jpg
-    caption: "Fig. 17, Anton Francesco Andreozzi, *Sant’Andrea Avellino*, 1690, Firenze, Chiesa dei Santi Michele e Gaetano"
+    caption: "Fig. 17 – Anton Francesco Andreozzi, *Sant’Andrea Avellino*, 1690, Firenze, Chiesa dei Santi Michele e Gaetano"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06c77f1c-bd45-44bf-b5a9-4727ae4c6cfc/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06c77f1c-bd45-44bf-b5a9-4727ae4c6cfc/canvas/73ca2781-b253-4ed3-8b2f-6d92dc22697e
     zoom: true
@@ -2534,6 +2660,125 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c40f78d-7114-46a7-a0c8-b0caf2503701/canvas/d54cfe2a-e230-4a47-8e05-d53460ac90c7
     zoom: true
 
+  - id: "cat-21"
+    src: figures/21.jpg
+    caption: "Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/99e3d61e-ef42-4033-97ac-fdcb8419c27d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/99e3d61e-ef42-4033-97ac-fdcb8419c27d/canvas/d628d837-c998-467e-a952-1ea55b555aa0
+    zoom: true
+
+  - id: "cat-21_1"
+    src: figures/21_1.jpg
+    caption: "Fig. 1 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b473b8e2-6576-46d3-b3a8-1224edcba7cb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b473b8e2-6576-46d3-b3a8-1224edcba7cb/canvas/a36ef818-172b-4e19-8528-32995ceea235
+    zoom: true
+
+  - id: "cat-21_2"
+    src: figures/21_2.jpg
+    caption: "Fig. 2 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6e08f5e4-d60c-4db8-9c1a-593309f01768/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6e08f5e4-d60c-4db8-9c1a-593309f01768/canvas/7da24a6f-e136-46e0-86d6-2b688659094a
+    zoom: true
+
+  - id: "cat-21_3"
+    src: figures/21_3.jpg
+    caption: "Fig. 3 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39fad55c-0b6e-420d-970a-912fee1a4533/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/39fad55c-0b6e-420d-970a-912fee1a4533/canvas/eab38506-8e78-49b6-bdfa-5dbcd5c56b03
+    zoom: true
+
+  - id: "cat-21_4"
+    src: figures/21_4.jpg
+    caption: "Fig. 4 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c319997c-3fce-4b2e-a85f-ff30d5275d7b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c319997c-3fce-4b2e-a85f-ff30d5275d7b/canvas/2218515d-b354-4266-b4cd-d72213b524c1
+    zoom: true
+
+  - id: "cat-21_5"
+    src: figures/21_5.jpg
+    caption: "Fig. 5 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/951ad34d-141e-411e-8657-918d69e2b806/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/951ad34d-141e-411e-8657-918d69e2b806/canvas/edb47530-b988-4b55-8c3b-a659ece55765
+    zoom: true
+
+  - id: "cat-22"
+    src: figures/22.jpg
+    caption: "Giusto Le Court, *Profilo di vecchio*, *Profilo di vecchia*, 1670 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d17e18c5-6c62-4981-969c-615b539772a1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d17e18c5-6c62-4981-969c-615b539772a1/canvas/4e3bd94f-1811-45d3-9ffd-46b92eb92087
+    zoom: true
+
+  - id: "cat-22_1"
+    src: figures/22_1.jpg
+    caption: "Fig. 1 – Giusto Le Court, *Profilo di vecchio*, 1670 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cee7635a-0e7c-46b6-bc87-2085fafa3e71/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cee7635a-0e7c-46b6-bc87-2085fafa3e71/canvas/121031d6-0315-4751-b4fe-745f28529a1e
+    zoom: true
+
+  - id: "cat-22_2"
+    src: figures/22_2.jpg
+    caption: "Fig. 2 – Giusto Le Court, *Profilo di vecchia*, 1670 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d66a731c-67e1-4748-b9bb-33d3e5cb48f0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d66a731c-67e1-4748-b9bb-33d3e5cb48f0/canvas/c163552e-349e-473c-9615-c23eeb2e0200
+    zoom: true
+
+  - id: "cat-23"
+    src: figures/23.jpg
+    caption: "Giusto Le Court, *Profilo di giovane uomo*, *Profilo di giovane donna*, 1670 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/146f1457-7cae-42f9-a004-cafb5cea0a49/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/146f1457-7cae-42f9-a004-cafb5cea0a49/canvas/bb634a62-c4ee-4164-8329-c1fd9ac0fc7a
+    zoom: true
+
+  - id: "cat-23_1"
+    src: figures/23_1.jpg
+    caption: "Fig. 1 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3d58f2aa-3cfe-40e1-a958-3790f446f4de/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3d58f2aa-3cfe-40e1-a958-3790f446f4de/canvas/6805063f-c225-4313-94f2-08f2ebf6db56
+    zoom: true
+
+  - id: "cat-23_2"
+    src: figures/23_2.jpg
+    caption: "Fig. 2 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2685ba2-991d-4c71-8aac-5dfd66c30752/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2685ba2-991d-4c71-8aac-5dfd66c30752/canvas/31cad342-f9e5-4dae-8b0f-fbb1aea90844
+    zoom: true
+
+  - id: "cat-24"
+    src: figures/24.jpg
+    caption: "Giovanni Bonazza, *Profilo di San Luca*, *Profilo di San Marco*, 1680-1685 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/987f52d3-287b-4b7f-9a88-46a391eef9f5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/987f52d3-287b-4b7f-9a88-46a391eef9f5/canvas/351980a8-8148-4f50-b1cc-747ba9b2f5a8
+    zoom: true
+
+  - id: "cat-24_1"
+    src: figures/24_1.jpg
+    caption: "Fig. 1 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d875a8e2-372c-457d-b18a-48fa8b8daacb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d875a8e2-372c-457d-b18a-48fa8b8daacb/canvas/c4141004-dd98-4c56-a8a2-1b926de4db83
+    zoom: true
+
+  - id: "cat-24_2"
+    src: figures/24_2.jpg
+    caption: "Fig. 2 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c74eb61d-7540-4ead-87b5-2b68e7af82e8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c74eb61d-7540-4ead-87b5-2b68e7af82e8/canvas/d5dc30fa-816d-40a7-8843-d0015ccaf0c4
+    zoom: true
+
+  - id: "cat-24_3"
+    src: figures/24_3.jpg
+    caption: "Fig. 3 – Giovanni Bonazza, *Profilo di San Matteo*, 1680-1685 circa, Osimo (Ancona), Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae802f0e-e414-427b-8dff-589e67dda9ec/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae802f0e-e414-427b-8dff-589e67dda9ec/canvas/3004d53c-eca8-4f8e-bac7-a76a9031a462
+    zoom: true
+
+  - id: "cat-24_4"
+    src: figures/24_4.jpg
+    caption: "Fig. 4 – Giovanni Bonazza, *Profilo di San Giovanni Evangelista*, 1680-1685 circa, Osimo (Ancona), Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45a3006f-bcd4-4ca3-86ce-b91d3f9b7a1d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45a3006f-bcd4-4ca3-86ce-b91d3f9b7a1d/canvas/b85b848a-9550-4de3-8cc4-fb5d36250841
+    zoom: true
+
   - id: "cat-25"
     src: figures/25.jpg
     caption: "Jacques Bergé, *David*"
@@ -2578,7 +2823,7 @@ figure_list:
 
   - id: "cat-25_6"
     src: figures/25_6.jpg
-    caption: "Fig. 6 – Jacques Bergé, *Davide*, 1738, terracotta (da *Baroque paintings, sketches and sculptures for the collector: autumn exhibition 6 November-23 December 1968*, Heim Gallery, London, n. 84)"
+    caption: "Fig. 6 – Jacques Bergé, *Davide*, 1738, terracotta (da *Baroque paintings, sketches and sculptures for the collector - autumn exhibition 6 November-23 December 1968*, Heim Gallery, London, n. 84)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dbb7ade-6e82-40b9-a92f-0fcfa906154c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dbb7ade-6e82-40b9-a92f-0fcfa906154c/canvas/aefbb99c-8bce-4092-9dd3-9f8fd71e0072
     zoom: true
@@ -2611,6 +2856,69 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12817784-9dbd-425a-a376-25825892ca09/canvas/4db8378a-f873-4bba-8480-2728a0e4f16c
     zoom: true
 
+  - id: "cat-25_12"
+    src: figures/25_12.jpg
+    caption: "Fig. 12 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c7f19ee-af60-4a36-bfc0-b5c03961c41e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c7f19ee-af60-4a36-bfc0-b5c03961c41e/canvas/f97c390d-47b9-479d-bb33-454a0fa92516
+    zoom: true
+
+  - id: "cat-25_13"
+    src: figures/25_13.jpg
+    caption: "Fig. 13 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b2bbf54-4114-406c-9148-e6db88e5bb37/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b2bbf54-4114-406c-9148-e6db88e5bb37/canvas/f37797d1-830b-47ad-863c-0f29fb4c1d8b
+    zoom: true
+
+  - id: "cat-25_14"
+    src: figures/25_14.jpg
+    caption: "Fig. 14 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/742a037c-3f53-4d6c-8e18-737a3e17fbb3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/742a037c-3f53-4d6c-8e18-737a3e17fbb3/canvas/d380821f-5ff8-4edc-ba52-6dc490208405
+    zoom: true
+
+  - id: "cat-25_15"
+    src: figures/25_15.jpg
+    caption: "Fig. 15 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/88b55094-c310-481d-b922-a0b0c25a3ca4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/88b55094-c310-481d-b922-a0b0c25a3ca4/canvas/4e40886f-60ee-432e-abe6-c51d06ddc934
+    zoom: true
+
+  - id: "cat-25_16"
+    src: figures/25_16.jpg
+    caption: "Fig. 16 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b59e1cca-d6a8-4d13-bb4d-df918e6e3378/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b59e1cca-d6a8-4d13-bb4d-df918e6e3378/canvas/c7e93533-0a52-4219-a9ac-65dd2156057b
+    zoom: true
+
+  - id: "cat-25_17"
+    src: figures/25_17.jpg
+    caption: "Fig. 17 – Jacques Bergé, *Davide*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d4843f17-3a14-4296-9d0a-1dfec7eb2144/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d4843f17-3a14-4296-9d0a-1dfec7eb2144/canvas/07ae0e3c-769f-420c-9b90-1903bf929f52
+    zoom: true
+
+  - id: "cat-25_18"
+    src: figures/25_18.jpg
+    caption: "Fig. 18 – Jacques Bergé, *Betsabea o Sibilla*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bc92a25e-e066-4e9a-94d0-78125ec4ffa5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bc92a25e-e066-4e9a-94d0-78125ec4ffa5/canvas/bbf39c61-7806-4ffd-a93c-f210202cbe5a
+    zoom: true
+
+  - id: "cat-25_19"
+    src: figures/25_19.jpg
+    caption: "Fig. 19 – Jacques Bergé, *Betsabea o Sibilla*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7b1eed7f-28bf-42f7-ba88-32c0ebb437aa/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7b1eed7f-28bf-42f7-ba88-32c0ebb437aa/canvas/d5ab928e-b03b-401b-8a62-133c34c3ec55
+    zoom: true
+
+  - id: "cat-25_20"
+    src: figures/25_20.jpg
+    caption: "Fig. 20 – Jacques Bergé, *Betsabea o Sibilla*, 1738 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fdb48051-9955-4858-a598-ff2fe014f9e3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fdb48051-9955-4858-a598-ff2fe014f9e3/canvas/ff03e343-2ef8-4f09-ab05-4192cc3ecbfe
+    zoom: true
+
   - id: "cat-26"
     src: figures/26.jpg
     caption: "Fig. 1 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
@@ -2620,7 +2928,7 @@ figure_list:
 
   - id: "cat-26_1"
     src: figures/26_1.jpg
-    caption: "Fig. 1 – Innocenzo Spinazzi, Ritratto di George Nassau Clevering III Earl of Cowper, 1787"
+    caption: "Fig. 1 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/canvas/7c7831b2-ee90-4bc3-95ad-43b3d28461f2
     zoom: true
@@ -2679,6 +2987,398 @@ figure_list:
     caption: "Fig. 9 – Innocenzo Spinazzi, *Busto di George Clavering Nassau, III conte di Cowper*, 1787, Fontanellato, Fondazione Franco Maria Ricci-Labirinto della Masone"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/canvas/d251d4e7-bf15-4a24-a7d2-5cebcaf0e967
+    zoom: true
+
+  - id: "cat-26_11"
+    src: figures/26_11.jpg
+    caption: "Fig. 11 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c521ec2a-f6c1-4275-b2fa-0fc7e1d56a2b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c521ec2a-f6c1-4275-b2fa-0fc7e1d56a2b/canvas/41a43c3f-2591-422b-acba-7b5086ecd783
+    zoom: true
+
+  - id: "cat-26_12"
+    src: figures/26_12.jpg
+    caption: "Fig. 12 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/afc6a10b-3857-4432-b061-c8f820fca2c9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/afc6a10b-3857-4432-b061-c8f820fca2c9/canvas/a714279e-0c39-45aa-a7f9-a9eb82065419
+    zoom: true
+
+  - id: "cat-26_13"
+    src: figures/26_13.jpg
+    caption: "Fig. 13 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/00879e9a-97e9-4c21-b13e-5228de4d3c62/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/00879e9a-97e9-4c21-b13e-5228de4d3c62/canvas/f24aa7d5-7644-4ac1-8323-495a325a7135
+    zoom: true
+
+  - id: "cat-26_14"
+    src: figures/26_14.jpg
+    caption: "Fig. 14 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/88d28074-cf7a-43be-89b0-ee36ce52e869/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/88d28074-cf7a-43be-89b0-ee36ce52e869/canvas/5ea4632c-e79b-40f5-a62f-3bec38efad17
+    zoom: true
+
+  - id: "cat-27"
+    src: figures/27.jpg
+    caption: "Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/11c1ec7b-0350-4d48-a72e-8111da81266c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/11c1ec7b-0350-4d48-a72e-8111da81266c/canvas/fb95cfa6-a0e5-44b3-b3f1-dca3a3d5c470
+    zoom: true
+
+  - id: "cat-27_1"
+    src: figures/27_1.jpg
+    caption: "Fig. 1 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35e2b41b-4aa4-4d33-a1ef-6080664b2b76/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35e2b41b-4aa4-4d33-a1ef-6080664b2b76/canvas/6750cad6-95b8-400b-9ca7-e93da29a4379
+    zoom: true
+
+  - id: "cat-27_2"
+    src: figures/27_2.jpg
+    caption: "Fig. 2 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ff03c55e-d768-4655-a090-e187bb141547/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ff03c55e-d768-4655-a090-e187bb141547/canvas/8abc208e-65f5-45d3-8598-66171fa8a0be
+    zoom: true
+
+  - id: "cat-27_3"
+    src: figures/27_3.jpg
+    caption: "Fig. 3 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c114c442-5a71-459d-9ee0-a9abe3b4a7ca/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c114c442-5a71-459d-9ee0-a9abe3b4a7ca/canvas/5ff99bbb-45dc-410a-8dd4-eba269415e29
+    zoom: true
+
+  - id: "cat-27_4"
+    src: figures/27_4.jpg
+    caption: "Fig. 4 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/76599623-0e2f-433e-8c3a-5f61effe0439/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/76599623-0e2f-433e-8c3a-5f61effe0439/canvas/179b189f-7d6a-480b-9f35-65807f219762
+    zoom: true
+
+  - id: "cat-27_6"
+    src: figures/27_6.jpg
+    caption: "Fig. 6 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/628036a2-67ad-45e0-a5dc-b3c5280f426d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/628036a2-67ad-45e0-a5dc-b3c5280f426d/canvas/5f8371b7-6d91-47d1-807e-c3fef1b9456a
+    zoom: true
+
+  - id: "cat-27_7"
+    src: figures/27_7.jpg
+    caption: "Fig. 7 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8ae5724c-da4e-41d2-8097-9fe1e29bed50/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8ae5724c-da4e-41d2-8097-9fe1e29bed50/canvas/b993c414-3c03-4507-a4a6-dddcd312ad3f
+    zoom: true
+
+  - id: "cat-27_8"
+    src: figures/27_8.jpg
+    caption: "Fig. 8 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7380a921-7e91-4e59-ad88-0795786cbf05/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7380a921-7e91-4e59-ad88-0795786cbf05/canvas/031bafbf-d952-4833-b12f-c55fddd44030
+    zoom: true
+
+  - id: "cat-27_9"
+    src: figures/27_9.jpg
+    caption: "Fig. 9 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f336a42f-b36a-4dc7-8d75-3e173978f7e6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f336a42f-b36a-4dc7-8d75-3e173978f7e6/canvas/40b53fcb-ba2c-4c3d-abaf-3a4cfcccb73d
+    zoom: true
+
+  - id: "cat-27_10"
+    src: figures/27_10.jpg
+    caption: "Fig. 10 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06e36cb6-5a14-430d-b171-a40a7eb6d60f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/06e36cb6-5a14-430d-b171-a40a7eb6d60f/canvas/92011f45-af01-4bfc-adca-01259c08cea4
+    zoom: true
+
+  - id: "cat-27_11"
+    src: figures/27_11.jpg
+    caption: "Fig. 11 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/33971853-00e4-4622-a334-f617a4315b9c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/33971853-00e4-4622-a334-f617a4315b9c/canvas/ad5997f2-6ab4-4944-bddc-b6c1722d525d
+    zoom: true
+
+  - id: "cat-27_12"
+    src: figures/27_12.jpg
+    caption: "Fig. 12 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d949619f-f04d-4bce-a5fd-24ea9c8874da/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d949619f-f04d-4bce-a5fd-24ea9c8874da/canvas/3cd10c6d-0c6f-44d8-8c7b-c933166e60e9
+    zoom: true
+
+  - id: "cat-27_13"
+    src: figures/27_13.jpg
+    caption: "Fig. 13 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53187a18-629f-4c95-9da7-59a1e8e2063d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53187a18-629f-4c95-9da7-59a1e8e2063d/canvas/3bce9aa6-c63d-4a05-bce4-1e8ba761fcc0
+    zoom: true
+
+  - id: "cat-27_14"
+    src: figures/27_14.jpg
+    caption: "Fig. 14 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e303a453-70bb-480d-86e0-8a0e64813866/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e303a453-70bb-480d-86e0-8a0e64813866/canvas/fc346d46-378c-4ea7-b1e5-24c7853fcd88
+    zoom: true
+
+  - id: "cat-27_15"
+    src: figures/27_15.jpg
+    caption: "Fig. 15 - DA SOSTITUIRE sch27"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/894b2b7c-6ee4-4c44-a0c1-77c996412fdb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/894b2b7c-6ee4-4c44-a0c1-77c996412fdb/canvas/341ba0e1-94cd-415f-b764-e0398cc6e992
+    zoom: true
+
+  - id: "cat-27_16"
+    src: figures/27_16.jpg
+    caption: "Fig. 16 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/52d33d4f-4ff6-4e12-bfdf-775cee52a4ad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/52d33d4f-4ff6-4e12-bfdf-775cee52a4ad/canvas/3635db12-1758-4e0c-9218-46a5fdeea53f
+    zoom: true
+
+  - id: "cat-27_17"
+    src: figures/27_17.jpg
+    caption: "Fig. 17 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cf242c09-efa9-4030-95a9-427e937c63a5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cf242c09-efa9-4030-95a9-427e937c63a5/canvas/7027db0a-0c04-4f91-b411-359bc6ab0118
+    zoom: true
+
+  - id: "cat-27_18"
+    src: figures/27_18.jpg
+    caption: "Fig. 18 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0aba9861-f98f-4627-b4e8-b8b20737a212/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0aba9861-f98f-4627-b4e8-b8b20737a212/canvas/f80c3940-298d-4835-bb7e-4d4508e57e5c
+    zoom: true
+
+  - id: "cat-27_19"
+    src: figures/27_19.jpg
+    caption: "Fig. 19 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4f927fdd-e279-4a2a-90f4-6b3c68d2a60b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4f927fdd-e279-4a2a-90f4-6b3c68d2a60b/canvas/0a20581d-6de4-4e76-9c4e-eafee548a736
+    zoom: true
+
+  - id: "cat-27_20"
+    src: figures/27_20.jpg
+    caption: "Fig. 20 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a02d4a43-9f52-44f9-9c1d-caffcf1b9486/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a02d4a43-9f52-44f9-9c1d-caffcf1b9486/canvas/95934e37-7896-4974-81f1-1adc358cf0cd
+    zoom: true
+
+  - id: "cat-27_21"
+    src: figures/27_21.jpg
+    caption: "Fig. 21 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92387155-e178-40a2-ac81-d77dba2011fe/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92387155-e178-40a2-ac81-d77dba2011fe/canvas/7208bc4e-7dfb-420f-93e0-0819d15f4db5
+    zoom: true
+
+  - id: "cat-27_22"
+    src: figures/27_22.jpg
+    caption: "Fig. 22 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/50b811ab-b1d5-41bc-b10b-db1d67e81d2b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/50b811ab-b1d5-41bc-b10b-db1d67e81d2b/canvas/90734b61-b979-440d-9e65-2f7d049d7338
+    zoom: true
+
+  - id: "cat-27_23"
+    src: figures/27_23.jpg
+    caption: "Fig. 23 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ddf2f4c-26a1-411f-9157-7a91ac4cfc3a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ddf2f4c-26a1-411f-9157-7a91ac4cfc3a/canvas/4276ba1c-9aaf-41ae-8f85-58d95ca216ad
+    zoom: true
+
+  - id: "cat-27_24"
+    src: figures/27_24.jpg
+    caption: "Fig. 24 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0ec6359-afd3-491a-884c-14d82fdd983c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0ec6359-afd3-491a-884c-14d82fdd983c/canvas/4a39c561-cfa8-4dcb-8e0e-8ad1e3fe1e69
+    zoom: true
+
+  - id: "cat-27_25"
+    src: figures/27_25.jpg
+    caption: "Fig. 25 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ca0f9fb8-9678-4e02-8251-8c8e8ace21cf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ca0f9fb8-9678-4e02-8251-8c8e8ace21cf/canvas/cd2196e5-9e7c-4bfb-9aae-930fd7887edc
+    zoom: true
+
+  - id: "cat-27_26"
+    src: figures/27_26.jpg
+    caption: "Fig. 26 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fab07ceb-7510-4d69-bc05-99788af0ca7e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fab07ceb-7510-4d69-bc05-99788af0ca7e/canvas/7d22ea95-c2c8-4f1a-a638-f2ab82e28849
+    zoom: true
+
+  - id: "cat-27_27"
+    src: figures/27_27.jpg
+    caption: "Fig. 27 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a998e77f-1d86-478d-8903-b859fb5a41c0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a998e77f-1d86-478d-8903-b859fb5a41c0/canvas/bdfe786e-da2e-4dba-b507-45b94e8c02a4
+    zoom: true
+
+  - id: "cat-27_28"
+    src: figures/27_28.jpg
+    caption: "Fig. 28 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b742ec42-6975-493b-94af-3d58a4889713/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b742ec42-6975-493b-94af-3d58a4889713/canvas/b25a2115-cae7-4e3d-ab97-8317fe3d4535
+    zoom: true
+
+  - id: "cat-27_29"
+    src: figures/27_29.jpg
+    caption: "Fig. 29 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fc63f26a-6e8e-4e56-a9ee-2c48c478d435/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fc63f26a-6e8e-4e56-a9ee-2c48c478d435/canvas/14ea6079-7085-454a-ac7c-229e3d5085f7
+    zoom: true
+
+  - id: "cat-27_30"
+    src: figures/27_30.jpg
+    caption: "Fig. 30 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9404f7f8-ba6b-4f0e-a1ef-2c266ded4e68/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9404f7f8-ba6b-4f0e-a1ef-2c266ded4e68/canvas/6e2f34e0-7f5c-41d4-8294-1cf80ae5d8b8
+    zoom: true
+
+  - id: "cat-27_31"
+    src: figures/27_31.jpg
+    caption: "Fig. 31 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2157717a-c1d6-46d1-a502-cc4e2ceea04b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2157717a-c1d6-46d1-a502-cc4e2ceea04b/canvas/7c2958b8-ebc0-4ad9-9ba2-8cc010d32fe2
+    zoom: true
+
+  - id: "cat-27_32"
+    src: figures/27_32.jpg
+    caption: "Fig. 32 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c43d2e43-2662-47db-8917-fe58aa6e4a8a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c43d2e43-2662-47db-8917-fe58aa6e4a8a/canvas/3bd96f30-bbf5-44c3-8ca3-30caa5b22d6e
+    zoom: true
+
+  - id: "cat-27_33"
+    src: figures/27_33.jpg
+    caption: "Fig. 33 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d15bbd40-c374-4a29-8f64-9597a5bf9f46/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d15bbd40-c374-4a29-8f64-9597a5bf9f46/canvas/a8516db8-6e32-461b-9071-4e2b90e8e10b
+    zoom: true
+
+  - id: "cat-28"
+    src: figures/28.jpg
+    caption: "Cover Francesco Celebrano, *Testa di donna ridente* - *Testa di uomo ridente*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b1b0376b-5caa-497e-b1d4-2dfe6fc2e16d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b1b0376b-5caa-497e-b1d4-2dfe6fc2e16d/canvas/d1669a81-33b7-4a63-85b3-063d5664f60d
+    zoom: true
+
+  - id: "cat-28_1"
+    src: figures/28_1.jpg
+    caption: "Fig. 1 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b5e7fa3-03d9-4c7b-960b-2edb0f1e9580/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b5e7fa3-03d9-4c7b-960b-2edb0f1e9580/canvas/9ddd5ac9-8f14-4cd1-be24-8aca1d3124ad
+    zoom: true
+
+  - id: "cat-28_2"
+    src: figures/28_2.jpg
+    caption: "Fig. 2 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8fc96db7-f0a6-4bc1-ac3d-78d5528d275b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8fc96db7-f0a6-4bc1-ac3d-78d5528d275b/canvas/fb52bd3d-b493-4aae-8809-e8cba5fd8dba
+    zoom: true
+
+  - id: "cat-28_3"
+    src: figures/28_3.jpg
+    caption: "Fig. 3 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/610502c0-c0bb-458a-9624-c44b5c39070f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/610502c0-c0bb-458a-9624-c44b5c39070f/canvas/f169ab9e-9cdd-43f5-a716-d036956ac886
+    zoom: true
+
+  - id: "cat-28_4"
+    src: figures/28_4.jpg
+    caption: "Fig. 4 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0065f35b-88c3-4028-b437-21a1880336a8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0065f35b-88c3-4028-b437-21a1880336a8/canvas/28d9e276-b277-4bcc-9fb8-ebab7e1090ec
+    zoom: true
+
+  - id: "cat-28_5"
+    src: figures/28_5.jpg
+    caption: "Fig. 5 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/canvas/709b895e-6bb1-4deb-b3ac-cce4c6e77c8f
+    zoom: true
+
+  - id: "cat-28_6"
+    src: figures/28_6.jpg
+    caption: "Fig. 6 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6374969a-73af-4856-acc6-41949f85abe6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6374969a-73af-4856-acc6-41949f85abe6/canvas/f156e3dd-ce55-49c2-aecf-a658e728f917
+    zoom: true
+
+  - id: "cat-28_7"
+    src: figures/28_7.jpg
+    caption: "Fig. 7 – Francesco Celebrano, *Testa di donna che ride* (particolare), 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c6f1980d-c54e-41a7-957b-e7598ef30c47/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c6f1980d-c54e-41a7-957b-e7598ef30c47/canvas/a1456581-a389-4df3-af8e-f7394ff55101
+    zoom: true
+
+  - id: "cat-28_8"
+    src: figures/28_8.jpg
+    caption: "Fig. 8 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/47796e93-596d-4d5a-a36b-e386d5975c54/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/47796e93-596d-4d5a-a36b-e386d5975c54/canvas/c66206e8-65e5-4008-8e19-bb0426b5e2cc
+    zoom: true
+
+  - id: "cat-28_9"
+    src: figures/28_9.jpg
+    caption: "Fig. 9 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/canvas/8857c6be-b542-4b7b-b03c-b27dc37d6928
+    zoom: true
+
+  - id: "cat-28_10"
+    src: figures/28_10.jpg
+    caption: "Fig. 10 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/32ab65a5-2b84-4ce7-bd31-4df0926f11e9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/32ab65a5-2b84-4ce7-bd31-4df0926f11e9/canvas/e8d8807e-4e2b-4d1a-8fde-35b602c552ff
+    zoom: true
+
+  - id: "cat-28_11"
+    src: figures/28_11.jpg
+    caption: "Fig. 11 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/075aae2f-89bc-4a2c-901a-c45b2cd5e913/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/075aae2f-89bc-4a2c-901a-c45b2cd5e913/canvas/769381cd-f5d2-49dd-a4e6-c96cd0b1d066
+    zoom: true
+
+  - id: "cat-28_12"
+    src: figures/28_12.jpg
+    caption: "Fig. 12 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/canvas/d7f95032-d108-4bc7-8ad1-ff1a5e450278
+    zoom: true
+
+  - id: "cat-28_13"
+    src: figures/28_13.jpg
+    caption: "Fig. 13 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1581090e-c5a2-41c2-99ad-d0aea40963cb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1581090e-c5a2-41c2-99ad-d0aea40963cb/canvas/0ac59110-9b56-4873-b075-ea1dafbae9df
+    zoom: true
+
+  - id: "cat-28_14"
+    src: figures/28_14.jpg
+    caption: "Fig. 14 – Francesco Celebrano, *Testa di uomo che ride* (particolare), 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8db62bda-a804-4332-a706-2e9550858ec9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8db62bda-a804-4332-a706-2e9550858ec9/canvas/07077344-7083-493a-a71c-8fb4544e3286
+    zoom: true
+
+  - id: "cat-28_15"
+    src: figures/28_15.jpg
+    caption: "Fig. 15 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760, Firenze, Antichità Tettamanti"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67fa29dc-2033-4149-b185-3493438c2751/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67fa29dc-2033-4149-b185-3493438c2751/canvas/82440ad0-70dc-40e7-ab23-dc98c446f297
+    zoom: true
+
+  - id: "cat-28_16"
+    src: figures/28_16.jpg
+    caption: "Fig. 16 – rancesco Celebrano, *Testa di uomo che ride* (particolare), 1740-1760, Firenze, Antichità Tettamanti"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df5432dc-6098-4b73-9131-d9ad163938a3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df5432dc-6098-4b73-9131-d9ad163938a3/canvas/ca3f4a61-9406-4342-8ebe-19b896cc0ef1
+    zoom: true
+
+  - id: "cat-28_17"
+    src: figures/28_17.jpg
+    caption: "Fig. 17 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760, Firenze, Antichità Tettamanti"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8d77a9dd-1c1d-43f9-874e-26d25dababbd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8d77a9dd-1c1d-43f9-874e-26d25dababbd/canvas/71dc6863-e605-453c-ab5e-7d6daf57b27b
+    zoom: true
+
+  - id: "cat-28_18"
+    src: figures/28_18.jpg
+    caption: "Fig. 18 – Francesco Celebrano, *Testa di donna che ride* (particolare), 1740-1760, Firenze, Antichità Tettamanti"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e22d47dd-217c-4d56-86a4-9aa3723e9e29/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e22d47dd-217c-4d56-86a4-9aa3723e9e29/canvas/34acb49b-e67d-475f-859b-e090fbbc9a89
     zoom: true
 
   - id: "cat-29"
@@ -2814,6 +3514,48 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb9ccf02-55ac-41cd-a1e4-53fef375be75/canvas/8d735dbe-cea8-4771-aa71-63867e593c9c
     zoom: true
 
+  - id: "cat-29_19"
+    src: figures/29_19.jpg
+    caption: "Fig. 19 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1bac4442-8d87-447e-afaa-c350789a398b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1bac4442-8d87-447e-afaa-c350789a398b/canvas/fa2047ed-c0d5-470b-b163-066071959d8b
+    zoom: true
+
+  - id: "cat-29_20"
+    src: figures/29_20.jpg
+    caption: "Fig. 20 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d158b9b4-51cf-41c4-a3af-95222b7f2bad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d158b9b4-51cf-41c4-a3af-95222b7f2bad/canvas/ed8b7b51-eb63-42ee-b245-788f9fc21dac
+    zoom: true
+
+  - id: "cat-29_21"
+    src: figures/29_21.jpg
+    caption: "Fig. 21 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/244b9a8b-02f8-4cac-9f4a-2e4bfb2db376/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/244b9a8b-02f8-4cac-9f4a-2e4bfb2db376/canvas/744f947b-f092-42ec-b672-b5e15b35d96d
+    zoom: true
+
+  - id: "cat-29_22"
+    src: figures/29_22.jpg
+    caption: "Fig. 22 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35c5d541-3cf6-4109-9fe3-f218f9528ccc/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35c5d541-3cf6-4109-9fe3-f218f9528ccc/canvas/c16ef55d-1519-48f7-9df1-c7324bb4e161
+    zoom: true
+
+  - id: "cat-29_23"
+    src: figures/29_23.jpg
+    caption: "Fig. 23 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43f616bd-5a71-4934-83b8-bd47691cd0ff/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43f616bd-5a71-4934-83b8-bd47691cd0ff/canvas/009d5700-705d-4da3-9426-d5fc0baf2da4
+    zoom: true
+
+  - id: "cat-29_24"
+    src: figures/29_24.jpg
+    caption: "Fig. 24 – Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a67c32a-3786-4d0b-bcaf-e816453d75ea/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a67c32a-3786-4d0b-bcaf-e816453d75ea/canvas/6148c48b-b5de-4339-8fdb-247de82e3718
+    zoom: true
+
   - id: "cat-30"
     src: figures/30.jpg
     caption: "Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769"
@@ -2893,9 +3635,219 @@ figure_list:
 
   - id: "cat-30_11"
     src: figures/30_11.jpg
-    caption: "Fig. 11- Bartolomeo Cavaceppi (da), *Venere di Roma*, anni Ottanta del XVIII secolo, gesso trattato, Sesto Fiorentino, Museo Ginori"
+    caption: "Fig. 11 - Bartolomeo Cavaceppi (da), *Venere di Roma*, anni Ottanta del XVIII secolo, gesso trattato, Sesto Fiorentino, Museo Ginori"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/canvas/d3b06aea-bd2e-4352-8910-b647b1c99cb9
+    zoom: true
+
+  - id: "cat-30_12"
+    src: figures/30_12.jpg
+    caption: "Fig. 12 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1929b387-5e4a-4b4f-a130-a5597f2267a1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1929b387-5e4a-4b4f-a130-a5597f2267a1/canvas/e6dc0bd6-a4e8-48a4-a6e6-56b104a02346
+    zoom: true
+
+  - id: "cat-30_13"
+    src: figures/30_13.jpg
+    caption: "Fig. 13 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35c87a27-1e8c-4486-a983-b7965bb25530/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35c87a27-1e8c-4486-a983-b7965bb25530/canvas/95ae8af5-65ff-4938-a033-d3ee83d167f9
+    zoom: true
+
+  - id: "cat-30_14"
+    src: figures/30_14.jpg
+    caption: "Fig. 14 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/10a820bc-5334-41b1-a73e-0a87040bc81a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/10a820bc-5334-41b1-a73e-0a87040bc81a/canvas/2517f74d-b58e-4846-b4c8-6ce01229da85
+    zoom: true
+
+  - id: "cat-30_15"
+    src: figures/30_15.jpg
+    caption: "Fig. 15 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d16e5372-d776-43fb-96cb-c21429ca3095/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d16e5372-d776-43fb-96cb-c21429ca3095/canvas/f854570e-5135-41a2-b0a7-498031c0ad07
+    zoom: true
+
+  - id: "cat-30_16"
+    src: figures/30_16.jpg
+    caption: "Fig. 16 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/573fc734-e10b-4b22-aa0e-cc4b761260c0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/573fc734-e10b-4b22-aa0e-cc4b761260c0/canvas/d362c432-511b-4d62-af4b-f3b7e8ee5808
+    zoom: true
+
+  - id: "cat-30_17"
+    src: figures/30_17.jpg
+    caption: "Fig. 17 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/afb8de8a-94c8-484d-b2bc-004030527d92/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/afb8de8a-94c8-484d-b2bc-004030527d92/canvas/88b5fbaf-22df-433d-b321-9d01a5101f58
+    zoom: true
+
+  - id: "cat-30_18"
+    src: figures/30_18.jpg
+    caption: "Fig. 18 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ba434682-7437-4963-84b9-207ac2339de5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ba434682-7437-4963-84b9-207ac2339de5/canvas/8f2177f9-9483-4b9e-bc5a-053fee21ac40
+    zoom: true
+
+  - id: "cat-31"
+    src: figures/31.jpg
+    caption: "Camillo Pacetti, *Giunone*, *Cibele*, 1800-1807 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f3008441-4ef3-4136-b6ef-bdfee9c08a80/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f3008441-4ef3-4136-b6ef-bdfee9c08a80/canvas/0f26d93b-c3d6-471e-acbe-af6f5fef0448
+    zoom: true
+
+  - id: "cat-31_1"
+    src: figures/31_1.jpg
+    caption: "Fig. 1 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (fronte)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b44dd2f2-91ec-4f57-9188-3e9159b7fa75/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b44dd2f2-91ec-4f57-9188-3e9159b7fa75/canvas/800109ba-62e7-4034-ac9b-341763414140
+    zoom: true
+
+  - id: "cat-31_2"
+    src: figures/31_2.jpg
+    caption: "Fig. 2 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71ead979-3064-4549-b224-7d8c86e8e328/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71ead979-3064-4549-b224-7d8c86e8e328/canvas/fd590c78-2a30-4b47-a92e-3664d986429e
+    zoom: true
+
+  - id: "cat-31_3"
+    src: figures/31_3.jpg
+    caption: "Fig. 3 – Camillo Pacetti, *Cibele*, 1800-1807 circa, terracotta dorata (fronte)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/db282e2e-facd-47d8-b0db-adbfef213608/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/db282e2e-facd-47d8-b0db-adbfef213608/canvas/db6c2403-47ae-4808-8d56-87a3c3c28fc7
+    zoom: true
+
+  - id: "cat-31_4"
+    src: figures/31_4.jpg
+    caption: "Fig. 4 – Camillo Pacetti, *Cibele*, 1800-1807 circa, terracotta dorata (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ce4d61f7-47ea-4cdf-bb6f-69f5c7e82547/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ce4d61f7-47ea-4cdf-bb6f-69f5c7e82547/canvas/1075e57d-2313-45ee-88f8-f1b3c5dbdc6f
+    zoom: true
+
+  - id: "cat-31_5"
+    src: figures/31_5.jpg
+    caption: "Fig. 5 - DA SOSTITUIRE sch31"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7538442a-ce4c-4ef2-9625-ee05b72024bb/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7538442a-ce4c-4ef2-9625-ee05b72024bb/canvas/5f73d2df-fabd-46f8-9d1c-b3d8956cc7ce
+    zoom: true
+
+  - id: "cat-31_6"
+    src: figures/31_6.jpg
+    caption: "Fig. 6 - DA SOSTITUIRE sch31"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f97bc1c6-06bc-45e5-a6a9-e117fea7100e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f97bc1c6-06bc-45e5-a6a9-e117fea7100e/canvas/11de45a2-e277-436c-93ee-a82cd1cae808
+    zoom: true
+
+  - id: "cat-31_7"
+    src: figures/31_7.jpg
+    caption: "Fig. 7 - DA SOSTITUIRE sch31"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ec64fee0-3adf-4838-b31c-62d836adc987/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ec64fee0-3adf-4838-b31c-62d836adc987/canvas/1bbbcb3a-f3cf-4165-a9e4-6e0be9fbfadf
+    zoom: true
+
+  - id: "cat-31_8"
+    src: figures/31_8.jpg
+    caption: "Fig. 8 – Camillo Pacetti, *Allegoria della Pace*, 1810-1820, terracotta, Los Angeles, Los Angeles County Museum of Art"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a5c1a031-93db-4b7e-9f9a-b8da6dc52919/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a5c1a031-93db-4b7e-9f9a-b8da6dc52919/canvas/28d09fef-371b-442a-9d4c-efc0c29164a0
+    zoom: true
+
+  - id: "cat-31_9"
+    src: figures/31_9.jpg
+    caption: "Fig. 9 - DA SOSTITUIRE sch31"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e5d6074-5a45-47a3-8282-091d5bb97c35/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e5d6074-5a45-47a3-8282-091d5bb97c35/canvas/c2537fde-418c-4326-8fdf-b5f26064248d
+    zoom: true
+
+  - id: "cat-31_10"
+    src: figures/31_10.jpg
+    caption: "Fig. 10 – sch31"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6fe65e83-0be8-4e41-b529-11d5a195ea37/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6fe65e83-0be8-4e41-b529-11d5a195ea37/canvas/6035989b-4859-4057-b90d-24da443ec01a
+    zoom: true
+
+  - id: "cat-31_11"
+    src: figures/31_11.jpg
+    caption: "Fig. 11 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c1a2e59b-e38e-4e4b-8701-db3fa809d6f3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c1a2e59b-e38e-4e4b-8701-db3fa809d6f3/canvas/9e140e02-c562-45a1-8222-36b05cb01a0d
+    zoom: true
+
+  - id: "cat-31_12"
+    src: figures/31_12.jpg
+    caption: "Fig. 12 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/70e947ac-330e-4017-ace7-4bec764ac098/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/70e947ac-330e-4017-ace7-4bec764ac098/canvas/2b17e13f-e12c-4f55-957a-b6ebfaeeaaee
+    zoom: true
+
+  - id: "cat-31_13"
+    src: figures/31_13.jpg
+    caption: "Fig. 13 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a6107a23-7bcc-4721-aee7-1bbd18941fdd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a6107a23-7bcc-4721-aee7-1bbd18941fdd/canvas/338d3964-dbab-46ec-8008-fabc7df02581
+    zoom: true
+
+  - id: "cat-31_14"
+    src: figures/31_14.jpg
+    caption: "Fig. 14 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/450d6cd7-4b95-453c-8e73-d0e3bf2d505d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/450d6cd7-4b95-453c-8e73-d0e3bf2d505d/canvas/5a40ae73-3bd5-4b9f-bc28-fcd58aef0928
+    zoom: true
+
+  - id: "cat-31_15"
+    src: figures/31_15.jpg
+    caption: "Fig. 15 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e21d3fd1-b624-4714-b9aa-43ef79ca994e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e21d3fd1-b624-4714-b9aa-43ef79ca994e/canvas/f3cedd4e-ee9d-46b2-a833-bb24745fb6bf
+    zoom: true
+
+  - id: "cat-31_16"
+    src: figures/31_16.jpg
+    caption: "Fig. 16 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f1781ac4-a137-489c-a647-856423973935/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f1781ac4-a137-489c-a647-856423973935/canvas/915c2785-810a-4693-9c91-dec4dd70b1f9
+    zoom: true
+
+  - id: "cat-31_17"
+    src: figures/31_17.jpg
+    caption: "Fig. 17 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/651b0f7c-31bd-4789-8be7-9e8649464835/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/651b0f7c-31bd-4789-8be7-9e8649464835/canvas/4c3cd1de-2dcf-4b70-b872-f28eb7b4b1cd
+    zoom: true
+
+  - id: "cat-31_18"
+    src: figures/31_18.jpg
+    caption: "Fig. 18 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fec4b15d-b490-4d92-bd15-d0205277f8db/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fec4b15d-b490-4d92-bd15-d0205277f8db/canvas/f030598f-6b31-4e1b-adef-bf1fda59edbd
+    zoom: true
+
+  - id: "cat-31_19"
+    src: figures/31_19.jpg
+    caption: "Fig. 19 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c4b1196d-c51b-42af-9af1-9265673465d2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c4b1196d-c51b-42af-9af1-9265673465d2/canvas/31886eab-ee62-4539-a137-de4e03a63f0e
+    zoom: true
+
+  - id: "cat-31_20"
+    src: figures/31_20.jpg
+    caption: "Fig. 20 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5169ee27-3b30-436e-bfbf-6a83264f7ead/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5169ee27-3b30-436e-bfbf-6a83264f7ead/canvas/67ec27e5-e190-4bcc-b335-2d5381fc8738
+    zoom: true
+
+  - id: "cat-31_21"
+    src: figures/31_21.jpg
+    caption: "Fig. 21 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e39f0e6b-c367-4148-9ee0-1c7b09a956c0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e39f0e6b-c367-4148-9ee0-1c7b09a956c0/canvas/bb890e05-8a00-4177-85ca-300dde48205a
+    zoom: true
+
+  - id: "cat-31_22"
+    src: figures/31_22.jpg
+    caption: "Fig. 22 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3572f0d4-29aa-4924-9bc8-80f4fd006db9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3572f0d4-29aa-4924-9bc8-80f4fd006db9/canvas/1997b752-7c4a-4b55-98a9-9c2560094146
     zoom: true
 
   - id: "cat-32"
@@ -2989,6 +3941,62 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/canvas/76de89dd-4370-408c-a98b-b64e28d5e149
     zoom: true
 
+  - id: "cat-33"
+    src: figures/33.jpg
+    caption: "Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cb031874-73af-4a23-ae77-06af5f40e511/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cb031874-73af-4a23-ae77-06af5f40e511/canvas/b2c98968-5242-4b81-8b0c-3ef505993737
+    zoom: true
+
+  - id: "cat-33_1"
+    src: figures/33_1.jpg
+    caption: "Fig. 1 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e1395d4-4cfb-4684-a31b-eaaeaf1933ad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e1395d4-4cfb-4684-a31b-eaaeaf1933ad/canvas/a0a84765-8afb-42be-a1f2-575fecc58fcb
+    zoom: true
+
+  - id: "cat-33_2"
+    src: figures/33_2.jpg
+    caption: "Fig. 2 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3b5e2a5b-321b-4cd4-966c-1f91767e539e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3b5e2a5b-321b-4cd4-966c-1f91767e539e/canvas/6119d6ce-c941-44a1-8d0a-05087a948706
+    zoom: true
+
+  - id: "cat-33_3"
+    src: figures/33_3.jpg
+    caption: "Fig. 3 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43e4c77f-1447-466d-9d2b-5855324748ff/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43e4c77f-1447-466d-9d2b-5855324748ff/canvas/3f1b4262-a324-456a-b8e6-fb1b049efdb2
+    zoom: true
+
+  - id: "cat-33_4"
+    src: figures/33_4.jpg
+    caption: "Fig. 4 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bf921503-80a0-4c37-8765-59cdaecdcfd1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bf921503-80a0-4c37-8765-59cdaecdcfd1/canvas/70fa17c1-e832-4378-ba9f-900a8c923a28
+    zoom: true
+
+  - id: "cat-33_5"
+    src: figures/33_5.jpg
+    caption: "Fig. 5 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ec4a0c8-5bac-44b6-91d8-ad18ef7ededa/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ec4a0c8-5bac-44b6-91d8-ad18ef7ededa/canvas/5ea86819-dffb-488d-8244-de4bedc6dcdd
+    zoom: true
+
+  - id: "cat-33_6"
+    src: figures/33_6.jpg
+    caption: "Fig. 6 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a2189fa4-4fed-4f41-a714-97d3e94d8c5e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a2189fa4-4fed-4f41-a714-97d3e94d8c5e/canvas/cea99265-6abe-49da-89ae-cbdf66d3f105
+    zoom: true
+
+  - id: "cat-33_7"
+    src: figures/33_7.jpg
+    caption: "Fig. 7 – Bartolomeo Cavaceppi, *Busto di Tiberio nelle vesti di Eracle*, 1788, marmo, Wörlitz, Wörlitz Palace"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c0e792e-51e0-4b65-8a86-e1e1cf636eb6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c0e792e-51e0-4b65-8a86-e1e1cf636eb6/canvas/e8daac07-857f-46ed-95c8-2953b3194cac
+    zoom: true
+
   - id: "cat-34"
     src: figures/34.jpg
     caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*"
@@ -3043,6 +4051,69 @@ figure_list:
     caption: "Fig. 7 – Antonio Begarelli, *Compianto sul Cristo morto*, terracotta, 1524-1526, Modena, Chiesa di Sant’Agostino (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/038a08c2-5717-4879-9030-e3dad3518f8e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/038a08c2-5717-4879-9030-e3dad3518f8e/canvas/13afb8a7-1bc1-4d2f-920e-475c36e93a52
+    zoom: true
+
+  - id: "cat-34_8"
+    src: figures/34_8.jpg
+    caption: "Fig. 8 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43c3b627-1b53-414f-b478-773739d889da/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43c3b627-1b53-414f-b478-773739d889da/canvas/83194e1b-d379-43ed-a2af-bf8d224ef05f
+    zoom: true
+
+  - id: "cat-34_9"
+    src: figures/34_9.jpg
+    caption: "Fig. 9 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd8bdea3-8d4c-4003-b5d3-92de21f44373/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd8bdea3-8d4c-4003-b5d3-92de21f44373/canvas/467ff408-e02b-4c39-8f2d-e113a4f965a1
+    zoom: true
+
+  - id: "cat-34_10"
+    src: figures/34_10.jpg
+    caption: "Fig. 10 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e96a2b81-39f2-4866-a80e-908ea917c9c2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e96a2b81-39f2-4866-a80e-908ea917c9c2/canvas/43c29c9c-1f15-4dbe-a99f-fd5513cb5f76
+    zoom: true
+
+  - id: "cat-34_11"
+    src: figures/34_11.jpg
+    caption: "Fig. 11 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3612f0fc-d714-486d-9b16-46aecd70ef3a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3612f0fc-d714-486d-9b16-46aecd70ef3a/canvas/e132e9df-3f34-4cf3-b02c-9da665c03416
+    zoom: true
+
+  - id: "cat-34_12"
+    src: figures/34_12.jpg
+    caption: "Fig. 12 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/477665a8-71df-4fbc-982b-93bd06070d97/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/477665a8-71df-4fbc-982b-93bd06070d97/canvas/dd116d65-9cf0-476d-b51e-16dde7a129b7
+    zoom: true
+
+  - id: "cat-34_13"
+    src: figures/34_13.jpg
+    caption: "Fig. 13 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/94cb21eb-7eb0-4224-a694-a8e483fd7080/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/94cb21eb-7eb0-4224-a694-a8e483fd7080/canvas/51f5945a-60e1-484c-b0cc-c6e51eb25b6a
+    zoom: true
+
+  - id: "cat-34_14"
+    src: figures/34_14.jpg
+    caption: "Fig. 14 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53ff95ba-a562-4f73-8deb-7990c357d840/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53ff95ba-a562-4f73-8deb-7990c357d840/canvas/8ac72a0e-e091-4cc7-8c58-984e39d85138
+    zoom: true
+
+  - id: "cat-34_15"
+    src: figures/34_15.jpg
+    caption: "Fig. 15 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ea9cfd44-73bd-4178-bcd2-b8178569e1c7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ea9cfd44-73bd-4178-bcd2-b8178569e1c7/canvas/9e6f6425-bedd-48f4-9cce-bdac7f01d674
+    zoom: true
+
+  - id: "cat-34_16"
+    src: figures/34_16.jpg
+    caption: "Fig. 16 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d3326736-ac4b-41fe-8b4c-20bb5c2534ca/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d3326736-ac4b-41fe-8b4c-20bb5c2534ca/canvas/12dd9e4b-7647-4b65-82bd-106c8b590f5c
     zoom: true
 
   - id: "cat-35"
