@@ -1,7 +1,8 @@
 ---
-title: Note per la consultazione
-layout: page
+title: Note per la consultazione 
+layout: splash
 order: 12
+image: introduzione-sculture-zeri-2026.jpg
 ---
 
 ***Note per la consultazione***  
