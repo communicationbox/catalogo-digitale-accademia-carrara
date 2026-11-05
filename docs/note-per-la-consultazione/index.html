@@ -502,10 +502,15 @@
           </div>
         </div>
 
-        <main class="quire-page quire-page" data-output-path="_site/note-per-la-consultazione/index.html" data-page-id="page-note-per-la-consultazione">
-          <section class="quire-page__header hero">
+        <main class="quire-page quire-splash" data-output-path="_site/note-per-la-consultazione/index.html" data-page-id="page-note-per-la-consultazione">
+          <section class="quire-page__header hero hero-image" style="
+              background-image: url(&quot;/_assets/introduzione-sculture-zeri-2026.jpg&quot;);
+            ">
+            <!-- This ensures background image asset gets copied into epub package -->
+            <img class="visually-hidden" src="/_assets/introduzione-sculture-zeri-2026.jpg">
+
             <div class="hero-body">
-              <h1 class="quire-page__header__title" id="note-per-la-consultazione">
+              <h1 class="quire-page__header__title" id="page-header-note-per-la-consultazione">
                 Note per la consultazione
               </h1>
             </div>
@@ -712,11 +717,6 @@
                   collezione Zeri.
                 </p>
               </div>
-            </div>
-          </section>
-
-          <section class="section quire-page__content">
-            <div class="container">
               <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
                 <ul>
                   <li class="quire-nav-button prev">
