@@ -64,7 +64,7 @@ object_list:
     titolo: Parasta
     datazione: Ultimo quarto del XV secolo
     materia e tecnica: Marmo
-    misure: 85,5 x 14 x 6 cm ; 145 x 25,5 x 9 cm ; 125,5 x 22 x 9 cm ; 127 x 20,5 x 9 cm ; 107,5 x 20,5 x 11 cm ; 225,5 x 25,5 x 13 cm ; 225 x 25,4 x 13 cm ; 225 x 25,1 x 11 cm ; 225 x 25,2 x 13 cm
+    misure: 85 x 14 x 6 cm; 85,5 x 14 x 6 cm ; 145 x 25,5 x 9 cm ; 125,5 x 22 x 9 cm ; 127 x 20,5 x 9 cm ; 107,5 x 20,5 x 11 cm ; 225,5 x 25,5 x 13 cm ; 225 x 25,4 x 13 cm ; 225 x 25,1 x 11 cm ; 225 x 25,2 x 13 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Università di Bologna, 2023
     numero di inventario: Inv. n. 98 ZR 00047, Inv. n. 98 ZR 00048, Inv. n. 98 ZR 00049, Inv. n. 98 ZR 00050, Inv. n. 98 ZR 00051, Inv. n. 98 ZR 00052, Inv. n. 98 ZR 00053, Inv. n. 98 ZR 00054, Inv. n. 98 ZR 00055, Inv. n. 98 ZR 00056
@@ -75,7 +75,7 @@ object_list:
 
   - id: 4
     autore: Scultore attivo a Roma
-    dati anagrafici autore: 
+    dati anagrafici autore: Attivo a Roma, metà XVI secolo
     titolo: Busto di gentiluomo
     datazione: Terzo quarto del XVI secolo
     materia e tecnica: Marmo
@@ -105,9 +105,9 @@ object_list:
 
   - id: 6
     autore: Alessandro Vittoria
-    dati anagrafici autore: Trento, 1525 - Venezia, 1608
+    dati anagrafici autore: Trento, 1525 circa - Venezia, 27 maggio 1608
     titolo: Ritratto di Apollonio Massa
-    datazione: 1587
+    datazione: 1571-1572 circa
     materia e tecnica: Terracotta
     misure: 33 × 14 × 9,5 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -120,7 +120,7 @@ object_list:
 
   - id: 7
     autore: Nicolas Cordier
-    dati anagrafici autore: Lorena, 1567 circa - Roma, 1612
+    dati anagrafici autore: Lorena, 1567 circa - Roma, 24 novembre 1612
     titolo: Busto di Paolo V Borghese
     datazione: 1605-1612 circa
     materia e tecnica: Marmo
@@ -151,7 +151,7 @@ object_list:
   - id: 9
     autore: Pietro Bernini
     dati anagrafici autore: Sesto Fiorentino, 1562 - Roma, 1629
-    titolo: Allegoria della Virtù vittoriosa sul Vizio 
+    titolo: La Virtù sottomette il Vizio
     datazione: 1610-1615 circa
     materia e tecnica: Marmo
     misure: 42 × 21 × 18.5 cm (statua); 10 x 25 x 26 cm (basamento in legno intagliato dorato)
@@ -165,12 +165,12 @@ object_list:
 
   - id: 10
     autore: Francois du Quesnoy (o Duquesnoy), detto il Fiammingo
-    dati anagrafici autore: Bruxelles, 12 gennaio 1597 - Livorno, 18 luglio 1643
+    dati anagrafici autore: Bruxelles, 12 gennaio 1597 (battesimo) - Livorno, 18 luglio 1643
     titolo: Angelo con drappo
     datazione: 1628-1629 circa
     materia e tecnica: Marmo bianco 
     misure: 28,8 x 14,8 x 7,2 cm; con cornice 44,2 x 30 x 7,5 cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
+    iscrizioni, etichette, cartellini, timbri: Nessuna. Andrea Bacchi segnala che «nello spessore del marmo compariva una scritta a penna con due numeri d’inventario relativi certamente a una raccolta privata, in caratteri tardo seicenteschi o settecenteschi», senza tuttavia specificare se si riferisca a entrambi i rilievi o soltanto a uno dei due. In occasione della catalogazione delle sculture non si è proceduto alla rimozione dei quattro listelli perimetrali in marmo incollati ai bordi dell’opera; essi risultano pertanto solo parzialmente visibili, circostanza che non consente di verificare tale informazione.
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00010 
     numeri di inventario precedenti: Sc. 137 (1998-2007); Sc. 138; Sc. 123; 1998 AC Sculture 00010 (2011-2012); 98 SC ZR010 (2012-2015) 
@@ -180,12 +180,12 @@ object_list:
 
   - id: 11
     autore: François du Quesnoy (o Duquesnoy), detto il Fiammingo
-    dati anagrafici autore: Bruxelles, 12 gennaio 1597 - Livorno, 18 luglio 1643
-    titolo: Putto con corona di alloro
-    datazione: 1626-1630 circa
-    materia e tecnica: Marmo bianco
+    dati anagrafici autore: Bruxelles, 12 gennaio 1597 (battesimo) - Livorno, 18 luglio 1643
+    titolo: Putto con ghirlanda
+    datazione: 1626-1627 circa
+    materia e tecnica: Marmo 
     misure: 27,6 x 14,8 x 7 cm; con cornice 43,2 x 30 x 7,7 cm
-    iscrizioni, etichette, cartellini, timbri: Nessuna
+    iscrizioni, etichette, cartellini, timbri: Nessuna. Andrea Bacchi segnala che «nello spessore del marmo compariva una scritta a penna con due numeri d’inventario relativi certamente a una raccolta privata, in caratteri tardo seicenteschi o settecenteschi», senza tuttavia specificare se si riferisca a entrambi i rilievi o soltanto a uno dei due. In occasione della catalogazione delle sculture non sono stati rimossi i quattro listelli perimetrali in marmo incollati ai bordi dell’opera; essi risultano pertanto solo parzialmente visibili, circostanza che non consente di verificare tale informazione.
     acquisizione: Legato Federico Zeri, 1998
     numero di inventario: Inv. n. 98 ZR 00011
     numeri di inventario precedenti: Sc. 136 (1998-2007); Sc. 139; Sc. 124; 1998 AC Sculture 00011 (2011-2012); 98 SC ZR011 (2012-2015) 
@@ -195,7 +195,7 @@ object_list:
 
   - id: 12
     autore: Scultore attivo a Roma nella prima metà del XVII secolo
-    dati anagrafici autore: 
+    dati anagrafici autore: Roma (?), prima metà del Seicento
     titolo: Santa Martina
     datazione: 1634-1650 circa
     materia e tecnica: Terracotta
@@ -230,7 +230,7 @@ object_list:
     datazione: 1669-1675 circa
     materia e tecnica: Marmo
     misure: 93 × 73 × 33 cm (busto); 18 x 24,5 x 24,5 cm (base)
-    iscrizioni, etichette, cartellini, timbri: Sulla base, non unita al busto originariamente, iscrizione in lettere capitali «pavl aemilivs / card  zacchia / anno mdxcix»
+    iscrizioni, etichette, cartellini, timbri: Sulla base, non unita al busto originariamente, iscrizione in lettere capitali «PAVL AEMILIVS / CARD ZACCHIA / ANNO MDXCIX»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00014
     numeri di inventario precedenti: Sc. 140 (1998-2007); Sc. 142; Sc. 127; 1998 AC Sculture 00014 (2011-2012); 98 SC ZR014 (2012-2015)
@@ -329,13 +329,13 @@ object_list:
       - id: "cat-20"
 
   - id: 20
-    autore: Orazio Marinali
-    dati anagrafici autore: Angarano, Vicenza, 1643 - Vicenza, 1720
+    autore: Giusto Le Court (seguace di)
+    dati anagrafici autore: Veneto, fine del XVII – inizi del XVIII secolo
     titolo: Lucrezia
-    datazione: 1700-1710
+    datazione: 1690-1725 circa
     materia e tecnica: Marmo
     misure: 49 × 40 × 27 cm (busto); 18 × 21,5 × 21 cm (base)
-    iscrizioni, etichette, cartellini, timbri: 
+    iscrizioni, etichette, cartellini, timbri: Nesssuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00021
     numeri di inventario precedenti: Sc. 147 (1998-2007); Sc. 132; 1998 AC Sculture 00021; (2011-2012); 98 SC ZR021 (2012-2015)
@@ -469,7 +469,7 @@ object_list:
     titolo: Ritratto di Georges Nassau Clevering III Earl of Cowper
     datazione: 1787
     materia e tecnica: Marmo
-    misure: 62 x 60 x 31,5 cm (busto) XX × XX × XX cm (base)
+    misure: 62 x 60 x 31,5 cm (busto); XX × XX × XX cm (base)
     iscrizioni, etichette, cartellini, timbri: Sul retro, iscrizione in lettere capitali incisa nel marmo con firma e data «Innoc(ENZ)o Spinazzi Rom(AN)o fac(EV)o  / in Firenze 1787». Sul retro, a destra, iscrizione a pennello nera «123».
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00030
@@ -480,12 +480,12 @@ object_list:
 
   - id: 26a
     autore: Tommaso Righi
-    dati anagrafici autore: Roma, 1727 - Varsavia, 1802
+    dati anagrafici autore: Roma, 1722/1723 circa - Varsavia, 1802
     titolo: Accademia di nudo 
-    datazione: 1750-1755 circa
+    datazione: 1760-1765 circa
     materia e tecnica: Terracotta
-    misure: 58 × 43,5 × 5,5 cm 
-    iscrizioni, etichette, cartellini, timbri: Sul fronte, in basso a destra, incisa nell’argilla, la sigla dell’autore «T.R». Sul retro, in alto, al centro, iscrizione a gessetto blu «2». 
+    misure: 58 × 43,5 × 6 cm 
+    iscrizioni, etichette, cartellini, timbri: Sigla incisa in basso a destra «T.R.»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00031
     numeri di inventario precedenti: Sc. 157 (1998-2007); Sc. 158; Sc. 143; 1998 AC Sculture 00031 (2011-2012); 98 SC ZR031 (2012-2015).
@@ -495,12 +495,12 @@ object_list:
 
   - id: 26b
     autore: Tommaso Righi
-    dati anagrafici autore: Roma, 1727 - Varsavia, 1802
+    dati anagrafici autore: Roma, 1722/1723 circa - Varsavia, 1802
     titolo: Accademia di nudo 
-    datazione: 1750-1755 circa
+    datazione: 1760-1765 circa
     materia e tecnica: Terracotta
-    misure: 57 × 43 × 10,5 cm
-    iscrizioni, etichette, cartellini, timbri: Sul fronte, in basso a destra, incisa nell’argilla, la sigla dell’autore «T.R». Sul retro, in alto, al centro, iscrizione a gessetto blu «[0]». 
+    misure: 57,5 × 44 × 7 cm
+    iscrizioni, etichette, cartellini, timbri: Sigla incisa in basso a destra «T.R.»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00032
     numeri di inventario precedenti: Sc. 158 (1998-2007); Sc. 159; Sc. 144; 1998 AC Sculture 00032 (2011-2012); 98 SC ZR032 (2012-2015).
@@ -510,12 +510,12 @@ object_list:
 
   - id: 26c
     autore: Tommaso Righi
-    dati anagrafici autore: Roma, 1727 - Varsavia, 1802
+    dati anagrafici autore: Roma, 1722/1723 circa - Varsavia, 1802
     titolo: Accademia di nudo 
-    datazione: 1750-1755 circa
+    datazione: 1760-1765 circa
     materia e tecnica: Terracotta
-    misure: 57 × 43 × 10,5 cm
-    iscrizioni, etichette, cartellini, timbri: Sul fronte, in basso a sinistra, incisa nell’argilla, la sigla dell’autore «T.R». Sul retro, in alto, al centro, iscrizione a gessetto blu «X». 
+    misure: 57,5 × 42,5 × 8 cm
+    iscrizioni, etichette, cartellini, timbri: Sigla incisa in basso a sinistra «T.R.»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00033
     numeri di inventario precedenti: Sc. 159 (1998-2007); Sc. 160; Sc. 145; 1998 AC Sculture 00033 (2011-2012); 98 SC ZR033 (2012-2015).
@@ -525,12 +525,12 @@ object_list:
 
   - id: 26d
     autore: Tommaso Righi
-    dati anagrafici autore: Roma, 1727 - Varsavia, 1802
+    dati anagrafici autore: Roma, 1722/1723 circa - Varsavia, 1802
     titolo: Accademia di nudo 
-    datazione: 1750-1755 circa
+    datazione: 1760-1765 circa
     materia e tecnica: Terracotta
-    misure: 58 × 43 × 15 cm
-    iscrizioni, etichette, cartellini, timbri: Sul fronte, in basso a sinistra, incisa nell’argilla, la sigla dell’autore «T.R». Sul retro, in alto, al centro, iscrizione a gessetto blu «I». 
+    misure: 58,5 x 43 x 12,5 cm
+    iscrizioni, etichette, cartellini, timbri: Sigla incisa in basso a sinistra «T.R.»
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00034
     numeri di inventario precedenti: Sc. 160 (1998-2007); Sc. 161; Sc. 146; 1998 AC Sculture 00034 (2011-2012); 98 SC ZR034 (2012-2015).
@@ -540,11 +540,11 @@ object_list:
 
   - id: 27a
     autore: Francesco Celebrano
-    dati anagrafici autore: Napoli, 1729-1814
-    titolo: Testa di donna ridente
-    datazione: 1740-1760 circa
+    dati anagrafici autore: Napoli, 27 marzo 1729 – 22 giugno 1814
+    titolo: Busto di donna che ride
+    datazione: 1765-1785 circa
     materia e tecnica: Marmo
-    misure: 41 × 33 × 22 cm (busto); 16 × 15,5 × 15,5 cm (base).
+    misure: 57 × 30 × 22 cm (con piedistallo); 16 × 15,5 × 15,5 cm (piedistallo)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00035
@@ -555,11 +555,11 @@ object_list:
 
   - id: 27b
     autore: Francesco Celebrano
-    dati anagrafici autore: Napoli, 1729-1814
-    titolo: Testa di uomo ridente
-    datazione: 1740-1760 circa
+    dati anagrafici autore: Napoli, 27 marzo 1729 – 22 giugno 1814
+    titolo: Busto di uomo che ride
+    datazione: 1765-1785 circa
     materia e tecnica: Marmo
-    misure: 41 × 33 × 22,5 cm (busto); 16 × 15,5 × 15,5 cm (base).
+    misure: 57 × 30 × 22 cm (con piedistallo); 16 × 15,5 × 15,5 cm (piedistallo)
     iscrizioni, etichette, cartellini, timbri: Nessuna
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00036
@@ -585,12 +585,12 @@ object_list:
 
   - id: 29
     autore: Bartolomeo Cavaceppi
-    dati anagrafici autore: 
+    dati anagrafici autore: Roma, 1715/1717 – 9 dicembre 1799
     titolo: Venere di Roma
     datazione: 1780-1800 circa
     materia e tecnica: Terracotta
     misure: 51 × 26 × 18 cm
-    iscrizioni, etichette, cartellini, timbri: Sulla parte posteriore del piedestallo, iscrizione a pennello «Joseph Chinard a Rome»
+    iscrizioni, etichette, cartellini, timbri: Sulla parte posteriore del piedestallo, iscrizione a pennello «Joseph Chinard à Rome»
     acquisizione: Legato Federico Zeri, 1988 
     numero di inventario: Inv. n. 98 ZR 00038
     numeri di inventario precedenti: Sc. 164 (1998-2007); Sc. 165; Sc. 150; 1998 AC Sculture 00038 (2011-2012); 98 SC ZR038 (2012-2015)
@@ -600,9 +600,9 @@ object_list:
 
   - id: 30
     autore: Camillo Pacetti
-    dati anagrafici autore: Roma, 1758 - Milano, 1826
+    dati anagrafici autore: Roma, 2 maggio 1758 - Milano, 1826
     titolo: Giunone
-    datazione: 1805-1815 circa
+    datazione: 1800-1807 circa
     materia e tecnica: Terracotta dorata
     misure: 50 × 20 × 16 cm 
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -632,10 +632,10 @@ object_list:
     autore: Bartolomeo Cavaceppi
     dati anagrafici autore: Roma, 1716 - 1799
     titolo: Testa di Bacco
-    datazione: 1785 circa
+    datazione: 1770 circa
     materia e tecnica: Terracotta
     misure: 55 × 43 × 30 cm
-    iscrizioni, etichette, cartellini, timbri: Sulla spalla iscrizione a carboncino «189».
+    iscrizioni, etichette, cartellini, timbri: Sulla spalla iscrizione a carboncino «189»
     acquisizione: Legato Federico Zeri, 1988  
     numero di inventario: Inv. n. 98 ZR 00042
     numeri di inventario precedenti: Sc. 168 (1998-2007); Sc. 167; Sc. 152; 1998 AC Sculture 00042 (2011-2012); 98 SC ZR042 (2012-2015)
@@ -683,8 +683,8 @@ object_list:
   - id: 35a
     autore: Randolph Rogers
     dati anagrafici autore: Waterloo, New York, 6 luglio 1825 - Roma, 15 gennaio 1892
-    titolo: Giovane cacciatore indiano d’America
-    datazione: 1866
+    titolo: Indian Hunter Boy (Giovane cacciatore indiano d’America)
+    datazione: Inverno 1864-1865 (ante quem del modello); 1865-1870 circa (esemplare dell’Accademia Carrara)
     materia e tecnica: Marmo bianco
     misure: 95,7 × 43 × 33 cm
     iscrizioni, etichette, cartellini, timbri: Sul retro, lungo il bordo inferiore della scultura, iscrizione incisa nel marmo in lettere corsive «Randolph Rogers, Rome».
@@ -698,7 +698,7 @@ object_list:
   - id: 35b
     autore: Randolph Rogers
     dati anagrafici autore: Waterloo, New York, 6 luglio 1825 - Roma, 15 gennaio 1892
-    titolo: Giovane pescatrice indiana d’America
+    titolo: Inverno 1864-1865 (ante quem del modello); 1865-1870 circa (esemplare dell’Accademia Carrara)
     datazione: 1866
     materia e tecnica: Marmo bianco
     misure: 86 × 45,7 × 36,1 cm
