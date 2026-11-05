@@ -619,22 +619,22 @@ figure_list:
   - id: "cat-5_6"
     src: figures/5_6.jpg
     caption: "Fig. 6 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/4bc7e2f9-e03e-458b-ac05-01560baa4603
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/57e84d46-92e1-40d0-ba11-675430058b50
     zoom: true
 
   - id: "cat-5_7"
     src: figures/5_7.jpg
     caption: "Fig. 7 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/e1294a9a-3a22-434b-a446-5d88905765fd
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/aa57669d-e23e-4f55-8454-d7bb24b9da92
     zoom: true
 
   - id: "cat-5_8"
     src: figures/5_8.jpg
     caption: "Fig. 8 - Vincenzo de’ Rossi, *Tomba di Franceschina Carduli Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/87906d75-b10a-41a7-8d73-04e494ea6f52
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/06cd955f-0ff6-4fe8-b181-3292b929deb8
     zoom: true
 
   - id: "cat-5_9"
@@ -2702,6 +2702,55 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/951ad34d-141e-411e-8657-918d69e2b806/canvas/edb47530-b988-4b55-8c3b-a659ece55765
     zoom: true
 
+  - id: "cat-21_6"
+    src: figures/21_6.jpg
+    caption: "Fig. 6 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a4ae28-dc2a-4295-9a66-dc403558db5b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a4ae28-dc2a-4295-9a66-dc403558db5b/canvas/f531e449-7cc6-4038-8f66-406a692d46f2
+    zoom: true
+
+  - id: "cat-21_7"
+    src: figures/21_7.jpg
+    caption: "Fig. 7 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ac3ca8d4-9c0b-4914-821a-d07b31ad1ad7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ac3ca8d4-9c0b-4914-821a-d07b31ad1ad7/canvas/959d1c7a-ffea-4e65-979c-dffef569da95
+    zoom: true
+
+  - id: "cat-21_8"
+    src: figures/21_8.jpg
+    caption: "Fig. 8 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12518e1b-adb1-45b6-9007-b1ae398bad76/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12518e1b-adb1-45b6-9007-b1ae398bad76/canvas/0eccb934-a5f7-4b2b-b4fa-6847e0ee703c
+    zoom: true
+
+  - id: "cat-21_9"
+    src: figures/21_9.jpg
+    caption: "Fig. 9 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da528d29-e628-4e77-a99b-f8470ed00e05/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da528d29-e628-4e77-a99b-f8470ed00e05/canvas/8910fa66-8591-4f76-b522-077399f22caa
+    zoom: true
+
+  - id: "cat-21_10"
+    src: figures/21_10.jpg
+    caption: "Fig. 10 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5fbd1c60-7fa1-4504-b7cc-7c083f1d1b2e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5fbd1c60-7fa1-4504-b7cc-7c083f1d1b2e/canvas/0ee77907-ab43-48d6-b337-3c9592b66563
+    zoom: true
+
+  - id: "cat-21_11"
+    src: figures/21_11.jpg
+    caption: "Fig. 11 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare del retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71049f2f-df19-49f8-8588-dbe1f3d68795/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71049f2f-df19-49f8-8588-dbe1f3d68795/canvas/08b6cbf0-4926-48e2-aeb8-e1cea510b870
+    zoom: true
+
+  - id: "cat-21_12"
+    src: figures/21_12.jpg
+    caption: "Fig. 12 – Giusto Le Court (seguace di), *Lucrezia*, 1690-1725 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/909459f9-9d98-47dc-889b-70c67aa6db3d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/909459f9-9d98-47dc-889b-70c67aa6db3d/canvas/8c2003fd-dc97-4f17-8526-1f61c746c990
+    zoom: true
+
   - id: "cat-22"
     src: figures/22.jpg
     caption: "Giusto Le Court, *Profilo di vecchio*, *Profilo di vecchia*, 1670 circa"
@@ -2723,6 +2772,62 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d66a731c-67e1-4748-b9bb-33d3e5cb48f0/canvas/c163552e-349e-473c-9615-c23eeb2e0200
     zoom: true
 
+  - id: "cat-22_3"
+    src: figures/22_3.jpg
+    caption: "Fig. 3 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/badd95cf-9aa6-4c49-984f-41c56dcedf28/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/badd95cf-9aa6-4c49-984f-41c56dcedf28/canvas/89d4a7fd-f599-43a3-90e1-02caa5bdea9d
+    zoom: true
+
+  - id: "cat-22_4"
+    src: figures/22_4.jpg
+    caption: "Fig. 4 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ca0b781-1a8f-4163-9686-f2f7c1fcea2d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ca0b781-1a8f-4163-9686-f2f7c1fcea2d/canvas/eb4d20c6-effe-4583-96e8-0657160a6ed3
+    zoom: true
+
+  - id: "cat-22_5"
+    src: figures/22_5.jpg
+    caption: "Fig. 5 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b1b3da7-743b-4e98-83d1-988f8c24f095/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4b1b3da7-743b-4e98-83d1-988f8c24f095/canvas/6f37f18e-b04c-4e10-879f-3c6e4ba06158
+    zoom: true
+
+  - id: "cat-22_6"
+    src: figures/22_6.jpg
+    caption: "Fig. 6 – Giusto Le Court, *Profilo di vecchio*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2f9322a2-f29b-499a-897d-c7942bd230bd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2f9322a2-f29b-499a-897d-c7942bd230bd/canvas/f049c049-6d03-48c2-b0d7-9410d0d46322
+    zoom: true
+
+  - id: "cat-22_7"
+    src: figures/22_7.jpg
+    caption: "Fig. 7 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc82cef3-e82b-4dc4-ba51-ef1c6b5a0939/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc82cef3-e82b-4dc4-ba51-ef1c6b5a0939/canvas/c78537d2-437b-467f-8e81-961b81be89e5
+    zoom: true
+
+  - id: "cat-22_8"
+    src: figures/22_8.jpg
+    caption: "Fig. 8 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/953a14a2-d79e-4a59-add4-a672d43428c3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/953a14a2-d79e-4a59-add4-a672d43428c3/canvas/17f15586-ff36-4082-a791-1463043dd3c1
+    zoom: true
+
+  - id: "cat-22_9"
+    src: figures/22_9.jpg
+    caption: "Fig. 9 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a6e75743-3f86-4ed9-9222-b17209b4899b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a6e75743-3f86-4ed9-9222-b17209b4899b/canvas/b4566b3e-3a10-4d4d-9782-d290bf331c98
+    zoom: true
+
+  - id: "cat-22_10"
+    src: figures/22_10.jpg
+    caption: "Fig. 10 – Giusto Le Court, *Profilo di vecchia*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/81b2a757-4860-467b-a3f0-42a1613b207b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/81b2a757-4860-467b-a3f0-42a1613b207b/canvas/1a191f89-4a73-4a87-a87f-cfb3cdce6e9a
+    zoom: true
+
   - id: "cat-23"
     src: figures/23.jpg
     caption: "Giusto Le Court, *Profilo di giovane uomo*, *Profilo di giovane donna*, 1670 circa"
@@ -2742,6 +2847,76 @@ figure_list:
     caption: "Fig. 2 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2685ba2-991d-4c71-8aac-5dfd66c30752/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2685ba2-991d-4c71-8aac-5dfd66c30752/canvas/31cad342-f9e5-4dae-8b0f-fbb1aea90844
+    zoom: true
+
+  - id: "cat-23_3"
+    src: figures/23_3.jpg
+    caption: "Fig. 3 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/58e2f241-8ec7-4a95-b49d-83576cfd6909/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/58e2f241-8ec7-4a95-b49d-83576cfd6909/canvas/7151bd15-c3e8-4093-9cfa-57335869c12f
+    zoom: true
+
+  - id: "cat-23_4"
+    src: figures/23_4.jpg
+    caption: "Fig. 4 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0e1cfeab-4df8-48b0-a706-e5e6bbc4dd2b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0e1cfeab-4df8-48b0-a706-e5e6bbc4dd2b/canvas/393f4a97-f2dd-44b1-8dcf-cd9247830a10
+    zoom: true
+
+  - id: "cat-23_5"
+    src: figures/23_5.jpg
+    caption: "Fig. 5 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/541faed7-3a9d-4036-a0f4-2e291c9db032/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/541faed7-3a9d-4036-a0f4-2e291c9db032/canvas/4f441dac-8493-4922-a4cd-9e697ba26304
+    zoom: true
+
+  - id: "cat-23_6"
+    src: figures/23_6.jpg
+    caption: "Fig. 6 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cbdeeb92-59a2-4195-ae06-8cddc0984dd5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cbdeeb92-59a2-4195-ae06-8cddc0984dd5/canvas/1b237c54-db5c-4689-88e8-49f9e947a2b1
+    zoom: true
+
+  - id: "cat-23_7"
+    src: figures/23_7.jpg
+    caption: "Fig. 7 – Giusto Le Court, *Profilo di giovane uomo*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d215b089-1dbb-427a-8f1e-caeca8ca976e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d215b089-1dbb-427a-8f1e-caeca8ca976e/canvas/2b728d39-8035-4494-a72e-4c2dda4b94eb
+    zoom: true
+
+  - id: "cat-23_8"
+    src: figures/23_8.jpg
+    caption: "Fig. 8 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/13720679-456b-4111-ba5f-ed972f5e83f0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/13720679-456b-4111-ba5f-ed972f5e83f0/canvas/af9d05f2-d513-4fa7-b4a1-9da5ac70d8ec
+    zoom: true
+
+  - id: "cat-23_9"
+    src: figures/23_9.jpg
+    caption: "Fig. 9 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7836063a-202a-419c-a06a-08dc09f495c3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7836063a-202a-419c-a06a-08dc09f495c3/canvas/9cc75bdc-cffa-4be4-ba96-4292f3a4859c
+    zoom: true
+
+  - id: "cat-23_10"
+    src: figures/23_10.jpg
+    caption: "Fig. 10 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/730a95b8-ccea-44e9-9690-a87129f1be05/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/730a95b8-ccea-44e9-9690-a87129f1be05/canvas/3255e25c-c8a9-4c04-a932-2eb35f75d983
+    zoom: true
+
+  - id: "cat-23_11"
+    src: figures/23_11.jpg
+    caption: "Fig. 11 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/68af8ff0-3f8f-4866-a00d-3e8d330189e4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/68af8ff0-3f8f-4866-a00d-3e8d330189e4/canvas/a3af7ba7-d11b-49c8-9918-329a42d13f19
+    zoom: true
+
+  - id: "cat-23_12"
+    src: figures/23_12.jpg
+    caption: "Fig. 12 – Giusto Le Court, *Profilo di giovane donna*, 1670 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c0025b61-2717-4fe9-a5ac-fb9d45fa6310/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c0025b61-2717-4fe9-a5ac-fb9d45fa6310/canvas/5c33bb24-7a0b-41fb-aa20-eca0c108b8a6
     zoom: true
 
   - id: "cat-24"
@@ -2777,6 +2952,90 @@ figure_list:
     caption: "Fig. 4 – Giovanni Bonazza, *Profilo di San Giovanni Evangelista*, 1680-1685 circa, Osimo (Ancona), Collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45a3006f-bcd4-4ca3-86ce-b91d3f9b7a1d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45a3006f-bcd4-4ca3-86ce-b91d3f9b7a1d/canvas/b85b848a-9550-4de3-8cc4-fb5d36250841
+    zoom: true
+
+  - id: "cat-24_5"
+    src: figures/24_5.jpg
+    caption: "Fig. 5 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4044b942-3b6e-423d-acca-ffd58db46dfa/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4044b942-3b6e-423d-acca-ffd58db46dfa/canvas/401061f6-517a-4aaa-ab8c-93e2b922a107
+    zoom: true
+
+  - id: "cat-24_6"
+    src: figures/24_6.jpg
+    caption: "Fig. 6 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/91e32e43-b44d-4f0e-93bb-c032c8638e64/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/91e32e43-b44d-4f0e-93bb-c032c8638e64/canvas/d3122117-40fa-4a6d-8019-0ecc0192f772
+    zoom: true
+
+  - id: "cat-24_7"
+    src: figures/24_7.jpg
+    caption: "Fig. 7 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b9490b76-4e1d-43a3-bd38-48106bad3271/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b9490b76-4e1d-43a3-bd38-48106bad3271/canvas/566f6774-cd90-4fa2-93ce-d5ff1fe5daef
+    zoom: true
+
+  - id: "cat-24_8"
+    src: figures/24_8.jpg
+    caption: "Fig. 8 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dc3a5cb-ff81-4e43-917b-622378f5fe72/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dc3a5cb-ff81-4e43-917b-622378f5fe72/canvas/72baff7b-5102-4ad6-b5cd-1ced39730186
+    zoom: true
+
+  - id: "cat-24_9"
+    src: figures/24_9.jpg
+    caption: "Fig. 9 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8895f56f-69d6-437e-8982-26ac2d8b6bf6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8895f56f-69d6-437e-8982-26ac2d8b6bf6/canvas/f64c446f-0ff3-4817-bdb7-d95721286a3c
+    zoom: true
+
+  - id: "cat-24_10"
+    src: figures/24_10.jpg
+    caption: "Fig. 10 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30b8ddce-7010-4f87-a4a5-ace514a6bab1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30b8ddce-7010-4f87-a4a5-ace514a6bab1/canvas/01f00093-a2b1-4c11-8a76-d6fd70044105
+    zoom: true
+
+  - id: "cat-24_11"
+    src: figures/24_11.jpg
+    caption: "Fig. 11 – Giovanni Bonazza, *Profilo di San Luca*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e1456c6f-2add-4af0-8298-3973f12b8fa7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e1456c6f-2add-4af0-8298-3973f12b8fa7/canvas/65c383cc-b0c5-4184-bfb4-7f48dfdbea4a
+    zoom: true
+
+  - id: "cat-24_12"
+    src: figures/24_12.jpg
+    caption: "Fig. 12 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/52bcb057-cdb0-4547-8a77-064e610398f5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/52bcb057-cdb0-4547-8a77-064e610398f5/canvas/0b6f8815-fdbe-4fa6-a3a1-5300b386cf8d
+    zoom: true
+
+  - id: "cat-24_13"
+    src: figures/24_13.jpg
+    caption: "Fig. 13 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d7a9bda9-e6bc-4a48-818a-cc8d2673b3d8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d7a9bda9-e6bc-4a48-818a-cc8d2673b3d8/canvas/42fcbce2-f5bf-40de-a393-a5bef9a7fcf6
+    zoom: true
+
+  - id: "cat-24_14"
+    src: figures/24_14.jpg
+    caption: "Fig. 14 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f4deccb6-b72f-41f4-8742-c0344f3b260c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f4deccb6-b72f-41f4-8742-c0344f3b260c/canvas/ed6f257f-b52c-4e36-9e97-e0f4da7a244d
+    zoom: true
+
+  - id: "cat-24_15"
+    src: figures/24_15.jpg
+    caption: "Fig. 15 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/79a8c30e-f511-488c-ad3e-829313443790/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/79a8c30e-f511-488c-ad3e-829313443790/canvas/b82c75b4-736c-48ee-8ca2-1366411751c8
+    zoom: true
+
+  - id: "cat-24_16"
+    src: figures/24_16.jpg
+    caption: "Fig. 16 – Giovanni Bonazza, *Profilo di San Marco*, 1680-1685 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6c904ad7-c136-4241-9330-43b95c4ad907/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6c904ad7-c136-4241-9330-43b95c4ad907/canvas/9c9b838e-9bde-406a-a8dd-192129c78f8c
     zoom: true
 
   - id: "cat-25"
@@ -3264,9 +3523,9 @@ figure_list:
 
   - id: "cat-28_2"
     src: figures/28_2.jpg
-    caption: "Fig. 2 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8fc96db7-f0a6-4bc1-ac3d-78d5528d275b/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8fc96db7-f0a6-4bc1-ac3d-78d5528d275b/canvas/fb52bd3d-b493-4aae-8809-e8cba5fd8dba
+    caption: "Fig. 2 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/47796e93-596d-4d5a-a36b-e386d5975c54/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/47796e93-596d-4d5a-a36b-e386d5975c54/canvas/c66206e8-65e5-4008-8e19-bb0426b5e2cc
     zoom: true
 
   - id: "cat-28_3"
@@ -3995,6 +4254,55 @@ figure_list:
     caption: "Fig. 7 – Bartolomeo Cavaceppi, *Busto di Tiberio nelle vesti di Eracle*, 1788, marmo, Wörlitz, Wörlitz Palace"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c0e792e-51e0-4b65-8a86-e1e1cf636eb6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c0e792e-51e0-4b65-8a86-e1e1cf636eb6/canvas/e8daac07-857f-46ed-95c8-2953b3194cac
+    zoom: true
+
+  - id: "cat-33_8"
+    src: figures/33_8.jpg
+    caption: "Fig. 8 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4008ebf5-e34a-410b-82da-40659ad5c587/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4008ebf5-e34a-410b-82da-40659ad5c587/canvas/43fb8256-2081-4bb0-a3b8-0b583c247dbd
+    zoom: true
+
+  - id: "cat-33_9"
+    src: figures/33_9.jpg
+    caption: "Fig. 9 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/af4d07ec-d89c-4948-84c9-ca836672be32/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/af4d07ec-d89c-4948-84c9-ca836672be32/canvas/42a8b36a-ab7d-4c17-98a5-9828ea77a34e
+    zoom: true
+
+  - id: "cat-33_10"
+    src: figures/33_10.jpg
+    caption: "Fig. 10 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare del retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/64980bd2-1ad2-46a2-adee-d356454173dc/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/64980bd2-1ad2-46a2-adee-d356454173dc/canvas/33480db9-d537-4106-a318-7fdb9f838cc2
+    zoom: true
+
+  - id: "cat-33_11"
+    src: figures/33_11.jpg
+    caption: "Fig. 11 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a752ba84-eb0e-4dcc-8de5-eccf89297cd3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a752ba84-eb0e-4dcc-8de5-eccf89297cd3/canvas/c8ad95f9-590d-41ca-a11e-9e1d60236698
+    zoom: true
+
+  - id: "cat-33_12"
+    src: figures/33_12.jpg
+    caption: "Fig. 12 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9903b474-123c-4148-bcbd-8f3442cbf550/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9903b474-123c-4148-bcbd-8f3442cbf550/canvas/68cd4db8-4884-4114-a6e5-f9d8791caa8a
+    zoom: true
+
+  - id: "cat-33_13"
+    src: figures/33_13.jpg
+    caption: "Fig. 13 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/194cfdc3-eec5-46c8-ac1a-5939f2699ffe/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/194cfdc3-eec5-46c8-ac1a-5939f2699ffe/canvas/50cc8c4b-9cf7-484f-ab81-d8fcb16209cb
+    zoom: true
+
+  - id: "cat-33_14"
+    src: figures/33_14.jpg
+    caption: "Fig. 14 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (retro)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6f98d545-d6d4-4c05-8649-007a903ce145/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6f98d545-d6d4-4c05-8649-007a903ce145/canvas/009702ce-aeca-4820-b050-f8d917ac077a
     zoom: true
 
   - id: "cat-34"
