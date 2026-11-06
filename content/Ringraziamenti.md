@@ -1,7 +1,8 @@
 ---
-title: Ringraziamenti
-layout: page
+title: Ringraziamenti 
+layout: splash
 order: 14
+image: introduzione-sculture-zeri-2026.jpg
 ---
 
 **Ringraziamenti**

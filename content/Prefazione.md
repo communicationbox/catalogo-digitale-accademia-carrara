@@ -1,7 +1,9 @@
 ---
 title: Prefazione
-layout: page
+subtitle: Catalogare per conoscere
+layout: splash
 order: 8
+image: introduzione-sculture-zeri-2026.jpg
 ---
 
 **Catalogare per conoscere**
