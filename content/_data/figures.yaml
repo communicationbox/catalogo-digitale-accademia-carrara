@@ -51,14 +51,14 @@ figure_list:
 
   - id: "cat-1_8"
     src: figures/1_8.jpg
-    caption: "Fig. 8 – Antonio Rizzo, *La conversione di San Paolo* (paliotto dell’*Altare di San Paolo*), particolare, 1465-1469, marmo. Venezia, Basilica di San Marco"
+    caption: "Fig. 8 – Antonio Rizzo, *La conversione di San Paolo* (paliotto dell’*Altare di San Paolo*), 1465-1469, marmo. Venezia, Basilica di San Marco (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bc0edddf-7da7-48d5-a4bf-e311ddbe3b58/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bc0edddf-7da7-48d5-a4bf-e311ddbe3b58/canvas/c2ff34d1-7156-4d07-bc83-6a8a0b350f07
     zoom: true
 
   - id: "cat-1_9"
     src: figures/1_9.jpg
-    caption: "Fig. 9 – Antonio Rizzo, *Altare di San Giacomo*, particolare, 1465-1469, marmo. Venezia, Basilica di San Marco"
+    caption: "Fig. 9 – Antonio Rizzo, *Altare di San Giacomo*, 1465-1469, marmo. Venezia, Basilica di San Marco (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/96e52317-694c-404d-8b68-da1f915c8d6f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/96e52317-694c-404d-8b68-da1f915c8d6f/canvas/5b766636-7482-4d29-9d71-07229e892208
     zoom: true
@@ -163,7 +163,7 @@ figure_list:
 
   - id: "cat-2_5"
     src: figures/2_5.jpg
-    caption: "Fig. 5 - Scultore lombardo (o veneto?), *Ritratto di Marco di Andrea Pantaleone Barbo*, ultimo quarto del XV secolo Venezia, Seminario Patriarcale"
+    caption: "Fig. 5 - Scultore lombardo (o veneto?), *Ritratto di Marco di Andrea Pantaleone Barbo*, ultimo quarto del XV secolo, Venezia, Seminario Patriarcale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/canvas/770408d1-a262-4757-81e2-2fabf7fc08eb
     zoom: true
@@ -619,34 +619,55 @@ figure_list:
   - id: "cat-5_6"
     src: figures/5_6.jpg
     caption: "Fig. 6 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/57e84d46-92e1-40d0-ba11-675430058b50
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc3f29df-d80a-47a0-b0ae-9d1967b9490c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc3f29df-d80a-47a0-b0ae-9d1967b9490c/canvas/6f6a87a7-94d3-45f8-83e8-e104cbab26f2
     zoom: true
 
   - id: "cat-5_7"
     src: figures/5_7.jpg
     caption: "Fig. 7 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/aa57669d-e23e-4f55-8454-d7bb24b9da92
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/adb66fb4-7f9d-428a-bd40-6431aeb398da/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/adb66fb4-7f9d-428a-bd40-6431aeb398da/canvas/7b4977bc-674b-42c4-a587-7531a8de9fbf
     zoom: true
 
   - id: "cat-5_8"
     src: figures/5_8.jpg
     caption: "Fig. 8 - Vincenzo de’ Rossi, *Tomba di Franceschina Carduli Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/06cd955f-0ff6-4fe8-b181-3292b929deb8
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/345f785e-772f-4461-be77-f4df2771f462/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/345f785e-772f-4461-be77-f4df2771f462/canvas/6ff337f2-cd05-4b98-90f0-d68601d16056
     zoom: true
 
   - id: "cat-5_9"
     src: figures/5_9.jpg
-    caption: "Fig. 9 – Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/canvas/d52b2a96-4262-49e6-9182-788ddc0dc2ef
+    caption: "Fig. 9 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/57e84d46-92e1-40d0-ba11-675430058b50
     zoom: true
 
   - id: "cat-5_10"
     src: figures/5_10.jpg
-    caption: "Fig. 10 – Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    caption: "Fig. 10 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/aa57669d-e23e-4f55-8454-d7bb24b9da92
+    zoom: true
+
+  - id: "cat-5_11"
+    src: figures/5_11.jpg
+    caption: "Fig. 11 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/06cd955f-0ff6-4fe8-b181-3292b929deb8
+    zoom: true
+
+  - id: "cat-5_12"
+    src: figures/5_12.jpg
+    caption: "Fig. 12 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/canvas/d52b2a96-4262-49e6-9182-788ddc0dc2ef
+    zoom: true
+
+  - id: "cat-5_13"
+    src: figures/5_13.jpg
+    caption: "Fig. 13 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc38e689-9e2f-4482-868f-77b444719de3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc38e689-9e2f-4482-868f-77b444719de3/canvas/0319d8c9-25e4-4c13-9d6c-f329f0800866
     zoom: true
@@ -656,6 +677,20 @@ figure_list:
     caption: "Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a0aa78d2-703c-4fc7-bb1e-b233b53822f5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a0aa78d2-703c-4fc7-bb1e-b233b53822f5/canvas/8909e116-27e2-4c74-82b2-4bd4e304ab20
+    zoom: true
+
+  - id: "cat-6_1"
+    src: figures/6_1.jpg
+    caption: "Fig. 1 – Domenico Cafaggi, *Arcangelo Gabriele*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/canvas/6c26ee7d-2df2-44a9-91b2-c8c7c8e55f2f
+    zoom: true
+    
+  - id: "cat-6_2"
+    src: figures/6_2.jpg
+    caption: "Fig. 2 – Domenico Cafaggi, *Vergine Annunciata*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/canvas/7d5807c6-6053-4664-a121-dcd134ceadf7
     zoom: true
 
   - id: "cat-6_3"
@@ -800,14 +835,14 @@ figure_list:
 
   - id: "cat-7_6"
     src: figures/7_6.jpg
-    caption: "Fig. 6 – *Busto di Apollonio Massa*, Venezia, Seminario Patriarcale"
+    caption: "Fig. 6 – Alessandro Vittoria, *Busto di Apollonio Massa*, 1587 (?), Venezia, Seminario Patriarcale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cd66f18a-df35-42a8-af62-b788da1720bd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cd66f18a-df35-42a8-af62-b788da1720bd/canvas/769a0f6e-fbb6-4833-836a-41d1a5f3e940
     zoom: true
 
   - id: "cat-7_7"
     src: figures/7_7.jpg
-    caption: "Fig. 7 – Alessandro Vittoria (imitatore di), *Apollonio Massa, Dottore di Medicina*, New York, The Metropolitan Museum of Art, XIX secolo"
+    caption: "Fig. 7 – Alessandro Vittoria (imitatore di), *Apollonio Massa*, secolo XIX, New York, The Metropolitan Museum of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/af415ed4-57de-40ed-96e4-a49b7d213a38/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/af415ed4-57de-40ed-96e4-a49b7d213a38/canvas/ed1eceaf-9135-404e-b7ab-da0b270c5763
     zoom: true
@@ -828,7 +863,7 @@ figure_list:
 
   - id: "cat-7_10"
     src: figures/7_10.jpg
-    caption: "Fig. 10 – Alessandro Vittoria, *Busto di Tommaso Rangone*, 1575 circa, Venezia, Museo Correr"
+    caption: "Fig. 10 – Alessandro Vittoria, *Tommaso Rangone*, 1575 circa, Venezia, Museo Correr"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a202336c-2bba-411a-83a3-cb7483cda468/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a202336c-2bba-411a-83a3-cb7483cda468/canvas/973f9b09-5d6a-457c-bce3-aec68bd5052e
     zoom: true
@@ -926,28 +961,28 @@ figure_list:
 
   - id: "cat-8_6"
     src: figures/8_6.jpg
-    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V* (facciata della Basilica di San Pietro), 1608, Londra, British Museum"
+    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V*, 1608, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/canvas/d04274e7-ecea-48c6-925e-850a9498e99d
     zoom: true
 
   - id: "cat-8_7"
     src: figures/8_7.jpg
-    caption: "Fig. 7 – Paolo Sanquirico, *Medagli di Paolo V*, 1609 (fortezza di Ferrara), Londra, British Museum"
+    caption: "Fig. 7 – Paolo Sanquirico, *Medaglia di Paolo V*, 1609, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/canvas/080bd7b0-15cc-4d60-9ab3-a589c0927728
     zoom: true
 
   - id: "cat-8_8"
     src: figures/8_8.jpg
-    caption: "Fig. 8 – Paolo Sanquirico, *Ritratto di papa Paolo V in cattedra*, 1605-1620 circa, Roma, Basilica di Santa Maria Maggiore"
+    caption: "Fig. 8 - Paolo Sanquirico, *Paolo V Borghese in cattedra*, 1605-1620 circa, Roma, Basilica di Santa Maria Maggiore"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42513568-fc4f-4733-bedf-7ec7e7ba0ca5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42513568-fc4f-4733-bedf-7ec7e7ba0ca5/canvas/4a61a423-992e-48db-9a4b-e8ec9cff72db
     zoom: true
 
   - id: "cat-8_9"
     src: figures/8_9.jpg
-    caption: "Fig. 9 – Sebastiano Sebastiani, *statua in bronzo di Paolo V*, Rimini, Piazza Cavour"
+    caption: "Fig. 9 – Sebastiano Sebastiani, *Paolo V Borghese*, Rimini, Piazza Cavour"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c12253f-ee62-4518-8ed5-958c51cb0976/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c12253f-ee62-4518-8ed5-958c51cb0976/canvas/895e8b17-b6b5-41fc-b907-20376240affa
     zoom: true
@@ -975,7 +1010,7 @@ figure_list:
 
   - id: "cat-8_13"
     src: figures/8_13.jpg
-    caption: "Fig. 13 – Nicolas Cordier, *Ritratto di Lesa Deti Aldobrandini* scolpito per il suo monumento funebre, Roma, Santa Maria sopra Minerva"
+    caption: "Fig. 13 – Nicolas Cordier, *Monumento funebre di Lesa Deti Aldobrandini*, Roma, Santa Maria sopra Minerva (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/56f61e11-430a-4f69-a8f5-ab9a2933c0e4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/56f61e11-430a-4f69-a8f5-ab9a2933c0e4/canvas/79308e9b-53a7-4686-8cb3-123a5ab83785
     zoom: true
@@ -996,7 +1031,7 @@ figure_list:
 
   - id: "cat-8_16"
     src: figures/8_16.jpg
-    caption: "Fig. 16 – Silla Longhi da Viggiù, *Papa Paolo V Borghese*, particolare del *Monumento di Papa Paolo V Borghese*, 1610-1615 circa, Roma, Basilica di Santa Maria Maggiore"
+    caption: "Fig. 16 – Silla Longhi da Viggiù, *Monumento di Paolo V Borghese*, 1610-1615 circa, Roma, Basilica di Santa Maria Maggiore (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5d3fcb16-156f-4d03-b1fb-5bd74d1da9c7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5d3fcb16-156f-4d03-b1fb-5bd74d1da9c7/canvas/985e4309-54d6-47ca-bcc3-eb6cc0038c20
     zoom: true
@@ -1052,7 +1087,7 @@ figure_list:
 
   - id: "cat-9_1"
     src: figures/9_1.jpg
-    caption: "Fig. 1 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 1 - Pietro Bernini, *Andromeda*, 1615-1616 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b5bc0c02-907d-4bec-9ca5-74805772df77/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b5bc0c02-907d-4bec-9ca5-74805772df77/canvas/d256f8b3-af5e-4a51-9e94-5a91678d553a
     zoom: true
@@ -1066,7 +1101,7 @@ figure_list:
 
   - id: "cat-9_3"
     src: figures/9_3.jpg
-    caption: "Fig. 3 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 3 - Pietro Bernini, *Andromeda*, 1615-1616 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c7763414-a21c-488a-81be-6145c5c95d5e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c7763414-a21c-488a-81be-6145c5c95d5e/canvas/bf431812-d38e-408c-b8db-652276487d39
     zoom: true
@@ -1080,14 +1115,14 @@ figure_list:
 
   - id: "cat-9_5"
     src: figures/9_5.jpg
-    caption: "Fig. 5 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 5 - Pietro Bernini, *Andromeda*, 1615-1616 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93f57b55-4bb8-43fa-9c6c-be0de470aca3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93f57b55-4bb8-43fa-9c6c-be0de470aca3/canvas/dd7311f2-f5d1-4fd0-ae65-dfc1f3082a8f
     zoom: true
 
   - id: "cat-9_6"
     src: figures/9_6.jpg
-    caption: "Fig. 6 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 6 - Pietro Bernini, *Andromeda*, 1615-1616 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f65fe767-e8be-4a2a-8bed-6ccd4f914861/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f65fe767-e8be-4a2a-8bed-6ccd4f914861/canvas/3ae56200-37d1-4fd8-9f57-5cfb391aefaf
     zoom: true
@@ -1108,49 +1143,49 @@ figure_list:
 
   - id: "cat-9_9"
     src: figures/9_9.jpg
-    caption: "Fig. 9 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 9 - Pietro Bernini, *Andromeda*, 1615-1616 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ebc0016-928d-4c02-a173-ca861b1553ea/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ebc0016-928d-4c02-a173-ca861b1553ea/canvas/f7a5d458-ea2f-41a4-bbaa-b4582ab9c09e
     zoom: true
 
   - id: "cat-9_10"
     src: figures/9_10.jpg
-    caption: "Fig. 10 - Gian Lorenzo Bernini (attr. a), *Andromeda*, collezione privata (particolare"
+    caption: "Fig. 10 - Gian Lorenzo Bernini (attr. a), *Andromeda*, collezione privata (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f8f6dc7a-cfad-45f5-8f01-14acb8085966/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f8f6dc7a-cfad-45f5-8f01-14acb8085966/canvas/32cf8995-f76a-4d34-be4b-b1635047549f
     zoom: true
 
   - id: "cat-9_11"
     src: figures/9_11.jpg
-    caption: "Fig. 11 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 11 - Pietro Bernini, *Andromeda*, 1615-1616 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0264bf85-66dc-4783-95d2-4a9cca5592e5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0264bf85-66dc-4783-95d2-4a9cca5592e5/canvas/5eee4b7e-f185-40c8-a86e-58a600cd2de5
     zoom: true
 
   - id: "cat-9_12"
     src: figures/9_12.jpg
-    caption: "Fig. 12 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 12 - Pietro Bernini, *Andromeda*, 1615-1616 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6380e0d2-4995-4d6e-ad36-73bb9416cb3e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6380e0d2-4995-4d6e-ad36-73bb9416cb3e/canvas/edbbd6ac-91be-4643-a1bf-76b4be9c9259
     zoom: true
 
   - id: "cat-9_13"
     src: figures/9_13.jpg
-    caption: "Fig. 13 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 13 - Pietro Bernini, *Andromeda*, 1615-1616 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c679e790-2113-4e2b-aed8-843bb57a152b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c679e790-2113-4e2b-aed8-843bb57a152b/canvas/75c46e42-2e14-41af-ae10-176c7c975913
     zoom: true
 
   - id: "cat-9_14"
     src: figures/9_14.jpg
-    caption: "Fig. 14 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 14 - Pietro Bernini, *Andromeda*, 1615-1616 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8c53bbf9-aebe-4e16-b9e9-0c89d76a84d5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8c53bbf9-aebe-4e16-b9e9-0c89d76a84d5/canvas/771af61e-fef8-4cb2-9dfe-776f43eec06b
     zoom: true
 
   - id: "cat-9_15"
     src: figures/9_15.jpg
-    caption: "Fig. 15 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 15 - Pietro Bernini, *Andromeda*, 1615-1616 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d9ece3af-d2b3-4032-883c-e6362f938d76/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d9ece3af-d2b3-4032-883c-e6362f938d76/canvas/823636fc-ddd3-4635-9f80-67e745ba03c4
     zoom: true
@@ -1164,21 +1199,21 @@ figure_list:
 
   - id: "cat-10_1"
     src: figures/10_1.jpg
-    caption: "Fig. 1 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 1 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3fd171-6cc6-4004-8bcd-908ec26296ca/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3fd171-6cc6-4004-8bcd-908ec26296ca/canvas/03068412-bea5-45de-bfc1-bdfe0e5ba02d
     zoom: true
 
   - id: "cat-10_2"
     src: figures/10_2.jpg
-    caption: "Fig. 2 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 2 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12d754cc-95da-4c43-bcb9-d5b4d0459a81/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12d754cc-95da-4c43-bcb9-d5b4d0459a81/canvas/f7ac6cf5-113c-40a2-869f-1ad6af0bfd38
     zoom: true
 
   - id: "cat-10_3"
     src: figures/10_3.jpg
-    caption: "Fig. 3 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 3 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1543bb18-ab5c-44cc-bc8c-bc89c6d90c34/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1543bb18-ab5c-44cc-bc8c-bc89c6d90c34/canvas/946db2f0-9d27-42fb-a406-cba7ba451a53
     zoom: true
@@ -1192,7 +1227,7 @@ figure_list:
 
   - id: "cat-10_5"
     src: figures/10_5.jpg
-    caption: "Fig. 5 - Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare"
+    caption: "Fig. 5 - Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/359a1926-09bc-4f09-ad10-0c771b4170cf/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/359a1926-09bc-4f09-ad10-0c771b4170cf/canvas/838a3b61-c5df-4419-bb61-62cdb22de1e7
     zoom: true
@@ -1213,21 +1248,21 @@ figure_list:
 
   - id: "cat-10_8"
     src: figures/10_8.jpg
-    caption: "Fig. 8 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 8 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b4c164dd-7176-4bc6-a058-c9a3b3217ed7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b4c164dd-7176-4bc6-a058-c9a3b3217ed7/canvas/c558cac0-4930-4cae-987f-5f3e377d5320
     zoom: true
 
   - id: "cat-10_9"
     src: figures/10_9.jpg
-    caption: "Fig. 9 - Pietro e Gian Lorenzo Bernini, *Baccanale*, New York, Metropolitan Museum of Art (inv. n. 1976.92"
+    caption: "Fig. 9 - Pietro e Gian Lorenzo Bernini, *Baccanale*, New York, Metropolitan Museum of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ce915a0-aad3-441e-8994-2f7a74c8230d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ce915a0-aad3-441e-8994-2f7a74c8230d/canvas/183383b5-7d1a-4420-a87e-18eaab17a8ab
     zoom: true
 
   - id: "cat-10_10"
     src: figures/10_10.jpg
-    caption: "Fig. 10 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 10 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b37e56d2-9205-499e-a8d7-21c0fb8f5384/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b37e56d2-9205-499e-a8d7-21c0fb8f5384/canvas/b10bb376-16c9-4838-b5f9-b805f9df8e1e
     zoom: true
@@ -1241,7 +1276,7 @@ figure_list:
 
   - id: "cat-10_12"
     src: figures/10_12.jpg
-    caption: "Fig. 12 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 12 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/270688f6-e0e4-4543-a2d7-dc45955da280/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/270688f6-e0e4-4543-a2d7-dc45955da280/canvas/5d3fbf64-a461-42a5-85f2-2de25ce0c196
     zoom: true
@@ -1262,7 +1297,7 @@ figure_list:
 
   - id: "cat-11_2"
     src: figures/11_2.jpg
-    caption: "Fig. 2 – François du Quesnoy detto il Fiammingo, *Monumento a Adriano Vryburch*, 1629 circa, Roma, Chiesa di Santa Maria dell’Anima.jpg"
+    caption: "Fig. 2 – François du Quesnoy detto il Fiammingo, *Monumento ad Adrian Vryburch*, 1629 circa, Roma, Chiesa di Santa Maria dell’Anima"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a85faa82-762e-45dd-9ded-39230365c73c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a85faa82-762e-45dd-9ded-39230365c73c/canvas/6cf3dc1a-2b71-4931-a78c-8d78333ceac0
     zoom: true
@@ -1276,14 +1311,14 @@ figure_list:
 
   - id: "cat-11_4"
     src: figures/11_4.jpg
-    caption: "Fig. 4 – François du Quesnoy detto il Fiammingo, *Monumento a Adriano Vryburch*, 1629 circa, Roma, Chiesa di Santa Maria dell’Anima (particolare).jpg"
+    caption: "Fig. 4 – François du Quesnoy detto il Fiammingo, *Monumento ad Adrian Vryburch*, 1629 circa, Roma, Chiesa di Santa Maria dell’Anima (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e845f67e-458a-46ab-be30-a6e1e066d7d1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e845f67e-458a-46ab-be30-a6e1e066d7d1/canvas/fcac1baa-4704-4036-9701-d87a39e212ec
     zoom: true
 
   - id: "cat-11_5"
     src: figures/11_5.jpg
-    caption: "Fig. 5 – François du Quesnoy detto il Fiammingo, *Monumento a Adriano Vryburch*, Roma, Chiesa di Santa Maria dell’Anima (particolare).jpg"
+    caption: "Fig. 5 – François du Quesnoy detto il Fiammingo, *Monumento ad Adrian Vryburch*, Roma, Chiesa di Santa Maria dell’Anima (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/300048be-2dea-4395-b3a6-5026c880dc3f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/300048be-2dea-4395-b3a6-5026c880dc3f/canvas/fb088a4b-0415-4a56-88ac-8d783571d9d8
     zoom: true
@@ -1360,14 +1395,14 @@ figure_list:
 
   - id: "cat-11_16"
     src: figures/11_16.jpg
-    caption: "Fig. 16 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da Antonia Nava Cellini, *Duquesnoy e Poussin - nuovi contributi*, in “Paragone”, XVII, 195, 1966, tav. 29)"
+    caption: "Fig. 16 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da Antonia Nava Cellini, *Duquesnoy e Poussin. Nuovi contributi*, in «Paragone», XVII, 195, 1966, tav. 29)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ebae4fb-71a8-4739-8fb6-8b926e470549/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ebae4fb-71a8-4739-8fb6-8b926e470549/canvas/79ac52df-c101-49c3-b4cf-3c1859bef9b7
     zoom: true
 
   - id: "cat-11_17"
     src: figures/11_17.jpg
-    caption: "Fig. 17 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da A. Bacchi, in *Il conoscitore d’arte - Sculture dal XV al XIX secolo della collezione di Federico Zeri*, catalogo della mostra, Milano, Electa, 1989, p. 35 cat. n. 10b)"
+    caption: "Fig. 17 - François du Quesnoy detto il Fiammingo, *Angelo con drappo*, 1628-1629 circa (da Andrea Bacchi, in *Il conoscitore d’arte. Sculture dal XV al XIX secolo della collezione di Federico Zeri*, catalogo della mostra, Milano, Electa, 1989, p. 35)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b5b3db9-2e08-4a35-94c3-caba78ad875b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b5b3db9-2e08-4a35-94c3-caba78ad875b/canvas/4422ef6a-0a97-494b-a96e-f072a9055b0d
     zoom: true
@@ -1395,14 +1430,14 @@ figure_list:
 
   - id: "cat-12_3"
     src: figures/12_3.jpg
-    caption: "Fig. 3 – Nicolas Poussin, *Baccanale*, 1626, Roma, Galleria Nazionale d’arte antica di Palazzo Barberini, inv. 2592"
+    caption: "Fig. 3 – Nicolas Poussin, *Baccanale*, 1626, Roma, Galleria Nazionale d’arte antica di Palazzo Barberini"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43fdb7bb-2152-4813-8591-8f07d6dd9cac/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43fdb7bb-2152-4813-8591-8f07d6dd9cac/canvas/defc2844-b5f0-4376-adbc-42337017bb09
     zoom: true
 
   - id: "cat-12_4"
     src: figures/12_4.jpg
-    caption: "Fig. 4 – Nicolas Poussin, *Baccanale*, 1626, Roma, Galleria Nazionale d’arte antica di Palazzo Barberini, inv. 2593"
+    caption: "Fig. 4 – Nicolas Poussin, *Baccanale*, 1626, Roma, Galleria Nazionale d’arte antica di Palazzo Barberini"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4506cc29-13c5-49f3-9fd3-afe3f77fa457/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4506cc29-13c5-49f3-9fd3-afe3f77fa457/canvas/ab226e13-97bf-4c06-861c-c4245f6facde
     zoom: true
@@ -1416,7 +1451,7 @@ figure_list:
 
   - id: "cat-12_6"
     src: figures/12_6.jpg
-    caption: "Fig. 6 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, stucco, Roma, Galleria Spada, inv. ???"
+    caption: "Fig. 6 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, stucco, Roma, Galleria Spada"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5135db93-4983-4dde-87fb-ec44964cba88/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5135db93-4983-4dde-87fb-ec44964cba88/canvas/839b940d-e734-4c16-ac69-938270ad989c
     zoom: true
@@ -1430,42 +1465,42 @@ figure_list:
 
   - id: "cat-12_8"
     src: figures/12_8.jpg
-    caption: "Fig. 8 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, stucco, Roma, Galleria Spada, inv. ??? (particolare putto che dà premio a vincitore)"
+    caption: "Fig. 8 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, stucco, Roma, Galleria Spada (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/95cc348d-40b8-4669-979b-1461eca43710/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/95cc348d-40b8-4669-979b-1461eca43710/canvas/d03eb2a4-d4e3-472a-83e3-0d3531997171
     zoom: true
 
   - id: "cat-12_9"
     src: figures/12_9.jpg
-    caption: "Fig. 9 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, Roma, Palazzo Doria Pamphilj (particolare putto che dà premio a vincitore)"
+    caption: "Fig. 9 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, Roma, Palazzo Doria Pamphilj (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaa1420d-197f-4b1c-a470-549267cf9ab4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaa1420d-197f-4b1c-a470-549267cf9ab4/canvas/cdf72d82-2f56-43b8-8b17-5d7606e59703
     zoom: true
 
   - id: "cat-12_10"
     src: figures/12_10.jpg
-    caption: "Fig. 10 – Nicolas Poussin, *Baccanale*, 1626, Roma, Galleria Nazionale d’arte antica di Palazzo Barberini, inv. 2592 (particolare)"
+    caption: "Fig. 10 – Nicolas Poussin, *Baccanale*, 1626, Roma, Galleria Nazionale d’arte antica di Palazzo Barberini (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c155b1-db61-49d6-ad43-c69039cf1007/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c155b1-db61-49d6-ad43-c69039cf1007/canvas/e02b1342-6aba-4d4b-8ee6-b32f000c9571
     zoom: true
 
   - id: "cat-12_11"
     src: figures/12_11.jpg
-    caption: "Fig. 11 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, stucco, Roma, Galleria Spada, inv. ??? (particolare putto con ghirlanda)"
+    caption: "Fig. 11 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, stucco, Roma, Galleria Spada (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b02ceb0-2660-4ae0-a1cd-d6db7c68026c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b02ceb0-2660-4ae0-a1cd-d6db7c68026c/canvas/f47d6ede-9463-4695-a069-ea4942dafbd7
     zoom: true
 
   - id: "cat-12_12"
     src: figures/12_12.jpg
-    caption: "Fig. 12 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, ante 1631, Lisbona, Calouste Gulbenkian Museum, inv. 546"
+    caption: "Fig. 12 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, ante 1631, Lisbona, Calouste Gulbenkian Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09d581e4-b607-489b-90c2-7b18a78a142b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09d581e4-b607-489b-90c2-7b18a78a142b/canvas/396d01f5-8edc-43bd-97bc-73fcfd2450c4
     zoom: true
 
   - id: "cat-12_13"
     src: figures/12_13.jpg
-    caption: "Fig. 13 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, fine XVII – inizio XVIII secolo, Detroit, Detroit Institute of Arts, inv. 42.107"
+    caption: "Fig. 13 – François du Quesnoy detto il Fiammingo, *Amor divino che atterra l’Amor profano*, fine XVII – inizio XVIII secolo, Detroit, Detroit Institute of Arts"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2a26f922-bc93-4dd7-b9e4-8cee4e12e959/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2a26f922-bc93-4dd7-b9e4-8cee4e12e959/canvas/48357d41-fa89-49ed-8858-c620f25c7597
     zoom: true
@@ -1542,14 +1577,14 @@ figure_list:
 
   - id: "cat-12_24"
     src: figures/12_24.jpg
-    caption: "Fig. 24 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (da Antonia Nava Cellini)"
+    caption: "Fig. 24 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (da Antonia Nava Cellini, *Duquesnoy e Poussin. Nuovi contributi*, in «Paragone», XVII, 195, 1966, tav. 21)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b174b402-def1-46f2-870c-f5e0dbfa497f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b174b402-def1-46f2-870c-f5e0dbfa497f/canvas/6b64be3f-e3a4-4c6f-908d-092e1ca59627
     zoom: true
 
   - id: "cat-12_25"
     src: figures/12_25.jpg
-    caption: "Fig. 25 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (da A. Bacchi)"
+    caption: "Fig. 25 - François du Quesnoy detto il Fiammingo, *Putto con ghirlanda*, 1626-1627 circa (da Andrea Bacchi, in *Il conoscitore d’arte. Sculture dal XV al XIX secolo della collezione di Federico Zeri*, catalogo della mostra, Milano, Electa, 1989, p. 35)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0cf5cd9b-91f0-4ee7-b963-e96f42a323a9/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0cf5cd9b-91f0-4ee7-b963-e96f42a323a9/canvas/bdfecb65-4eb4-4ece-b0c2-4c3e0779c53d
     zoom: true
