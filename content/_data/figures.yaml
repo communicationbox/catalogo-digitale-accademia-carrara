@@ -51,14 +51,14 @@ figure_list:
 
   - id: "cat-1_8"
     src: figures/1_8.jpg
-    caption: "Fig. 8 – Antonio Rizzo, *La conversione di San Paolo* (paliotto dell’*Altare di San Paolo*), particolare, 1465-1469, marmo. Venezia, Basilica di San Marco"
+    caption: "Fig. 8 – Antonio Rizzo, *La conversione di San Paolo* (paliotto dell’*Altare di San Paolo*), 1465-1469, marmo. Venezia, Basilica di San Marco (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bc0edddf-7da7-48d5-a4bf-e311ddbe3b58/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bc0edddf-7da7-48d5-a4bf-e311ddbe3b58/canvas/c2ff34d1-7156-4d07-bc83-6a8a0b350f07
     zoom: true
 
   - id: "cat-1_9"
     src: figures/1_9.jpg
-    caption: "Fig. 9 – Antonio Rizzo, *Altare di San Giacomo*, particolare, 1465-1469, marmo. Venezia, Basilica di San Marco"
+    caption: "Fig. 9 – Antonio Rizzo, *Altare di San Giacomo*, 1465-1469, marmo. Venezia, Basilica di San Marco (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/96e52317-694c-404d-8b68-da1f915c8d6f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/96e52317-694c-404d-8b68-da1f915c8d6f/canvas/5b766636-7482-4d29-9d71-07229e892208
     zoom: true
@@ -163,7 +163,7 @@ figure_list:
 
   - id: "cat-2_5"
     src: figures/2_5.jpg
-    caption: "Fig. 5 - Scultore lombardo (o veneto?), *Ritratto di Marco di Andrea Pantaleone Barbo*, ultimo quarto del XV secolo Venezia, Seminario Patriarcale"
+    caption: "Fig. 5 - Scultore lombardo (o veneto?), *Ritratto di Marco di Andrea Pantaleone Barbo*, ultimo quarto del XV secolo, Venezia, Seminario Patriarcale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/canvas/770408d1-a262-4757-81e2-2fabf7fc08eb
     zoom: true
@@ -619,34 +619,55 @@ figure_list:
   - id: "cat-5_6"
     src: figures/5_6.jpg
     caption: "Fig. 6 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/57e84d46-92e1-40d0-ba11-675430058b50
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc3f29df-d80a-47a0-b0ae-9d1967b9490c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc3f29df-d80a-47a0-b0ae-9d1967b9490c/canvas/6f6a87a7-94d3-45f8-83e8-e104cbab26f2
     zoom: true
 
   - id: "cat-5_7"
     src: figures/5_7.jpg
     caption: "Fig. 7 - Vincenzo de’ Rossi, *Tomba di Angelo Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/aa57669d-e23e-4f55-8454-d7bb24b9da92
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/adb66fb4-7f9d-428a-bd40-6431aeb398da/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/adb66fb4-7f9d-428a-bd40-6431aeb398da/canvas/7b4977bc-674b-42c4-a587-7531a8de9fbf
     zoom: true
 
   - id: "cat-5_8"
     src: figures/5_8.jpg
     caption: "Fig. 8 - Vincenzo de’ Rossi, *Tomba di Franceschina Carduli Cesi*, 1554-1560, Roma, Chiesa di Santa Maria della Pace, Cappella Cesi (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/06cd955f-0ff6-4fe8-b181-3292b929deb8
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/345f785e-772f-4461-be77-f4df2771f462/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/345f785e-772f-4461-be77-f4df2771f462/canvas/6ff337f2-cd05-4b98-90f0-d68601d16056
     zoom: true
 
   - id: "cat-5_9"
     src: figures/5_9.jpg
-    caption: "Fig. 9 – Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/canvas/d52b2a96-4262-49e6-9182-788ddc0dc2ef
+    caption: "Fig. 9 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/febc7b7c-6512-4dc0-8c32-2cc7fed184ff/canvas/57e84d46-92e1-40d0-ba11-675430058b50
     zoom: true
 
   - id: "cat-5_10"
     src: figures/5_10.jpg
-    caption: "Fig. 10 – Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    caption: "Fig. 10 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c8fa99-0099-4128-b4ac-a70f1b674203/canvas/aa57669d-e23e-4f55-8454-d7bb24b9da92
+    zoom: true
+
+  - id: "cat-5_11"
+    src: figures/5_11.jpg
+    caption: "Fig. 11 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a4b159cd-9484-4195-9854-59a45aeb5467/canvas/06cd955f-0ff6-4fe8-b181-3292b929deb8
+    zoom: true
+
+  - id: "cat-5_12"
+    src: figures/5_12.jpg
+    caption: "Fig. 12 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f9f1ba11-c139-484d-ad0d-b1052b22edad/canvas/d52b2a96-4262-49e6-9182-788ddc0dc2ef
+    zoom: true
+
+  - id: "cat-5_13"
+    src: figures/5_13.jpg
+    caption: "Fig. 13 - Scultore attivo a Roma, *Busto di gentiluomo*, terzo quarto del XVI secolo (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc38e689-9e2f-4482-868f-77b444719de3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cc38e689-9e2f-4482-868f-77b444719de3/canvas/0319d8c9-25e4-4c13-9d6c-f329f0800866
     zoom: true
@@ -656,6 +677,20 @@ figure_list:
     caption: "Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a0aa78d2-703c-4fc7-bb1e-b233b53822f5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a0aa78d2-703c-4fc7-bb1e-b233b53822f5/canvas/8909e116-27e2-4c74-82b2-4bd4e304ab20
+    zoom: true
+
+  - id: "cat-6_1"
+    src: figures/6_1.jpg
+    caption: "Fig. 1 – Domenico Cafaggi, *Arcangelo Gabriele*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/canvas/6c26ee7d-2df2-44a9-91b2-c8c7c8e55f2f
+    zoom: true
+    
+  - id: "cat-6_2"
+    src: figures/6_2.jpg
+    caption: "Fig. 2 – Domenico Cafaggi, *Vergine Annunciata*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/canvas/7d5807c6-6053-4664-a121-dcd134ceadf7
     zoom: true
 
   - id: "cat-6_3"
@@ -800,14 +835,14 @@ figure_list:
 
   - id: "cat-7_6"
     src: figures/7_6.jpg
-    caption: "Fig. 6 – *Busto di Apollonio Massa*, Venezia, Seminario Patriarcale"
+    caption: "Fig. 6 – Alessandro Vittoria, *Busto di Apollonio Massa*, 1587 (?), Venezia, Seminario Patriarcale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cd66f18a-df35-42a8-af62-b788da1720bd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cd66f18a-df35-42a8-af62-b788da1720bd/canvas/769a0f6e-fbb6-4833-836a-41d1a5f3e940
     zoom: true
 
   - id: "cat-7_7"
     src: figures/7_7.jpg
-    caption: "Fig. 7 – Alessandro Vittoria (imitatore di), *Apollonio Massa, Dottore di Medicina*, New York, The Metropolitan Museum of Art, XIX secolo"
+    caption: "Fig. 7 – Alessandro Vittoria (imitatore di), *Apollonio Massa*, secolo XIX, New York, The Metropolitan Museum of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/af415ed4-57de-40ed-96e4-a49b7d213a38/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/af415ed4-57de-40ed-96e4-a49b7d213a38/canvas/ed1eceaf-9135-404e-b7ab-da0b270c5763
     zoom: true
@@ -926,28 +961,28 @@ figure_list:
 
   - id: "cat-8_6"
     src: figures/8_6.jpg
-    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V* (facciata della Basilica di San Pietro), 1608, Londra, British Museum"
+    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V*, 1608, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/canvas/d04274e7-ecea-48c6-925e-850a9498e99d
     zoom: true
 
   - id: "cat-8_7"
     src: figures/8_7.jpg
-    caption: "Fig. 7 – Paolo Sanquirico, *Medagli di Paolo V*, 1609 (fortezza di Ferrara), Londra, British Museum"
+    caption: "Fig. 7 – Paolo Sanquirico, *Medaglia di Paolo V*, 1609, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/canvas/080bd7b0-15cc-4d60-9ab3-a589c0927728
     zoom: true
 
   - id: "cat-8_8"
     src: figures/8_8.jpg
-    caption: "Fig. 8 – Paolo Sanquirico, *Ritratto di papa Paolo V in cattedra*, 1605-1620 circa, Roma, Basilica di Santa Maria Maggiore"
+    caption: "Fig. 8 - Paolo Sanquirico, *Paolo V Borghese in cattedra*, 1605-1620 circa, Roma, Basilica di Santa Maria Maggiore"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42513568-fc4f-4733-bedf-7ec7e7ba0ca5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42513568-fc4f-4733-bedf-7ec7e7ba0ca5/canvas/4a61a423-992e-48db-9a4b-e8ec9cff72db
     zoom: true
 
   - id: "cat-8_9"
     src: figures/8_9.jpg
-    caption: "Fig. 9 – Sebastiano Sebastiani, *statua in bronzo di Paolo V*, Rimini, Piazza Cavour"
+    caption: "Fig. 9 – Sebastiano Sebastiani, *Paolo V Borghese*, Rimini, Piazza Cavour"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c12253f-ee62-4518-8ed5-958c51cb0976/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2c12253f-ee62-4518-8ed5-958c51cb0976/canvas/895e8b17-b6b5-41fc-b907-20376240affa
     zoom: true
@@ -996,7 +1031,7 @@ figure_list:
 
   - id: "cat-8_16"
     src: figures/8_16.jpg
-    caption: "Fig. 16 – Silla Longhi da Viggiù, *Papa Paolo V Borghese*, particolare del *Monumento di Papa Paolo V Borghese*, 1610-1615 circa, Roma, Basilica di Santa Maria Maggiore"
+    caption: "Fig. 16 – Silla Longhi da Viggiù, *Monumento di Paolo V Borghese*, 1610-1615 circa, Roma, Basilica di Santa Maria Maggiore (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5d3fcb16-156f-4d03-b1fb-5bd74d1da9c7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5d3fcb16-156f-4d03-b1fb-5bd74d1da9c7/canvas/985e4309-54d6-47ca-bcc3-eb6cc0038c20
     zoom: true
