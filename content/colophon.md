@@ -61,10 +61,6 @@ www.lacarrara.it
 *Titolo*: Accademia Carrara – Sculture della collezione Federico Zeri / a cura di Paolo Plebani  
 Descrizione: Bergamo: ©2026, Fondazione Accademia Carrara 
 
-*Identificativi*: DOI [eventuale]
-
 La presente pubblicazione è stata realizzata utilizzando Quire, soluzione open source per l’editoria digitale sviluppata dal Getty Museum nell’ambito dell’Online Scholarly Catalogue Initiative (OSCI), con la collaborazione di Haltadefinizione S.r.l.
 
 *Copertina*: Girolamo Ticciati, *San Paolo*, 1732 circa, terracotta, Accademia Carrara, Bergamo, inv. n. 98 ZR 00017 (particolare).
-
-*DOI*: [eventuale DOI della pubblicazione o della pagina]  
