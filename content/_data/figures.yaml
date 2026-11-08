@@ -1707,10 +1707,10 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/efe5477e-8a91-473d-bfee-886ade436046/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/efe5477e-8a91-473d-bfee-886ade436046/canvas/f0dd5fda-bb71-4f1b-b22b-3a9291e7c339
     zoom: true
-
+  
   - id: "cat-14"
     src: figures/14.jpg
-    caption: "Scultore attivo a Roma, *Testa di Socrate*, prima metà XVII sec, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Scultore attivo a Roma, *Testa di Socrate*, 1630-1650 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b3e486b-b12e-42bf-a7f0-fc07c106a0e0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b3e486b-b12e-42bf-a7f0-fc07c106a0e0/canvas/4faa832e-901e-4c99-9e6a-4948b56994ac
     zoom: true
@@ -1724,35 +1724,35 @@ figure_list:
 
   - id: "cat-14_2"
     src: figures/14_2.jpg
-    caption: "Fig. 2 - *Ritratto di Socrate*, tipo A, fine I sec. o inizio II sec. d. C., Napoli, Museo Archeologico Nazionale, inv. n. 6129"
+    caption: "Fig. 2 - *Ritratto di Socrate*, tipo A, fine I sec. o inizio II sec. d. C., Napoli, Museo Archeologico Nazionale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c87a802-7f6b-4c18-a8ad-9032f4c8a980/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c87a802-7f6b-4c18-a8ad-9032f4c8a980/canvas/50bfefae-d94e-4638-807b-44d72d2dc756
     zoom: true
 
   - id: "cat-14_3"
     src: figures/14_3.jpg
-    caption: "Fig. 3 - Scultore attivo a Roma prima metà XVII sec., *Testa di Socrate*, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Fig. 3 - *Ritratto di Socrate*, tipo C, seconda metà II sec. d.C.; XVIII sec. d.C., Torino, Musei Reali"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b59e236-52e7-4639-8f09-a11de24cf654/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b59e236-52e7-4639-8f09-a11de24cf654/canvas/4a6d328b-2f75-49a9-8f4e-e5a7f44dcf6f
     zoom: true
 
   - id: "cat-14_4"
     src: figures/14_4.jpg
-    caption: "Fig. 4 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 4 - Scultore attivo a Roma, *Testa di Socrate*, 1630-1650 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ca0c5e60-3e26-43a9-8108-1b104e26f78d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ca0c5e60-3e26-43a9-8108-1b104e26f78d/canvas/dadd71c6-3749-4d08-94d3-2054a199bd54
     zoom: true
 
   - id: "cat-14_5"
     src: figures/14_5.jpg
-    caption: "Fig. 5 - Paulus Pontius (da un disegno di Peter Paul Rubens), *Socrate*, Bergamo, Accademia Carrara, inv. n. STP03107"
+    caption: "Fig. 5 - Paulus Pontius (da un disegno di Peter Paul Rubens), *Socrate*, 1638, Bergamo, Accademia Carrara"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eff6afd0-0859-4611-b257-525e89c2af4f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eff6afd0-0859-4611-b257-525e89c2af4f/canvas/e1518fe7-4642-44ec-9ae7-dbc3ac894678
     zoom: true
 
   - id: "cat-14_6"
     src: figures/14_6.jpg
-    caption: "Fig. 6 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 6 - Scultore attivo a Roma, *Testa di Socrate*, 1630-1650 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3c611f3a-f099-4192-9154-8f0085e7e511/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3c611f3a-f099-4192-9154-8f0085e7e511/canvas/61291c2e-82e5-459e-b295-9c0fb0c462df
     zoom: true
@@ -1773,77 +1773,77 @@ figure_list:
 
   - id: "cat-14_9"
     src: figures/14_9.jpg
-    caption: "Fig. 9 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 9 - Scultore attivo a Roma, *Testa di Socrate*, 1630-1650 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9813cb33-2404-4fb6-9a71-7376db90b084/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9813cb33-2404-4fb6-9a71-7376db90b084/canvas/cf73ea93-685f-44d1-b217-c5a13ca5ebab
     zoom: true
 
   - id: "cat-14_10"
     src: figures/14_10.jpg
-    caption: "Fig. 10 - Charles Malaise, *Ritratto di Socrate*, collezione privata"
+    caption: "Fig. 10 - Charles Malaise, *Ritratto di Socrate*, fine XVIII-inizi XIX sec., collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e0d14b26-37f8-4713-bcd7-84be681b47ba/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e0d14b26-37f8-4713-bcd7-84be681b47ba/canvas/3cf11cd6-7ef5-4f66-886a-b5efacb5ed45
     zoom: true
 
   - id: "cat-14_11"
     src: figures/14_11.jpg
-    caption: "Fig. 11 - Anonimo scultore (fiorentino?), *Ritratto di Socrate*, collezione privata (Pandolfini)"
+    caption: "Fig. 11 - Anonimo scultore fiorentino (?), *Ritratto di Socrate*, fine XVIII-inizi XIX sec., collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8820a624-1f5d-44c3-944a-a37952b9f478/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8820a624-1f5d-44c3-944a-a37952b9f478/canvas/c739de28-f2b6-4dd6-9d43-8b28870b9e6e
     zoom: true
 
   - id: "cat-14_12"
     src: figures/14_12.jpg
-    caption: "Fig. 12 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 12 - Scultore attivo a Roma, *Testa di Socrate*, 1630-1650 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e7a70de-e8d2-4bed-a2de-cb6a2cfec527/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e7a70de-e8d2-4bed-a2de-cb6a2cfec527/canvas/741fc664-5ec3-45a4-b8da-3d9d9602e694
     zoom: true
 
   - id: "cat-15"
     src: figures/15.jpg
-    caption: "Domenico Guidi, *Busto di Alessandro Rondinini senior*, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4af8da33-4fb9-490f-8127-a9d2e94287c7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4af8da33-4fb9-490f-8127-a9d2e94287c7/canvas/dbd2f06c-cf62-4634-8233-3ccac16433a6
     zoom: true
 
   - id: "cat-15_1"
     src: figures/15_1.jpg
-    caption: "Fig. 1 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 1 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5aad2c13-7a0a-48e5-89d1-f60ee360c94f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5aad2c13-7a0a-48e5-89d1-f60ee360c94f/canvas/c9c70c98-1a89-4151-8e62-8b00f190de96
     zoom: true
 
   - id: "cat-15_2"
     src: figures/15_2.jpg
-    caption: "Fig. 2 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 2 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e697681c-89c4-4ff0-b8ef-5676f9b2ef2d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e697681c-89c4-4ff0-b8ef-5676f9b2ef2d/canvas/2f1e3d62-cb81-4ab4-8662-abad5f40c369
     zoom: true
 
   - id: "cat-15_3"
     src: figures/15_3.jpg
-    caption: "Fig. 3 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 3 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6b078a19-31e9-4de6-bbb9-47872aa63fd3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6b078a19-31e9-4de6-bbb9-47872aa63fd3/canvas/648857af-d780-4fbf-9b64-c9b9f6b8cc97
     zoom: true
 
   - id: "cat-15_4"
     src: figures/15_4.jpg
-    caption: "Fig. 4 - Alessandro Algardi, Domenico Guidi, *Busto del cardinale Paolo Emilio Zacchia*, Firenze, Museo Nazionale del Bargello"
+    caption: "Fig. 4 - Alessandro Algardi, Domenico Guidi, *Busto del cardinale Paolo Emilio Zacchia*, 1654 circa, Firenze, Museo Nazionale del Bargello"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d0a2334e-20eb-4b51-8ed8-db9e0fd90d50/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d0a2334e-20eb-4b51-8ed8-db9e0fd90d50/canvas/bed9b09b-f3c5-4564-a1c2-5d012c63544a
     zoom: true
 
   - id: "cat-15_5"
     src: figures/15_5.jpg
-    caption: "Fig. 5 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 5 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09827038-89f1-48f0-a602-ce88753fc4cb/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09827038-89f1-48f0-a602-ce88753fc4cb/canvas/76b84266-01a9-43bf-99de-703c796c03fb
     zoom: true
 
   - id: "cat-15_6"
     src: figures/15_6.jpg
-    caption: "Fig. 6 - Domenico Guidi, Domenico Guidi, *Busti dei cardinali Paolo Emilio, Laudivio Zacchia e Paolo Emilio Rondinini*, 1669-1675 circa, Roma, Palazzo Massimo Lancellotti"
+    caption: "Fig. 6 - Domenico Guidi, *Busti dei cardinali Paolo Emilio, Laudivio Zacchia e Paolo Emilio Rondinini*, 1669-1675 circa, Roma, Palazzo Massimo Lancellotti"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bba74b57-a590-4dd4-a5a8-d8e977053ab4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bba74b57-a590-4dd4-a5a8-d8e977053ab4/canvas/13cccc1d-5600-42c0-8243-097003e10115
     zoom: true
@@ -1864,105 +1864,105 @@ figure_list:
 
   - id: "cat-15_9"
     src: figures/15_9.jpg
-    caption: "Fig. 9 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 9 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bcbedd52-d621-43bc-a8f2-0d8ad757f63f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bcbedd52-d621-43bc-a8f2-0d8ad757f63f/canvas/6863c6af-7b47-4558-acdc-49a2e3c5cc1f
     zoom: true
 
   - id: "cat-15_10"
     src: figures/15_10.jpg
-    caption: "Fig. 10 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 10 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c55340ee-cc82-47ce-b7e6-4595d0ccd610/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c55340ee-cc82-47ce-b7e6-4595d0ccd610/canvas/60e9da44-d04d-400e-b63d-43723aec2b31
     zoom: true
 
   - id: "cat-15_11"
     src: figures/15_11.jpg
-    caption: "Fig. 11 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 11 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/07ab1054-70b9-4651-9c44-42a6cbcaafd3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/07ab1054-70b9-4651-9c44-42a6cbcaafd3/canvas/5f6965c6-b035-42ea-a2ee-bfa76c5762a7
     zoom: true
 
   - id: "cat-15_12"
     src: figures/15_12.jpg
-    caption: "Fig. 12 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 12 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b46b4a35-6018-4e81-989d-c5af69c22e59/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b46b4a35-6018-4e81-989d-c5af69c22e59/canvas/4f2a2411-88d4-417e-a53f-652ce6b4c2d1
     zoom: true
 
   - id: "cat-15_13"
     src: figures/15_13.jpg
-    caption: "Fig. 13 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 13 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/824c4b53-9788-4a06-8bc9-b41611d4da50/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/824c4b53-9788-4a06-8bc9-b41611d4da50/canvas/8c5f5231-16c2-4bac-9cd3-b58d5b0ff342
     zoom: true
 
   - id: "cat-15_14"
     src: figures/15_14.jpg
-    caption: "Fig. 14 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 14 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e3daf2c9-3b33-4f7a-be49-6c3aa44d4eda/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e3daf2c9-3b33-4f7a-be49-6c3aa44d4eda/canvas/28f09779-10ac-40df-93dd-fd6e71878e34
     zoom: true
 
   - id: "cat-15_15"
     src: figures/15_15.jpg
-    caption: "Fig. 15 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 15 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7757b77c-b269-423e-9e16-44145cc0e074/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7757b77c-b269-423e-9e16-44145cc0e074/canvas/17324d48-3e7a-4359-a80c-a7d9f9a35b19
     zoom: true
 
   - id: "cat-15_16"
     src: figures/15_16.jpg
-    caption: "Fig. 16 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 16 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/78fe7cf4-6c62-46ed-b73f-cb52b9a5eeec/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/78fe7cf4-6c62-46ed-b73f-cb52b9a5eeec/canvas/9e072d52-bea0-42f7-b396-d464d17c5828
     zoom: true
 
   - id: "cat-16"
     src: figures/16.jpg
-    caption: "Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Fine XVII secolo - inizio XVIII secolo, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/de82f6df-ab9a-4b42-9625-d358bb49a9ad/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/de82f6df-ab9a-4b42-9625-d358bb49a9ad/canvas/a6373cd5-730a-4948-ab80-53a9f5a8b919
     zoom: true
 
   - id: "cat-16_1"
     src: figures/16_1.jpg
-    caption: "Fig. 1 - Antoine Masson (disegno e incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, 1672"
+    caption: "Fig. 1 - Antoine Masson (disegno e incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, 1672, Philadelphia, Museum of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c309e0e-f9a7-4177-b18f-aa39a0f6622f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c309e0e-f9a7-4177-b18f-aa39a0f6622f/canvas/7b4aac05-024f-404d-8196-6f77846c993e
     zoom: true
 
   - id: "cat-16_2"
     src: figures/16_2.jpg
-    caption: "Fig. 2 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 2 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da32d906-b9f0-4590-83f7-6d14b5107009/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da32d906-b9f0-4590-83f7-6d14b5107009/canvas/df7fa9f3-815d-40ec-b78a-19fb19d584a4
     zoom: true
 
   - id: "cat-16_3"
     src: figures/16_3.jpg
-    caption: "Fig. 3 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 3 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec. (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3e5a7bc2-8115-4b91-b610-647328acd3c7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3e5a7bc2-8115-4b91-b610-647328acd3c7/canvas/e47b37e0-1782-4143-aae2-0f9aad336bf4
     zoom: true
 
   - id: "cat-16_4"
     src: figures/16_4.jpg
-    caption: "Fig. 4 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 4 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec. (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3184e0d6-b278-48ff-a5d0-8518546e77dd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3184e0d6-b278-48ff-a5d0-8518546e77dd/canvas/d970d789-d6f8-46d0-b199-ec67db9369b8
     zoom: true
 
   - id: "cat-16_5"
     src: figures/16_5.jpg
-    caption: "Fig. 5 – Jacques Cundier (incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, 1669, Vienna, Österreichischen Nationalbibliothek"
+    caption: "Fig. 5 – Jacques Cundier, *Ritratto del cardinale Toussaint de Forbin-Janson*, 1669, Vienna, Österreichischen Nationalbibliothek"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fe3c713e-57fd-4a5a-960b-efb67adcd4a4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fe3c713e-57fd-4a5a-960b-efb67adcd4a4/canvas/aaccef20-bbd2-43d1-8af2-b21fa4a05cf2
     zoom: true
 
   - id: "cat-16_6"
     src: figures/16_6.jpg
-    caption: "Fig. 6 - Jacques Blondeau (incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, post 1690, Londra, British Museum"
+    caption: "Fig. 6 - Jacques Blondeau, *Ritratto del cardinale Toussaint de Forbin-Janson*, post 1690, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3f62ff7f-aeec-4b4b-98a1-6706d99fcc81/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3f62ff7f-aeec-4b4b-98a1-6706d99fcc81/canvas/2aa23d4f-3b73-4602-a99e-d0dcea473dd3
     zoom: true
@@ -1976,42 +1976,42 @@ figure_list:
 
   - id: "cat-16_8"
     src: figures/16_8.jpg
-    caption: "Fig. 8 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 8 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec. (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6595d690-8c54-49d1-99af-950f0774b273/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6595d690-8c54-49d1-99af-950f0774b273/canvas/04300bc3-c3da-4386-b500-f26749f89db1
     zoom: true
 
   - id: "cat-16_9"
     src: figures/16_9.jpg
-    caption: "Fig. 9 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia"
+    caption: "Fig. 9 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec. (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/03ca198d-ad20-4ddd-a71e-20c2a5c929ec/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/03ca198d-ad20-4ddd-a71e-20c2a5c929ec/canvas/feba93bd-7573-402e-ae50-7c029ca3788b
     zoom: true
 
   - id: "cat-16_10"
     src: figures/16_10.jpg
-    caption: "Fig. 10 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 10 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2048b31-3edd-4efd-86b0-3125cd8d78cc/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2048b31-3edd-4efd-86b0-3125cd8d78cc/canvas/72355c98-f354-43cb-b4e2-d1e76fd50d2c
     zoom: true
 
   - id: "cat-16_11"
     src: figures/16_11.jpg
-    caption: "Fig. 11 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 11 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec. (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd0dedaf-a6bf-4913-a160-b861fea933e6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd0dedaf-a6bf-4913-a160-b861fea933e6/canvas/eb5d2f97-508a-43ca-8b8e-1a872819bd59
     zoom: true
 
   - id: "cat-16_12"
     src: figures/16_12.jpg
-    caption: "Fig. 12 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 12 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, fine XVII sec. - inizio XVIII sec."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e667e53-9a93-4101-9147-ff8707dbb53e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e667e53-9a93-4101-9147-ff8707dbb53e/canvas/85550f4d-8eac-4dce-a78d-91ef4a6d65be
     zoom: true
 
   - id: "cat-17"
     src: figures/17.jpg
-    caption: "Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*"
+    caption: "Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93e44007-02d0-4b1d-909d-8690235d908f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93e44007-02d0-4b1d-909d-8690235d908f/canvas/698d0a82-2a5b-4eb2-a904-67c14eb07ae6
     zoom: true
@@ -2102,7 +2102,7 @@ figure_list:
 
   - id: "cat-17_13"
     src: figures/17_13.jpg
-    caption: "Fig. 13 – Giovanni Francesco Arrighi, *Calice*, Jesi, Convento delle Clarisse (San Marco)"
+    caption: "Fig. 13 – Giovanni Francesco Arrighi, *Calice*, Jesi, Convento di San Marco"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e205c678-943e-46c5-af15-765ba2a062e5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e205c678-943e-46c5-af15-765ba2a062e5/canvas/852dd2d7-6b28-4ad4-a24b-b277e60e7591
     zoom: true
@@ -2137,7 +2137,7 @@ figure_list:
 
   - id: "cat-17_19"
     src: figures/17_19.jpg
-    caption: "Fig. 19 – Massimo Listri, *Camino acceso a Villa Zeri*, prima metà degli anni Ottanta, copertina “Gazzetta Antiquaria”, 54, II, 2008"
+    caption: "Fig. 19 – Massimo Listri, *Villa Zeri a Mentana*, copertina di “Gazzetta Antiquaria”, 54, II, 2008"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ea2bfec8-f3c5-42cd-858f-096e6c719a3a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ea2bfec8-f3c5-42cd-858f-096e6c719a3a/canvas/af1425d9-08ff-484d-ba05-92e484fed995
     zoom: true
@@ -2186,21 +2186,21 @@ figure_list:
 
   - id: "cat-18"
     src: figures/18.jpg
-    caption: "Girolamo Ticciati, *San Paolo*, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Girolamo Ticciati, *San Paolo*, 1732 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/canvas/842c1ac6-8068-41b5-ad7a-4fb79a092929
     zoom: true
 
   - id: "cat-18_1"
     src: figures/18_1.jpg
-    caption: "Fig. 1 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 1 - Girolamo Ticciati, *San Paolo*, 1732 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c04617c3-61e5-49f0-b547-a54431020099/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c04617c3-61e5-49f0-b547-a54431020099/canvas/0be60d81-09cb-43b4-8d7e-19f91bcf10df
     zoom: true
 
   - id: "cat-18_2"
     src: figures/18_2.jpg
-    caption: "Fig. 2 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 2 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/843c9390-3c6e-426b-bfb8-bff454001b2f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/843c9390-3c6e-426b-bfb8-bff454001b2f/canvas/d14eabe7-e448-4ed4-ac55-ff9b147efec0
     zoom: true
@@ -2249,77 +2249,77 @@ figure_list:
 
   - id: "cat-18_9"
     src: figures/18_9.jpg
-    caption: "Fig. 9 - Girolamo Ticciati, *San Giacomo Maggiore*, Mafra, Palazzo Nazionale"
+    caption: "Fig. 9 - Girolamo Ticciati (?), *San Giacomo Maggiore*, 1732 circa (?), Mafra, Palazzo Nazionale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7bdd11f0-d5ec-4360-9452-a94d21e28cae/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7bdd11f0-d5ec-4360-9452-a94d21e28cae/canvas/b477b4cb-173d-451b-8c96-dd7503fa89fa
     zoom: true
 
   - id: "cat-18_10"
     src: figures/18_10.jpg
-    caption: "Fig. 10 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 10 - Girolamo Ticciati, *San Paolo*, 1732 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6737f067-9fcf-4f29-a848-0335644590f2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6737f067-9fcf-4f29-a848-0335644590f2/canvas/16a4cf0a-bcac-488c-844b-2b23ec221961
     zoom: true
 
   - id: "cat-18_11"
     src: figures/18_11.jpg
-    caption: "Fig. 11 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 11 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9634c8b4-8cc2-4fbd-84e2-bea87d3c37ed/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9634c8b4-8cc2-4fbd-84e2-bea87d3c37ed/canvas/67adbb15-3a23-4b38-80aa-813c1a9d8290
     zoom: true
 
   - id: "cat-18_12"
     src: figures/18_12.jpg
-    caption: "Fig. 12 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 12 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f72b360e-1d78-48a8-94b7-d2d9dfd670ff/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f72b360e-1d78-48a8-94b7-d2d9dfd670ff/canvas/88acf737-75aa-4872-b32a-1ea4ea88d6d4
     zoom: true
 
   - id: "cat-18_13"
     src: figures/18_13.jpg
-    caption: "Fig. 13 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 13 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e61422d5-a621-4043-ad50-b4632c44403e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e61422d5-a621-4043-ad50-b4632c44403e/canvas/0eab56c8-f75d-4c2c-877b-b1b02d26fd97
     zoom: true
 
   - id: "cat-18_14"
     src: figures/18_14.jpg
-    caption: "Fig. 14 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 14 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/57054bd7-57bb-41a0-af49-37d6e9b27f93/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/57054bd7-57bb-41a0-af49-37d6e9b27f93/canvas/ecf052d5-b3dd-45aa-a49e-2744d030f7de
     zoom: true
 
   - id: "cat-18_15"
     src: figures/18_15.jpg
-    caption: "Fig. 15 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 15 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c3965a9-5366-46f0-8876-d258da912a1c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c3965a9-5366-46f0-8876-d258da912a1c/canvas/d8d6e23c-c003-407d-8268-408330b5f890
     zoom: true
 
   - id: "cat-18_16"
     src: figures/18_16.jpg
-    caption: "Fig. 16 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 16 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3494ef72-53cc-48de-86b1-e8679eac9a28/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3494ef72-53cc-48de-86b1-e8679eac9a28/canvas/2df79584-eee7-43db-be26-13c5c2df4546
     zoom: true
 
   - id: "cat-18_17"
     src: figures/18_17.jpg
-    caption: "Fig. 17 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
+    caption: "Fig. 17 - Girolamo Ticciati, *San Paolo*, 1732 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ceff113-857d-4bdf-96ad-00d567618180/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ceff113-857d-4bdf-96ad-00d567618180/canvas/f0fd8aef-878d-4c6f-ab8c-a52a92fded84
     zoom: true
 
   - id: "cat-18_18"
     src: figures/18_18.jpg
-    caption: "Fig. 18 - Girolamo Ticciati, *San Paolo (particolare)*"
+    caption: "Fig. 18 - Girolamo Ticciati, *San Paolo*, 1732 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/51a46e6c-d6b7-408d-a804-b5751af10cd1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/51a46e6c-d6b7-408d-a804-b5751af10cd1/canvas/2bc8e1a4-bfd9-4687-aac3-149c0c1a0dc8
     zoom: true
 
   - id: "cat-19"
     src: figures/19.jpg
-    caption: "Anton Francesco Andreozzi, *Incontro di Cristo con le donne di Gerusalemme*, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Anton Francesco Andreozzi, *Due Stazioni della Via Crucis*, 1685"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f37e48e1-47bd-48c3-964a-d21ac8805efe/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f37e48e1-47bd-48c3-964a-d21ac8805efe/canvas/aaf746c0-358d-4eb3-bf0e-71032dabf288
     zoom: true
@@ -2396,21 +2396,21 @@ figure_list:
 
   - id: "cat-19_14"
     src: figures/19_14.jpg
-    caption: "Fig. 14 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare del bambino)"
+    caption: "Fig. 14 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/83932143-d222-4e48-8892-2897346be53d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/83932143-d222-4e48-8892-2897346be53d/canvas/73e0c8bc-0d64-492d-892d-d0b7bd1546ff
     zoom: true
 
   - id: "cat-19_15"
     src: figures/19_15.jpg
-    caption: "Fig. 15 – Anton Francesco Andreozzi, *Putti che reggono una tavola con una scritta*, Firenze (particolare)"
+    caption: "Fig. 15 – Anton Francesco Andreozzi, *Putti che reggono una tavola con una scritta*, Firenze, Palazzo Medici Riccardi (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5e37be6f-7672-4c9c-b94d-7777c2535a17/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5e37be6f-7672-4c9c-b94d-7777c2535a17/canvas/6351dd5b-0055-4113-b173-6c898a60c83d
     zoom: true
 
   - id: "cat-19_16"
     src: figures/19_16.jpg
-    caption: "Fig. 16 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare del panneggio di Cristo)"
+    caption: "Fig. 16 - Anton Francesco Andreozzi, *Incontro di Cristo con le pie donne di Gerusalemme*, 1685 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f123beb-d7e5-48b6-9bd9-a0e17ca5e551/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8f123beb-d7e5-48b6-9bd9-a0e17ca5e551/canvas/2086540a-e46e-49da-8e98-29f33c225809
     zoom: true
@@ -2557,7 +2557,7 @@ figure_list:
   
   - id: "cat-20"
     src: figures/20.jpg
-    caption: "Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*"
+    caption: "Filippo Parodi, *Bozzetto per ceroforale della cappella dell’Arca nella Basilica di Sant’Antonio a Padova*, 1688-1689 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/23d68e67-36d5-47be-84f3-d152d3df4ac7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/23d68e67-36d5-47be-84f3-d152d3df4ac7/canvas/651cac3c-2588-45c7-b0a5-5b9a92f923c7
     zoom: true
@@ -3124,7 +3124,7 @@ figure_list:
 
   - id: "cat-25"
     src: figures/25.jpg
-    caption: "Jacques Bergé, *David*"
+    caption: "Jacques Bergé, *David, Betsabea* o *Sibilla*, 1738"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2bb206fc-e622-4249-a67f-5259af0c4093/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2bb206fc-e622-4249-a67f-5259af0c4093/canvas/58259df5-07b8-4b62-8da5-89a555840212
     zoom: true
@@ -3166,7 +3166,7 @@ figure_list:
 
   - id: "cat-25_6"
     src: figures/25_6.jpg
-    caption: "Fig. 6 – Jacques Bergé, *Davide*, 1738, terracotta (da *Baroque paintings, sketches and sculptures for the collector - autumn exhibition 6 November-23 December 1968*, Heim Gallery, London, n. 84)"
+    caption: "Fig. 6 – Jacques Bergé, *Davide*, 1738, terracotta (da *Baroque paintings, sketches and sculptures for the collector. Autumn exhibition, 6 November - 23 December 1968*, London, Heim Gallery, 1968, cat. n. 84)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dbb7ade-6e82-40b9-a92f-0fcfa906154c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0dbb7ade-6e82-40b9-a92f-0fcfa906154c/canvas/aefbb99c-8bce-4092-9dd3-9f8fd71e0072
     zoom: true
@@ -3264,7 +3264,7 @@ figure_list:
 
   - id: "cat-26"
     src: figures/26.jpg
-    caption: "Fig. 1 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
+    caption: "Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/99906de0-a539-4a3c-bc0c-0db77918340a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/99906de0-a539-4a3c-bc0c-0db77918340a/canvas/3d728d2c-4569-48f1-9943-51f6f715ad5a
     zoom: true
@@ -3299,7 +3299,7 @@ figure_list:
 
   - id: "cat-26_5"
     src: figures/26_5.jpg
-    caption: "Fig. 5 – Giuseppe Antonio Fabbrini, *Ritratto di Lord Cowper*, 1783, olio su tela. Cortona, Museo dell’Accademia Etrusca e della città di Cortona"
+    caption: "Fig. 5 – Giuseppe Antonio Fabbrini, *Ritratto di Lord Cowper*, 1783, Cortona, Museo dell’Accademia Etrusca e della città di Cortona"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e755115f-1e22-408c-aea1-04c1fff98db4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e755115f-1e22-408c-aea1-04c1fff98db4/canvas/03b5a4e0-1269-4a2f-828f-8f9d66dffbc2
     zoom: true
@@ -3320,7 +3320,7 @@ figure_list:
 
   - id: "cat-26_8"
     src: figures/26_8.jpg
-    caption: "Fig. 8 – Innocenzo Spinazzi, *Busto di Giovanni Francesco Pagnini*, 1789, marmo. Firenze, Basilica della Santissima Annunziata"
+    caption: "Fig. 8 – Innocenzo Spinazzi, *Busto di Giovanni Francesco Pagnini*, 1789, Firenze, Basilica della Santissima Annunziata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/372e8e6a-e298-4b80-8ec1-1c610475dacc/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/372e8e6a-e298-4b80-8ec1-1c610475dacc/canvas/93656f35-a40e-4c0d-b98a-730ce1c2be09
     zoom: true
@@ -3334,7 +3334,7 @@ figure_list:
 
   - id: "cat-26_11"
     src: figures/26_11.jpg
-    caption: "Fig. 11 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
+    caption: "Fig. 11 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c521ec2a-f6c1-4275-b2fa-0fc7e1d56a2b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c521ec2a-f6c1-4275-b2fa-0fc7e1d56a2b/canvas/41a43c3f-2591-422b-acba-7b5086ecd783
     zoom: true
@@ -3362,7 +3362,7 @@ figure_list:
 
   - id: "cat-27"
     src: figures/27.jpg
-    caption: "Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    caption: "Tommaso Righi, *Quattro accademie di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/11c1ec7b-0350-4d48-a72e-8111da81266c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/11c1ec7b-0350-4d48-a72e-8111da81266c/canvas/fb95cfa6-a0e5-44b3-b3f1-dca3a3d5c470
     zoom: true
@@ -3397,7 +3397,7 @@ figure_list:
 
   - id: "cat-27_5"
     src: figures/27_5.jpg
-    caption: "Fig. 5 – Tommaso Righi, *Stucchi*, 1754, Grottaferrata, Monastero di Santa Maria, Abbazia San Nilo"
+    caption: "Fig. 5 – Tommaso Righi, *Nascita di Maria*, 1754, Grottaferrata, Monastero di Santa Maria, Abbazia San Nilo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/628036a2-67ad-45e0-a5dc-b3c5280f426d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/628036a2-67ad-45e0-a5dc-b3c5280f426d/canvas/5f8371b7-6d91-47d1-807e-c3fef1b9456a
     zoom: true
@@ -3425,7 +3425,7 @@ figure_list:
 
   - id: "cat-27_9"
     src: figures/27_9.jpg
-    caption: "Fig. 9 - Domenico Guidi, *Caino e Abele*, Berlino"
+    caption: "Fig. 9 - Domenico Guidi, *Caino e Abele*, Berlino, Staatliche Museen zu Berlin, Skulpturensammlung, Bode-Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f336a42f-b36a-4dc7-8d75-3e173978f7e6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f336a42f-b36a-4dc7-8d75-3e173978f7e6/canvas/40b53fcb-ba2c-4c3d-abaf-3a4cfcccb73d
     zoom: true
@@ -3453,7 +3453,7 @@ figure_list:
 
   - id: "cat-27_13"
     src: figures/27_13.jpg
-    caption: "Fig. 13 - Tommaso Righi, *Telamoni reggimensola del Salone d’Oro*, Roma, Roma, Palazzo Chigi"
+    caption: "Fig. 13 - Tommaso Righi, *Telamoni reggimensola del Salone d’Oro*, Roma, Palazzo Chigi"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53187a18-629f-4c95-9da7-59a1e8e2063d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53187a18-629f-4c95-9da7-59a1e8e2063d/canvas/3bce9aa6-c63d-4a05-bce4-1e8ba761fcc0
     zoom: true
@@ -3467,7 +3467,7 @@ figure_list:
 
   - id: "cat-27_15"
     src: figures/27_15.jpg
-    caption: "Fig. 15 - Tommaso Righi, *Accademia di nudo*, 1770 circa, presentata da Stuart Lochhead alla TEFAF di Maastricht del 2026"
+    caption: "Fig. 15 - Tommaso Righi, *Accademia di nudo*, 1770 circa, collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/894b2b7c-6ee4-4c44-a0c1-77c996412fdb/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/894b2b7c-6ee4-4c44-a0c1-77c996412fdb/canvas/341ba0e1-94cd-415f-b764-e0398cc6e992
     zoom: true
@@ -3502,28 +3502,28 @@ figure_list:
 
   - id: "cat-27_20"
     src: figures/27_20.jpg
-    caption: "Fig. 20 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    caption: "Fig. 20 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a02d4a43-9f52-44f9-9c1d-caffcf1b9486/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a02d4a43-9f52-44f9-9c1d-caffcf1b9486/canvas/95934e37-7896-4974-81f1-1adc358cf0cd
     zoom: true
 
   - id: "cat-27_21"
     src: figures/27_21.jpg
-    caption: "Fig. 21 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    caption: "Fig. 21 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92387155-e178-40a2-ac81-d77dba2011fe/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92387155-e178-40a2-ac81-d77dba2011fe/canvas/7208bc4e-7dfb-420f-93e0-0819d15f4db5
     zoom: true
 
   - id: "cat-27_22"
     src: figures/27_22.jpg
-    caption: "Fig. 22 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    caption: "Fig. 22 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/50b811ab-b1d5-41bc-b10b-db1d67e81d2b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/50b811ab-b1d5-41bc-b10b-db1d67e81d2b/canvas/90734b61-b979-440d-9e65-2f7d049d7338
     zoom: true
 
   - id: "cat-27_23"
     src: figures/27_23.jpg
-    caption: "Fig. 23 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    caption: "Fig. 23 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ddf2f4c-26a1-411f-9157-7a91ac4cfc3a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ddf2f4c-26a1-411f-9157-7a91ac4cfc3a/canvas/4276ba1c-9aaf-41ae-8f85-58d95ca216ad
     zoom: true
@@ -3544,7 +3544,7 @@ figure_list:
 
   - id: "cat-27_26"
     src: figures/27_26.jpg
-    caption: "Fig. 26 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    caption: "Fig. 26 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fab07ceb-7510-4d69-bc05-99788af0ca7e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fab07ceb-7510-4d69-bc05-99788af0ca7e/canvas/7d22ea95-c2c8-4f1a-a638-f2ab82e28849
     zoom: true
@@ -3558,7 +3558,7 @@ figure_list:
 
   - id: "cat-27_28"
     src: figures/27_28.jpg
-    caption: "Fig. 28 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    caption: "Fig. 28 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b742ec42-6975-493b-94af-3d58a4889713/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b742ec42-6975-493b-94af-3d58a4889713/canvas/b25a2115-cae7-4e3d-ab97-8317fe3d4535
     zoom: true
@@ -3600,77 +3600,77 @@ figure_list:
 
   - id: "cat-28"
     src: figures/28.jpg
-    caption: "Cover Francesco Celebrano, *Testa di donna ridente* - *Testa di uomo ridente*, 1740-1760"
+    caption: "Francesco Celebrano, *Busto di donna che ride, Busto di uomo che ride*, 1765-1785 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b1b0376b-5caa-497e-b1d4-2dfe6fc2e16d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b1b0376b-5caa-497e-b1d4-2dfe6fc2e16d/canvas/d1669a81-33b7-4a63-85b3-063d5664f60d
     zoom: true
 
   - id: "cat-28_1"
     src: figures/28_1.jpg
-    caption: "Fig. 1 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    caption: "Fig. 1 – Francesco Celebrano, *Busto di donna che ride*, 1765-1785 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b5e7fa3-03d9-4c7b-960b-2edb0f1e9580/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b5e7fa3-03d9-4c7b-960b-2edb0f1e9580/canvas/9ddd5ac9-8f14-4cd1-be24-8aca1d3124ad
     zoom: true
 
   - id: "cat-28_2"
     src: figures/28_2.jpg
-    caption: "Fig. 2 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    caption: "Fig. 2 – Francesco Celebrano, *Busto di uomo che ride*, 1765-1785 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/47796e93-596d-4d5a-a36b-e386d5975c54/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/47796e93-596d-4d5a-a36b-e386d5975c54/canvas/c66206e8-65e5-4008-8e19-bb0426b5e2cc
     zoom: true
 
   - id: "cat-28_3"
     src: figures/28_3.jpg
-    caption: "Fig. 3 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    caption: "Fig. 3 – Francesco Celebrano, *Busto di donna che ride*, 1765-1785 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/610502c0-c0bb-458a-9624-c44b5c39070f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/610502c0-c0bb-458a-9624-c44b5c39070f/canvas/f169ab9e-9cdd-43f5-a716-d036956ac886
     zoom: true
 
   - id: "cat-28_4"
     src: figures/28_4.jpg
-    caption: "Fig. 4 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    caption: "Fig. 4 – Francesco Celebrano, *Busto di donna che ride*, 1765-1785 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0065f35b-88c3-4028-b437-21a1880336a8/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0065f35b-88c3-4028-b437-21a1880336a8/canvas/28d9e276-b277-4bcc-9fb8-ebab7e1090ec
     zoom: true
 
   - id: "cat-28_5"
     src: figures/28_5.jpg
-    caption: "Fig. 5 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    caption: "Fig. 5 – Francesco Celebrano, *Busto di uomo che ride*, 1765-1785 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/canvas/709b895e-6bb1-4deb-b3ac-cce4c6e77c8f
     zoom: true
 
   - id: "cat-28_6"
     src: figures/28_6.jpg
-    caption: "Fig. 6 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
+    caption: "Fig. 6 – Scultore napoletano, *Avventrice*, 1750-1800 circa, Monaco, Bayerisches Nationalmuseum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6374969a-73af-4856-acc6-41949f85abe6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6374969a-73af-4856-acc6-41949f85abe6/canvas/f156e3dd-ce55-49c2-aecf-a658e728f917
     zoom: true
 
   - id: "cat-28_7"
     src: figures/28_7.jpg
-    caption: "Fig. 7 – Francesco Celebrano, *Testa di donna che ride* (particolare), 1740-1760"
+    caption: "Fig. 7 – Scultore napoletano, *Tavernaro*, 1750-1800 circa, Napoli, Museo e Real Bosco di Capodimonte, Collezione Catello"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c6f1980d-c54e-41a7-957b-e7598ef30c47/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c6f1980d-c54e-41a7-957b-e7598ef30c47/canvas/a1456581-a389-4df3-af8e-f7394ff55101
     zoom: true
 
   - id: "cat-28_8"
     src: figures/28_8.jpg
-    caption: "Fig. 8 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    caption: "Fig. 8 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760, Firenze, Antichità Tettamanti"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67fa29dc-2033-4149-b185-3493438c2751/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67fa29dc-2033-4149-b185-3493438c2751/canvas/82440ad0-70dc-40e7-ab23-dc98c446f297
     zoom: true
 
   - id: "cat-28_9"
     src: figures/28_9.jpg
-    caption: "Fig. 9 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    caption: "Fig. 9 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760, Firenze, Antichità Tettamanti"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/canvas/8857c6be-b542-4b7b-b03c-b27dc37d6928
     zoom: true
 
   - id: "cat-28_10"
     src: figures/28_10.jpg
-    caption: "Fig. 10 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    caption: "Fig. 10 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/32ab65a5-2b84-4ce7-bd31-4df0926f11e9/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/32ab65a5-2b84-4ce7-bd31-4df0926f11e9/canvas/e8d8807e-4e2b-4d1a-8fde-35b602c552ff
     zoom: true
@@ -3684,42 +3684,42 @@ figure_list:
 
   - id: "cat-28_12"
     src: figures/28_12.jpg
-    caption: "Fig. 12 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    caption: "Fig. 12 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/canvas/d7f95032-d108-4bc7-8ad1-ff1a5e450278
     zoom: true
 
   - id: "cat-28_13"
     src: figures/28_13.jpg
-    caption: "Fig. 13 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
+    caption: "Fig. 13 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1581090e-c5a2-41c2-99ad-d0aea40963cb/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1581090e-c5a2-41c2-99ad-d0aea40963cb/canvas/0ac59110-9b56-4873-b075-ea1dafbae9df
     zoom: true
 
   - id: "cat-28_14"
     src: figures/28_14.jpg
-    caption: "Fig. 14 – Francesco Celebrano, *Testa di uomo che ride* (particolare), 1740-1760"
+    caption: "Fig. 14 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8db62bda-a804-4332-a706-2e9550858ec9/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8db62bda-a804-4332-a706-2e9550858ec9/canvas/07077344-7083-493a-a71c-8fb4544e3286
     zoom: true
 
   - id: "cat-28_15"
     src: figures/28_15.jpg
-    caption: "Fig. 15 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760, Firenze, Antichità Tettamanti"
+    caption: "Fig. 15 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/98b3a1f1-c423-4fc1-b8df-fa18a55c77ba/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/98b3a1f1-c423-4fc1-b8df-fa18a55c77ba/canvas/230926d9-dabf-4e1d-a3df-92be59ac88d8
     zoom: true
 
   - id: "cat-28_16"
     src: figures/28_16.jpg
-    caption: "Fig. 16 – rancesco Celebrano, *Testa di uomo che ride* (particolare), 1740-1760, Firenze, Antichità Tettamanti"
+    caption: "Fig. 16 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df5432dc-6098-4b73-9131-d9ad163938a3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df5432dc-6098-4b73-9131-d9ad163938a3/canvas/ca3f4a61-9406-4342-8ebe-19b896cc0ef1
     zoom: true
 
   - id: "cat-28_17"
     src: figures/28_17.jpg
-    caption: "Fig. 17 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760, Firenze, Antichità Tettamanti"
+    caption: "Fig. 17 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8d77a9dd-1c1d-43f9-874e-26d25dababbd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8d77a9dd-1c1d-43f9-874e-26d25dababbd/canvas/71dc6863-e605-453c-ab5e-7d6daf57b27b
     zoom: true
@@ -3733,7 +3733,7 @@ figure_list:
 
   - id: "cat-29"
     src: figures/29.jpg
-    caption: "Filippo Tagliolini, *Ercole nel giardino delle Esperidi*"
+    caption: "Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0f0c41d6-57d6-4027-a1f6-03a0fe9fe0b5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0f0c41d6-57d6-4027-a1f6-03a0fe9fe0b5/canvas/95fdd793-a090-4dcd-99b1-37019b32d4bf
     zoom: true  
@@ -3859,7 +3859,7 @@ figure_list:
 
   - id: "cat-29_18"
     src: figures/29_18.jpg
-    caption: "Fig. 18 – Filippo Tagliolini, *Ercole e Deianira*, 1780-1807, Napoli, Certosa e Museo di San Martino (particolare della testa di Ercole)"
+    caption: "Fig. 18 – Filippo Tagliolini, *Ercole e Deianira*, 1780-1807, Napoli, Certosa e Museo di San Martino (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb9ccf02-55ac-41cd-a1e4-53fef375be75/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb9ccf02-55ac-41cd-a1e4-53fef375be75/canvas/8d735dbe-cea8-4771-aa71-63867e593c9c
     zoom: true
@@ -3950,7 +3950,7 @@ figure_list:
 
   - id: "cat-30_6"
     src: figures/30_6.jpg
-    caption: "Fig. 6 – Joseph Chinard, *Madame Récamier*, 1799, Parigi, Petit Palais, musée des Beaux-arts de la Ville de Paris (particolare)"
+    caption: "Fig. 6 – Joseph Chinard, *Madame Récamier*, 1799, Parigi, Petit Palais, Musée des Beaux-arts de la Ville de Paris (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/94d6aca2-f9b8-4584-be69-a348e89b0671/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/94d6aca2-f9b8-4584-be69-a348e89b0671/canvas/cec80a3d-1803-4817-872f-0150c776d3ae
     zoom: true
@@ -3964,14 +3964,14 @@ figure_list:
 
   - id: "cat-30_8"
     src: figures/30_8.jpg
-    caption: "Fig. 8 – Anton von Maron (da un disegno di), *Ritratto di Bartolomeo Cavaceppi con Venere di Roma*, incisione, 1769 da *Raccolta d’antiche statue, busti, teste cognite ed altre sculture antiche scelte restaurate da Bartolomeo Cavaceppi scultore romano*, Roma, per Generoso Salomoni, 1769, vol. II, antiporta"
+    caption: "Fig. 8 – Anton von Maron (da un disegno di), *Ritratto di Bartolomeo Cavaceppi con Venere di Roma*, incisione, 1769 (da *Raccolta d’antiche statue, busti, teste cognite ed altre sculture antiche scelte restaurate da Bartolomeo Cavaceppi scultore romano*, Roma, Salomoni, 1769, vol. II, antiporta)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/994b9766-8016-4b71-9bc4-dad2d4a449c0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/994b9766-8016-4b71-9bc4-dad2d4a449c0/canvas/bb88ebcb-c254-4b97-bfee-36b4df3e0d35
     zoom: true
 
   - id: "cat-30_9"
     src: figures/30_9.jpg
-    caption: "Fig. 9 – *Venere Iennings*, incisione, 1768, da *Raccolta d’antiche statue, busti, teste cognite ed altre sculture antiche scelte restaurate da Bartolomeo Cavaceppi scultore romano*, Roma, per Generoso Salomoni, 1768, vol. I, tav. 7."
+    caption: "Fig. 9 – *Venere Jennings*, incisione, 1768 (da *Raccolta d’antiche statue, busti, teste cognite ed altre sculture antiche scelte restaurate da Bartolomeo Cavaceppi scultore romano*, Roma, Salomoni, 1768, vol. I, tav. 7)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ea1a6ba-10e4-4164-a9b6-8fed62eaea30/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ea1a6ba-10e4-4164-a9b6-8fed62eaea30/canvas/5de74cb2-fa4a-4d56-8327-0562eef1620b
     zoom: true
@@ -3992,7 +3992,7 @@ figure_list:
 
   - id: "cat-30_12"
     src: figures/30_12.jpg
-    caption: "Fig. 12 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769, (particolare)"
+    caption: "Fig. 12 – Bartolomeo Cavaceppi, *Venere di Roma*, 1756-1769"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1929b387-5e4a-4b4f-a130-a5597f2267a1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1929b387-5e4a-4b4f-a130-a5597f2267a1/canvas/e6dc0bd6-a4e8-48a4-a6e6-56b104a02346
     zoom: true
@@ -4038,7 +4038,7 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ba434682-7437-4963-84b9-207ac2339de5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ba434682-7437-4963-84b9-207ac2339de5/canvas/8f2177f9-9483-4b9e-bc5a-053fee21ac40
     zoom: true
-
+  
   - id: "cat-31"
     src: figures/31.jpg
     caption: "Camillo Pacetti, *Giunone*, *Cibele*, 1800-1807 circa"
@@ -4048,35 +4048,35 @@ figure_list:
 
   - id: "cat-31_1"
     src: figures/31_1.jpg
-    caption: "Fig. 1 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (fronte)"
+    caption: "Fig. 1 – Camillo Pacetti, *Giunone*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b44dd2f2-91ec-4f57-9188-3e9159b7fa75/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b44dd2f2-91ec-4f57-9188-3e9159b7fa75/canvas/800109ba-62e7-4034-ac9b-341763414140
     zoom: true
 
   - id: "cat-31_2"
     src: figures/31_2.jpg
-    caption: "Fig. 2 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (retro)"
+    caption: "Fig. 2 – Camillo Pacetti, *Giunone*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71ead979-3064-4549-b224-7d8c86e8e328/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/71ead979-3064-4549-b224-7d8c86e8e328/canvas/fd590c78-2a30-4b47-a92e-3664d986429e
     zoom: true
 
   - id: "cat-31_3"
     src: figures/31_3.jpg
-    caption: "Fig. 3 – Camillo Pacetti, *Cibele*, 1800-1807 circa, terracotta dorata (fronte)"
+    caption: "Fig. 3 – Camillo Pacetti, *Cibele*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/db282e2e-facd-47d8-b0db-adbfef213608/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/db282e2e-facd-47d8-b0db-adbfef213608/canvas/db6c2403-47ae-4808-8d56-87a3c3c28fc7
     zoom: true
 
   - id: "cat-31_4"
     src: figures/31_4.jpg
-    caption: "Fig. 4 – Camillo Pacetti, *Cibele*, 1800-1807 circa, terracotta dorata (retro)"
+    caption: "Fig. 4 – Camillo Pacetti, *Cibele*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ce4d61f7-47ea-4cdf-bb6f-69f5c7e82547/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ce4d61f7-47ea-4cdf-bb6f-69f5c7e82547/canvas/1075e57d-2313-45ee-88f8-f1b3c5dbdc6f
     zoom: true
 
   - id: "cat-31_5"
     src: figures/31_5.jpg
-    caption: "Fig. 5 - Camillo Pacetti, *Religione* o *Legge Nuova*, 1801, terracotta, Milano, Pinacoteca di Brera, in deposito presso Galleria d’Arte Moderna"
+    caption: "Fig. 5 - Camillo Pacetti, *Religione* o *Legge Nuova*, 1801, terracotta, Milano, Pinacoteca di Brera (in deposito presso la Galleria d’Arte Moderna)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7538442a-ce4c-4ef2-9625-ee05b72024bb/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7538442a-ce4c-4ef2-9625-ee05b72024bb/canvas/5f73d2df-fabd-46f8-9d1c-b3d8956cc7ce
     zoom: true
@@ -4111,119 +4111,119 @@ figure_list:
 
   - id: "cat-31_10"
     src: figures/31_10.jpg
-    caption: "Fig. 10 – Camillo Pacetti, *Giunone*, 1800-1807, terracotta dorata (particolare)"
+    caption: "Fig. 10 – Camillo Pacetti, *Giunone*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6fe65e83-0be8-4e41-b529-11d5a195ea37/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6fe65e83-0be8-4e41-b529-11d5a195ea37/canvas/6035989b-4859-4057-b90d-24da443ec01a
     zoom: true
 
   - id: "cat-31_11"
     src: figures/31_11.jpg
-    caption: "Fig. 11 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata"
+    caption: "Fig. 11 – Camillo Pacetti, *Giunone*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c1a2e59b-e38e-4e4b-8701-db3fa809d6f3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c1a2e59b-e38e-4e4b-8701-db3fa809d6f3/canvas/9e140e02-c562-45a1-8222-36b05cb01a0d
     zoom: true
 
   - id: "cat-31_12"
     src: figures/31_12.jpg
-    caption: "Fig. 12 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 12 – Camillo Pacetti, *Giunone*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/70e947ac-330e-4017-ace7-4bec764ac098/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/70e947ac-330e-4017-ace7-4bec764ac098/canvas/2b17e13f-e12c-4f55-957a-b6ebfaeeaaee
     zoom: true
 
   - id: "cat-31_13"
     src: figures/31_13.jpg
-    caption: "Fig. 13 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 13 – Camillo Pacetti, *Giunone*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a6107a23-7bcc-4721-aee7-1bbd18941fdd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a6107a23-7bcc-4721-aee7-1bbd18941fdd/canvas/338d3964-dbab-46ec-8008-fabc7df02581
     zoom: true
 
   - id: "cat-31_14"
     src: figures/31_14.jpg
-    caption: "Fig. 14 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 14 – Camillo Pacetti, *Giunone*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/450d6cd7-4b95-453c-8e73-d0e3bf2d505d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/450d6cd7-4b95-453c-8e73-d0e3bf2d505d/canvas/5a40ae73-3bd5-4b9f-bc28-fcd58aef0928
     zoom: true
 
   - id: "cat-31_15"
     src: figures/31_15.jpg
-    caption: "Fig. 15 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 15 – Camillo Pacetti, *Giunone*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e21d3fd1-b624-4714-b9aa-43ef79ca994e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e21d3fd1-b624-4714-b9aa-43ef79ca994e/canvas/f3cedd4e-ee9d-46b2-a833-bb24745fb6bf
     zoom: true
 
   - id: "cat-31_16"
     src: figures/31_16.jpg
-    caption: "Fig. 16 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 16 – Camillo Pacetti, *Giunone*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f1781ac4-a137-489c-a647-856423973935/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f1781ac4-a137-489c-a647-856423973935/canvas/915c2785-810a-4693-9c91-dec4dd70b1f9
     zoom: true
 
   - id: "cat-31_17"
     src: figures/31_17.jpg
-    caption: "Fig. 17 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata"
+    caption: "Fig. 17 – Camillo Pacetti, *Cibele*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/651b0f7c-31bd-4789-8be7-9e8649464835/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/651b0f7c-31bd-4789-8be7-9e8649464835/canvas/4c3cd1de-2dcf-4b70-b872-f28eb7b4b1cd
     zoom: true
 
   - id: "cat-31_18"
     src: figures/31_18.jpg
-    caption: "Fig. 18 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 18 – Camillo Pacetti, *Cibele*, 1800-1807 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fec4b15d-b490-4d92-bd15-d0205277f8db/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fec4b15d-b490-4d92-bd15-d0205277f8db/canvas/f030598f-6b31-4e1b-adef-bf1fda59edbd
     zoom: true
 
   - id: "cat-31_19"
     src: figures/31_19.jpg
-    caption: "Fig. 19 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 19 – Camillo Pacetti, *Cibele*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c4b1196d-c51b-42af-9af1-9265673465d2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c4b1196d-c51b-42af-9af1-9265673465d2/canvas/31886eab-ee62-4539-a137-de4e03a63f0e
     zoom: true
 
   - id: "cat-31_20"
     src: figures/31_20.jpg
-    caption: "Fig. 20 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 20 – Camillo Pacetti, *Cibele*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5169ee27-3b30-436e-bfbf-6a83264f7ead/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5169ee27-3b30-436e-bfbf-6a83264f7ead/canvas/67ec27e5-e190-4bcc-b335-2d5381fc8738
     zoom: true
 
   - id: "cat-31_21"
     src: figures/31_21.jpg
-    caption: "Fig. 21 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 21 – Camillo Pacetti, *Cibele*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e39f0e6b-c367-4148-9ee0-1c7b09a956c0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e39f0e6b-c367-4148-9ee0-1c7b09a956c0/canvas/bb890e05-8a00-4177-85ca-300dde48205a
     zoom: true
 
   - id: "cat-31_22"
     src: figures/31_22.jpg
-    caption: "Fig. 22 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (particolare)"
+    caption: "Fig. 22 – Camillo Pacetti, *Cibele*, 1800-1807 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3572f0d4-29aa-4924-9bc8-80f4fd006db9/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3572f0d4-29aa-4924-9bc8-80f4fd006db9/canvas/1997b752-7c4a-4b55-98a9-9c2560094146
     zoom: true
 
   - id: "cat-32"
     src: figures/32.jpg
-    caption: "Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    caption: "Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, *post* 1785"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/85adfc2e-179a-43aa-b724-dd09713968b4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/85adfc2e-179a-43aa-b724-dd09713968b4/canvas/f6105922-5b3b-49b2-8f7e-667eedffbaed
     zoom: true
 
   - id: "cat-32_1"
     src: figures/32_1.jpg
-    caption: "Fig. 1 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    caption: "Fig. 1 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, *post* 1785"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c79e0301-d258-447a-9082-bcbf8a3bd19d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c79e0301-d258-447a-9082-bcbf8a3bd19d/canvas/d4268c80-6a2d-4f1c-a8b0-73daa7d3d81f
     zoom: true
 
   - id: "cat-32_2"
     src: figures/32_2.jpg
-    caption: "Fig. 2 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    caption: "Fig. 2 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, *post* 1785"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/60014e63-96a1-40bf-98bf-de29d4480baf/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/60014e63-96a1-40bf-98bf-de29d4480baf/canvas/84d3a450-ce9f-4d7d-b4f2-fc015065f077
     zoom: true
 
   - id: "cat-32_3"
     src: figures/32_3.jpg
-    caption: "Fig. 3 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
+    caption: "Fig. 3 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, *post* 1785"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f0a99d90-790c-4519-9b15-5839584b0a6e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f0a99d90-790c-4519-9b15-5839584b0a6e/canvas/7fa63a9e-c61f-41fc-82ea-6648fbffa7f0
     zoom: true
@@ -4244,7 +4244,7 @@ figure_list:
 
   - id: "cat-32_6"
     src: figures/32_6.jpg
-    caption: "Fig. 6 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
+    caption: "Fig. 6 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, *post* 1785 (particolare)."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/fc2dfc03-cd6b-4d43-830f-990dcfe92f3c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/fc2dfc03-cd6b-4d43-830f-990dcfe92f3c/canvas/d1845dc7-2e20-4c74-9f2e-f931331833d7
     zoom: true
@@ -4297,7 +4297,7 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/canvas/76de89dd-4370-408c-a98b-b64e28d5e149
     zoom: true
-
+  
   - id: "cat-33"
     src: figures/33.jpg
     caption: "Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
@@ -4370,7 +4370,7 @@ figure_list:
 
   - id: "cat-33_10"
     src: figures/33_10.jpg
-    caption: "Fig. 10 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare del retro)"
+    caption: "Fig. 10 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/64980bd2-1ad2-46a2-adee-d356454173dc/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/64980bd2-1ad2-46a2-adee-d356454173dc/canvas/33480db9-d537-4106-a318-7fdb9f838cc2
     zoom: true
@@ -4398,21 +4398,21 @@ figure_list:
 
   - id: "cat-33_14"
     src: figures/33_14.jpg
-    caption: "Fig. 14 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa (retro)"
+    caption: "Fig. 14 – Bartolomeo Cavaceppi, *Testa di Bacco*, 1770 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6f98d545-d6d4-4c05-8649-007a903ce145/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6f98d545-d6d4-4c05-8649-007a903ce145/canvas/009702ce-aeca-4820-b050-f8d917ac077a
     zoom: true
 
   - id: "cat-34"
     src: figures/34.jpg
-    caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*"
+    caption: "Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7a15ad38-35ed-4d3a-8e55-4bab2007b7f1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7a15ad38-35ed-4d3a-8e55-4bab2007b7f1/canvas/1f22b4bb-9d34-4474-81b2-a674b102776e
     zoom: true
 
   - id: "cat-34_1"
     src: figures/34_1.jpg
-    caption: "Fig. 1 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare dell’acconciatura)"
+    caption: "Fig. 1 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1ff2fb71-4ca0-4302-8985-e27b4de49a21/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1ff2fb71-4ca0-4302-8985-e27b4de49a21/canvas/74b73264-bd70-4e67-998c-7516753df87d
     zoom: true
@@ -4447,7 +4447,7 @@ figure_list:
 
   - id: "cat-34_6"
     src: figures/34_6.jpg
-    caption: "Fig. 6 – Joseph Chinard, *Ritratto di Jeanne de L’Orme*, terracotta, 1802, Lione, Museo di Belle Arti"
+    caption: "Fig. 6 – Joseph Chinard, *Ritratto di Jeanne de L’Orme*, terracotta, 1802, Lione, Musée des Beaux-Arts"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35d67333-8b58-4b54-81cd-6d96bccc5a8a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/35d67333-8b58-4b54-81cd-6d96bccc5a8a/canvas/faf169b0-db40-41f6-b20a-1b0728410e29
     zoom: true
@@ -4461,7 +4461,7 @@ figure_list:
 
   - id: "cat-34_8"
     src: figures/34_8.jpg
-    caption: "Fig. 8 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    caption: "Fig. 8 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43c3b627-1b53-414f-b478-773739d889da/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/43c3b627-1b53-414f-b478-773739d889da/canvas/83194e1b-d379-43ed-a2af-bf8d224ef05f
     zoom: true
@@ -4517,28 +4517,28 @@ figure_list:
 
   - id: "cat-34_16"
     src: figures/34_16.jpg
-    caption: "Fig. 16 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa (particolare)"
+    caption: "Fig. 16 – Scultore italiano di primo Ottocento, *Busto di donna con pelliccia*, 1800-1830 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d3326736-ac4b-41fe-8b4c-20bb5c2534ca/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d3326736-ac4b-41fe-8b4c-20bb5c2534ca/canvas/12dd9e4b-7647-4b65-82bd-106c8b590f5c
     zoom: true
-
+  
   - id: "cat-35"
     src: figures/35.jpg
-    caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"
+    caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*, 1854-1855"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/74197d41-f274-4f8b-8caa-f01600b04479/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/74197d41-f274-4f8b-8caa-f01600b04479/canvas/ebd087e7-2473-44aa-9fa2-25205f7493b8
     zoom: true
 
   - id: "cat-35_1"
     src: figures/35_1.jpg
-    caption: "Fig. 1 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*verso* con cornice e iscrizione)"
+    caption: "Fig. 1 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*, 1854-1855"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b04bc18f-2909-4c48-94a1-0b5edba73f66/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b04bc18f-2909-4c48-94a1-0b5edba73f66/canvas/d3c3c2a7-c9d3-4830-a3ae-3126ddc17b2c
     zoom: true
 
   - id: "cat-35_2"
     src: figures/35_2.jpg
-    caption: "Fig. 2 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti* (*recto*, particolare)"
+    caption: "Fig. 2 - Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*, 1854-1855 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0a135e3-d010-49b8-9249-a6a3822b0d5b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0a135e3-d010-49b8-9249-a6a3822b0d5b/canvas/9665630c-062e-42bd-b94a-8409767c15e8
     zoom: true
@@ -4671,7 +4671,7 @@ figure_list:
 
   - id: "cat-36_12"
     src: figures/36_12.jpg
-    caption: "Fig. 12 – Randolph Rogers, *Indian Hunter Boy*, 1866-1867, Madison (Wisconsin), Chazen Museum of Art, inv. 1972.13"
+    caption: "Fig. 12 – Randolph Rogers, *Indian Hunter Boy*, 1866-1867, Madison (Wisconsin), Chazen Museum of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/cd68c8e4-db1f-4315-a610-73207f8af999/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/cd68c8e4-db1f-4315-a610-73207f8af999/canvas/be00c788-5e0b-4949-91ac-f61c18e3e806
     zoom: true
