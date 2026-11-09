@@ -3,7 +3,7 @@ title: Prefazione
 subtitle: Catalogare per conoscere
 layout: splash
 order: 8
-image: introduzione-sculture-zeri-2026.jpg
+image: prefazione-sculture-zeri-2026.jpg
 ---
 
 La catalogazione costituisce uno degli strumenti fondamentali attraverso i quali un museo conosce il proprio patrimonio. Come sappiamo, non si tratta di una semplice registrazione di dati: identificare, descrivere e documentare un’opera, ricostruirne la storia, metterla in relazione con altre e sottoporre a verifica quanto è stato acquisito dagli studi sono operazioni di natura critica. La catalogazione scientifica produce dunque una conoscenza dell’oggetto artistico ravvicinata e a tutto tondo e, proprio per questo, costituisce uno dei presupposti della tutela, della conservazione e della valorizzazione del patrimonio.

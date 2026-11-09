@@ -2,7 +2,7 @@
 title: Ringraziamenti 
 layout: splash
 order: 14
-image: introduzione-sculture-zeri-2026.jpg
+image: ringraziamenti-sculture-zeri-2026.jpg
 ---
 
 Un catalogo scientifico, anche quando assume la forma aperta e continuamente aggiornabile di una pubblicazione digitale, è necessariamente il risultato di un lavoro condiviso. Desidero innanzitutto esprimere la mia gratitudine agli autori delle schede – Agostino Allegri, Luca Annibali, Andrea Bacchi, Nicola Ciarlo, Claudio Collari, Davide Lipari, Gerardo Moscariello, Riccardo Naldi, Paolo Parmiggiani, Lorenzo Principi, Marco Scansani, Giulia Zaccariotto –, che hanno messo a disposizione competenze e ricerche, contribuendo in maniera sostanziale alla conoscenza e allo studio della collezione. Un ringraziamento particolare va ad Andrea Bacchi, per il contributo scientifico offerto al progetto e per il costante confronto sui problemi posti dallo studio della collezione, e a Giulia Zaccariotto, il cui prezioso apporto ha accompagnato ogni fase del lavoro, dalla definizione del progetto alle ricerche e all’elaborazione dei testi.

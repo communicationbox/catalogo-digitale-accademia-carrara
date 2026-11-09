@@ -31,10 +31,15 @@ export class CustomBox {
     quireNavbarControlsLeft.insertBefore(logoContainer, buttonSearch);
 
 
+    const homeLink = document.createElement('a');
+    homeLink.href = '/';
+    homeLink.rel = 'home';
+    logoContainer.appendChild(homeLink);
+
     const img = document.createElement('img');
     img.src = '/_assets/images/logo-museo-accademia-carrara-white.svg';
     img.alt = 'Museo Accademia Carrara Bergamo';
-    logoContainer.appendChild(img);
+    homeLink.appendChild(img);
 
   }
 }

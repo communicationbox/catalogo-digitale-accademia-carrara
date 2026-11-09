@@ -17,7 +17,11 @@ description: splash page layout
   <div class="hero-body">
     <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">
       {% if label %}<span class="label">{{ label }}<span class="visually-hidden">{{ labelDivider }}</span></span>{% endif %}
-      {%- pageTitle title=title, subtitle=subtitle -%}
+      {%- pageTitle title=title -%}
+      {%- if subtitle -%}
+        <span class="visually-hidden">: </span>
+        <span class="quire-page__header__subtitle">{%- pageTitle title=subtitle -%}</span>
+      {%- endif -%}
     </h1>
     {% if pageContributors %}
       <div class="quire-page__header__contributor">

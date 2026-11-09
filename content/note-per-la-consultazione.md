@@ -2,7 +2,7 @@
 title: Note per la consultazione 
 layout: splash
 order: 12
-image: introduzione-sculture-zeri-2026.jpg
+image: note-consultazione-sculture-zeri-2026.jpg
 ---
 
 Il catalogo scientifico della collezione di sculture donata da Federico Zeri all’Accademia Carrara nel 1998 nasce come strumento di conoscenza, studio e aggiornamento di una raccolta che occupa un posto particolare nel patrimonio del museo. La scelta della pubblicazione digitale consente di coniugare il rigore proprio del catalogo scientifico con una struttura aperta, nella quale le informazioni relative alle opere possono essere progressivamente aggiornate e integrate alla luce di nuove acquisizioni documentarie e bibliografiche, di interventi di restauro e indagini diagnostiche, nonché di nuove proposte attributive e interpretative. Il progetto è stato realizzato in collaborazione con Haltadefinizione utilizzando l’infrastruttura Quire, la soluzione open source per l’editoria digitale sviluppata dal Getty Museum nell’ambito dell’Online Scholarly Catalogue Initiative (OSCI).  
