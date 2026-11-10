@@ -1,6 +1,8 @@
 name: Deploy Pages
 
 # Pubblica docs/ su GitHub Pages con actions/deploy-pages (timeout 30 min).
+# Richiede Settings -> Pages -> Source: "GitHub Actions" e il dominio inserito
+# in Settings -> Pages -> Custom domain (il file docs/CNAME qui non conta).
 # Parte quando la build Quire termina con successo, a ogni modifica diretta
 # di docs/ (es. CNAME) e manualmente da Actions -> Run workflow.
 on:
@@ -24,7 +26,7 @@ concurrency:
 
 jobs:
   deploy:
-    if: github.repository == 'memooria/catalogo-digitale-accademia-carrara' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
