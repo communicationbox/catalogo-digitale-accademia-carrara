@@ -2158,7 +2158,7 @@ figure_list:
 
   - id: "cat-17_18"
     src: figures/17_18.jpg
-    caption: "Fig. 18 – Urna di Santa Palazia, Ancona, Museo Diocesano"
+    caption: "Fig. 18 – *Urna di Santa Palazia*, Ancona, Museo Diocesano «Mons. Cesare Recanatini»"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9b6233f4-97d6-4bfe-b652-3cb81125c86c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9b6233f4-97d6-4bfe-b652-3cb81125c86c/canvas/9c742210-07da-428b-85c5-54e7245f7536
     zoom: true
@@ -3678,8 +3678,8 @@ figure_list:
   - id: "cat-28_2"
     src: figures/28_2.jpg
     caption: "Fig. 2 – Francesco Celebrano, *Busto di uomo che ride*, 1765-1785 circa"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/47796e93-596d-4d5a-a36b-e386d5975c54/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/47796e93-596d-4d5a-a36b-e386d5975c54/canvas/c66206e8-65e5-4008-8e19-bb0426b5e2cc
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/47796e93-596d-4d5a-a36b-e386d5975c54/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/47796e93-596d-4d5a-a36b-e386d5975c54/canvas/c66206e8-65e5-4008-8e19-bb0426b5e2cc
     zoom: true
 
   - id: "cat-28_3"
@@ -3692,15 +3692,15 @@ figure_list:
   - id: "cat-28_4"
     src: figures/28_4.jpg
     caption: "Fig. 4 – Francesco Celebrano, *Busto di donna che ride*, 1765-1785 circa"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0065f35b-88c3-4028-b437-21a1880336a8/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0065f35b-88c3-4028-b437-21a1880336a8/canvas/28d9e276-b277-4bcc-9fb8-ebab7e1090ec
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/canvas/709b895e-6bb1-4deb-b3ac-cce4c6e77c8f
     zoom: true
 
   - id: "cat-28_5"
     src: figures/28_5.jpg
     caption: "Fig. 5 – Francesco Celebrano, *Busto di uomo che ride*, 1765-1785 circa"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a8b167dc-df54-4855-aef8-19c446035547/canvas/709b895e-6bb1-4deb-b3ac-cce4c6e77c8f
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/canvas/d7f95032-d108-4bc7-8ad1-ff1a5e450278
     zoom: true
 
   - id: "cat-28_6"
@@ -3720,71 +3720,71 @@ figure_list:
   - id: "cat-28_8"
     src: figures/28_8.jpg
     caption: "Fig. 8 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760, Firenze, Antichità Tettamanti"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67fa29dc-2033-4149-b185-3493438c2751/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67fa29dc-2033-4149-b185-3493438c2751/canvas/82440ad0-70dc-40e7-ab23-dc98c446f297
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67fa29dc-2033-4149-b185-3493438c2751/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67fa29dc-2033-4149-b185-3493438c2751/canvas/82440ad0-70dc-40e7-ab23-dc98c446f297
     zoom: true
 
   - id: "cat-28_9"
     src: figures/28_9.jpg
     caption: "Fig. 9 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760, Firenze, Antichità Tettamanti"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/canvas/8857c6be-b542-4b7b-b03c-b27dc37d6928
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e22d47dd-217c-4d56-86a4-9aa3723e9e29/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e22d47dd-217c-4d56-86a4-9aa3723e9e29/canvas/34acb49b-e67d-475f-859b-e090fbbc9a89
     zoom: true
 
   - id: "cat-28_10"
     src: figures/28_10.jpg
     caption: "Fig. 10 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/32ab65a5-2b84-4ce7-bd31-4df0926f11e9/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/32ab65a5-2b84-4ce7-bd31-4df0926f11e9/canvas/e8d8807e-4e2b-4d1a-8fde-35b602c552ff
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cf89c831-6a4f-44c4-8ab7-3490d723b5e3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cf89c831-6a4f-44c4-8ab7-3490d723b5e3/canvas/a7168531-8cde-409e-9315-a50cf6272b36
     zoom: true
 
   - id: "cat-28_11"
     src: figures/28_11.jpg
     caption: "Fig. 11 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/075aae2f-89bc-4a2c-901a-c45b2cd5e913/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/075aae2f-89bc-4a2c-901a-c45b2cd5e913/canvas/769381cd-f5d2-49dd-a4e6-c96cd0b1d066
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df654e04-d771-4ca1-9393-dea008a7547a/canvas/8857c6be-b542-4b7b-b03c-b27dc37d6928
     zoom: true
 
   - id: "cat-28_12"
     src: figures/28_12.jpg
     caption: "Fig. 12 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/69e339f2-6a49-49f1-9d36-d6e647231114/canvas/d7f95032-d108-4bc7-8ad1-ff1a5e450278
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3046a747-e389-4485-b943-afe32e81e9e1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3046a747-e389-4485-b943-afe32e81e9e1/canvas/4ba6f9fb-5952-48e3-94ba-b858ab591294
     zoom: true
 
   - id: "cat-28_13"
     src: figures/28_13.jpg
     caption: "Fig. 13 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1581090e-c5a2-41c2-99ad-d0aea40963cb/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1581090e-c5a2-41c2-99ad-d0aea40963cb/canvas/0ac59110-9b56-4873-b075-ea1dafbae9df
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b97395e-f761-4746-93b2-94778e38f72f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b97395e-f761-4746-93b2-94778e38f72f/canvas/bd28b4d1-9f88-4807-847c-46acc427d590
     zoom: true
 
   - id: "cat-28_14"
     src: figures/28_14.jpg
     caption: "Fig. 14 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8db62bda-a804-4332-a706-2e9550858ec9/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8db62bda-a804-4332-a706-2e9550858ec9/canvas/07077344-7083-493a-a71c-8fb4544e3286
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb051315-e46f-40be-a860-a9d750567ea9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eb051315-e46f-40be-a860-a9d750567ea9/canvas/26f4387b-e62a-493f-a994-622854c5dc42
     zoom: true
 
   - id: "cat-28_15"
     src: figures/28_15.jpg
     caption: "Fig. 15 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/98b3a1f1-c423-4fc1-b8df-fa18a55c77ba/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/98b3a1f1-c423-4fc1-b8df-fa18a55c77ba/canvas/230926d9-dabf-4e1d-a3df-92be59ac88d8
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/98b3a1f1-c423-4fc1-b8df-fa18a55c77ba/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/98b3a1f1-c423-4fc1-b8df-fa18a55c77ba/canvas/230926d9-dabf-4e1d-a3df-92be59ac88d8
     zoom: true
 
   - id: "cat-28_16"
     src: figures/28_16.jpg
     caption: "Fig. 16 – Francesco Celebrano, *Testa di donna che ride*, 1740-1760 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df5432dc-6098-4b73-9131-d9ad163938a3/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/df5432dc-6098-4b73-9131-d9ad163938a3/canvas/ca3f4a61-9406-4342-8ebe-19b896cc0ef1
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1104ffe6-bfa8-405d-bf9f-2032c3dd3584/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1104ffe6-bfa8-405d-bf9f-2032c3dd3584/canvas/93c915b9-458b-4d7f-b685-e6b542fe263a
     zoom: true
 
   - id: "cat-28_17"
     src: figures/28_17.jpg
     caption: "Fig. 17 – Francesco Celebrano, *Testa di uomo che ride*, 1740-1760 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8d77a9dd-1c1d-43f9-874e-26d25dababbd/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8d77a9dd-1c1d-43f9-874e-26d25dababbd/canvas/71dc6863-e605-453c-ab5e-7d6daf57b27b
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ef8c84c5-ae4a-4656-b993-11352c934cf0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ef8c84c5-ae4a-4656-b993-11352c934cf0/canvas/22e97938-a018-4e15-83d4-0c6cf8de9ddf
     zoom: true
 
   - id: "cat-28_18"
@@ -3793,7 +3793,7 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e22d47dd-217c-4d56-86a4-9aa3723e9e29/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e22d47dd-217c-4d56-86a4-9aa3723e9e29/canvas/34acb49b-e67d-475f-859b-e090fbbc9a89
     zoom: true
-
+  
   - id: "cat-29"
     src: figures/29.jpg
     caption: "Filippo Tagliolini, *Ercole nel giardino delle Esperidi*, 1780-1800 circa"
