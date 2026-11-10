@@ -1,10 +1,13 @@
 name: Deploy Pages
 
-# Pubblica docs/ su GitHub Pages con actions/deploy-pages (timeout 30 min).
+# Pubblica docs/ su GitHub Pages con actions/deploy-pages.
+# GitHub limita ogni tentativo a 10 minuti: con un sito di ~700 MB la copia
+# a volte scade ("syncing_files ... Timeout reached"), quindi il workflow
+# riprova da solo fino a 3 volte con lo stesso pacchetto.
 # Richiede Settings -> Pages -> Source: "GitHub Actions" e il dominio inserito
 # in Settings -> Pages -> Custom domain (il file docs/CNAME qui non conta).
 # Parte quando la build Quire termina con successo, a ogni modifica diretta
-# di docs/ (es. CNAME) e manualmente da Actions -> Run workflow.
+# di docs/ e manualmente da Actions -> Deploy Pages -> Run workflow.
 on:
   workflow_run:
     workflows: [Quire]
@@ -30,16 +33,23 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.pages.outputs.base_url }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: master
-      - uses: actions/configure-pages@v5
+      - id: pages
+        uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
-      - id: deployment
+      - id: deploy1
         uses: actions/deploy-pages@v4
-        with:
-          timeout: 1800000
+        continue-on-error: true
+      - id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - id: deploy3
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        uses: actions/deploy-pages@v4
