@@ -681,119 +681,133 @@ figure_list:
 
   - id: "cat-6_1"
     src: figures/6_1.jpg
-    caption: "Fig. 1 – Domenico Cafaggi, *Arcangelo Gabriele*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/canvas/6c26ee7d-2df2-44a9-91b2-c8c7c8e55f2f
+    caption: "Fig. 1 – Scultore senese (Domenico Cafaggi?), *Prudenza*, ultimo quarto del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c74d3dd3-871b-4a9a-ba87-42c20b62c5c2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c74d3dd3-871b-4a9a-ba87-42c20b62c5c2/canvas/aa253896-80f9-433a-b0d8-5ecf8ca458df
     zoom: true
     
   - id: "cat-6_2"
     src: figures/6_2.jpg
-    caption: "Fig. 2 – Domenico Cafaggi, *Vergine Annunciata*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/canvas/7d5807c6-6053-4664-a121-dcd134ceadf7
+    caption: "Fig. 2 – Scultore senese (Domenico Cafaggi?), *Prudenza*, ultimo quarto del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/3eec997f-cda0-4eec-b384-b0579ca1cde3/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/3eec997f-cda0-4eec-b384-b0579ca1cde3/canvas/643446b6-a43a-4130-b00d-df0431599539
     zoom: true
-
+    
   - id: "cat-6_3"
     src: figures/6_3.jpg
-    caption: "Fig. 3 - Domenico Cafaggi, *Arcangelo Gabriele*, ultimo quarto del XVI secolo, Siena, oratorio dell’Arciconfraternita della Misericordia"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b921b30b-b479-491b-a624-59b56e98c23e/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b921b30b-b479-491b-a624-59b56e98c23e/canvas/8bf2b3fc-5f2e-4ab9-977c-7187698a97de
+    caption: "Fig. 3 – Domenico Cafaggi, *Arcangelo Gabriele*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/c530ca57-975d-4cbb-8f85-920ba926cc8c/canvas/6c26ee7d-2df2-44a9-91b2-c8c7c8e55f2f
     zoom: true
 
   - id: "cat-6_4"
     src: figures/6_4.jpg
-    caption: "Fig. 4 - Domenico Cafaggi, *Vergine Annunciata*, ultimo quarto del XVI secolo, Siena, oratorio dell’Arciconfraternita della Misericordia"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92739920-6770-4e4e-8e01-114b1a0f3694/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92739920-6770-4e4e-8e01-114b1a0f3694/canvas/0339fbb2-dec1-441f-8010-ee84b23ab25a
+    caption: "Fig. 4 – Domenico Cafaggi, *Vergine Annunciata*, ultimo quarto del XVI secolo, Siena, Museo Civico e Diocesano d’Arte Sacra"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67e75988-942b-40c2-b4b4-3a749975ab7b/canvas/7d5807c6-6053-4664-a121-dcd134ceadf7
     zoom: true
 
   - id: "cat-6_5"
     src: figures/6_5.jpg
-    caption: "Fig. 5 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e2a7f56-aca6-4380-ac5e-470180bb8263/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e2a7f56-aca6-4380-ac5e-470180bb8263/canvas/d02a126e-c147-4681-bfa0-03feffb5398a
+    caption: "Fig. 5 - Domenico Cafaggi, *Arcangelo Gabriele*, ultimo quarto del XVI secolo, Siena, oratorio dell’Arciconfraternita della Misericordia"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b921b30b-b479-491b-a624-59b56e98c23e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b921b30b-b479-491b-a624-59b56e98c23e/canvas/8bf2b3fc-5f2e-4ab9-977c-7187698a97de
     zoom: true
 
   - id: "cat-6_6"
     src: figures/6_6.jpg
-    caption: "Fig. 6 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0481a69-0129-4562-9a52-385bb58a3c9c/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0481a69-0129-4562-9a52-385bb58a3c9c/canvas/6bc25b66-54a3-497f-89e8-21da02352062
+    caption: "Fig. 6 - Domenico Cafaggi, *Vergine Annunciata*, ultimo quarto del XVI secolo, Siena, oratorio dell’Arciconfraternita della Misericordia"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92739920-6770-4e4e-8e01-114b1a0f3694/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/92739920-6770-4e4e-8e01-114b1a0f3694/canvas/0339fbb2-dec1-441f-8010-ee84b23ab25a
     zoom: true
 
   - id: "cat-6_7"
     src: figures/6_7.jpg
     caption: "Fig. 7 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d573ffce-4b7a-4405-a017-364f3cfb3c64/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d573ffce-4b7a-4405-a017-364f3cfb3c64/canvas/c27f86af-7c42-4e75-bb5a-86a3e21d6195
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e2a7f56-aca6-4380-ac5e-470180bb8263/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e2a7f56-aca6-4380-ac5e-470180bb8263/canvas/d02a126e-c147-4681-bfa0-03feffb5398a
     zoom: true
 
   - id: "cat-6_8"
     src: figures/6_8.jpg
     caption: "Fig. 8 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0ced8a51-67d7-4b58-8fda-2681faec6bf2/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0ced8a51-67d7-4b58-8fda-2681faec6bf2/canvas/48ad74e3-aa42-4fbc-8846-64fcbe1bfd96
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0481a69-0129-4562-9a52-385bb58a3c9c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0481a69-0129-4562-9a52-385bb58a3c9c/canvas/6bc25b66-54a3-497f-89e8-21da02352062
     zoom: true
 
   - id: "cat-6_9"
     src: figures/6_9.jpg
     caption: "Fig. 9 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/141c1413-5b88-4dc9-bfe4-deb481b870bf/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/141c1413-5b88-4dc9-bfe4-deb481b870bf/canvas/f10f7de4-b9e8-42b6-a394-e93ac8969382
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d573ffce-4b7a-4405-a017-364f3cfb3c64/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d573ffce-4b7a-4405-a017-364f3cfb3c64/canvas/c27f86af-7c42-4e75-bb5a-86a3e21d6195
     zoom: true
 
   - id: "cat-6_10"
     src: figures/6_10.jpg
     caption: "Fig. 10 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e60ef97-0789-47ef-9913-b45c2920fd62/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e60ef97-0789-47ef-9913-b45c2920fd62/canvas/3c45fb47-a429-4285-908f-c2ba7239aec1
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0ced8a51-67d7-4b58-8fda-2681faec6bf2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0ced8a51-67d7-4b58-8fda-2681faec6bf2/canvas/48ad74e3-aa42-4fbc-8846-64fcbe1bfd96
     zoom: true
 
   - id: "cat-6_11"
     src: figures/6_11.jpg
     caption: "Fig. 11 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ee3396dc-5564-4c16-80c3-b8f4acff8284/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ee3396dc-5564-4c16-80c3-b8f4acff8284/canvas/c708a91c-13ea-40be-a85b-2f04c8ad962b
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/141c1413-5b88-4dc9-bfe4-deb481b870bf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/141c1413-5b88-4dc9-bfe4-deb481b870bf/canvas/f10f7de4-b9e8-42b6-a394-e93ac8969382
     zoom: true
 
   - id: "cat-6_12"
     src: figures/6_12.jpg
     caption: "Fig. 12 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b58db5b3-cad0-494a-924b-50d8066bbb06/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b58db5b3-cad0-494a-924b-50d8066bbb06/canvas/37c0368d-373f-42a0-8a0e-0c75074d0f93
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e60ef97-0789-47ef-9913-b45c2920fd62/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e60ef97-0789-47ef-9913-b45c2920fd62/canvas/3c45fb47-a429-4285-908f-c2ba7239aec1
     zoom: true
 
   - id: "cat-6_13"
     src: figures/6_13.jpg
     caption: "Fig. 13 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c2f2de0-7e8b-40c2-807f-b5c42206308c/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c2f2de0-7e8b-40c2-807f-b5c42206308c/canvas/c34eba0e-7949-4b96-a673-413f1019b423
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ee3396dc-5564-4c16-80c3-b8f4acff8284/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ee3396dc-5564-4c16-80c3-b8f4acff8284/canvas/c708a91c-13ea-40be-a85b-2f04c8ad962b
     zoom: true
 
   - id: "cat-6_14"
     src: figures/6_14.jpg
     caption: "Fig. 14 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/84a18d79-e149-490d-9eca-b9729e314c7c/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/84a18d79-e149-490d-9eca-b9729e314c7c/canvas/f261136f-cd52-48b1-964e-62b22630be93
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b58db5b3-cad0-494a-924b-50d8066bbb06/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b58db5b3-cad0-494a-924b-50d8066bbb06/canvas/37c0368d-373f-42a0-8a0e-0c75074d0f93
     zoom: true
 
   - id: "cat-6_15"
     src: figures/6_15.jpg
     caption: "Fig. 15 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a86ffe5c-4180-4e2e-8094-ac9aa02f25e0/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a86ffe5c-4180-4e2e-8094-ac9aa02f25e0/canvas/3982eddc-77a1-4595-9265-8bd7a8c36f4d
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c2f2de0-7e8b-40c2-807f-b5c42206308c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9c2f2de0-7e8b-40c2-807f-b5c42206308c/canvas/c34eba0e-7949-4b96-a673-413f1019b423
     zoom: true
 
   - id: "cat-6_16"
     src: figures/6_16.jpg
     caption: "Fig. 16 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b3ec6db-f414-432c-9597-245bcd3d77c2/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b3ec6db-f414-432c-9597-245bcd3d77c2/canvas/b7d857fc-face-429a-8b62-5df12254252a
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/84a18d79-e149-490d-9eca-b9729e314c7c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/84a18d79-e149-490d-9eca-b9729e314c7c/canvas/f261136f-cd52-48b1-964e-62b22630be93
     zoom: true
 
   - id: "cat-6_17"
     src: figures/6_17.jpg
     caption: "Fig. 17 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a86ffe5c-4180-4e2e-8094-ac9aa02f25e0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a86ffe5c-4180-4e2e-8094-ac9aa02f25e0/canvas/3982eddc-77a1-4595-9265-8bd7a8c36f4d
+    zoom: true
+
+  - id: "cat-6_18"
+    src: figures/6_18.jpg
+    caption: "Fig. 18 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b3ec6db-f414-432c-9597-245bcd3d77c2/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b3ec6db-f414-432c-9597-245bcd3d77c2/canvas/b7d857fc-face-429a-8b62-5df12254252a
+    zoom: true
+
+  - id: "cat-6_19"
+    src: figures/6_19.jpg
+    caption: "Fig. 19 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ef5d977-775d-4755-a310-1264bd989dbc/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2ef5d977-775d-4755-a310-1264bd989dbc/canvas/78e354f0-ab9b-4a5c-b44b-578aa23050e9
     zoom: true
@@ -917,6 +931,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a23cc0b4-288c-4dd3-84ee-c5ea5cc3bbed/canvas/aa1acb0a-0516-4abc-82ae-cc617953cc36
     zoom: true
 
+  - id: "cat-7_18"
+    src: figures/7_18.jpg
+    caption: "Fig. 18 – Tiziano (attribuito a), *Ritratto del mercante e collezionista di Norimberga Willibald Imhoff il Vecchio*, 1550-1570, Copenaghen, Statens Museum fur Kunst"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/678752e9-83ba-4f25-9858-a96e73adf264/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/678752e9-83ba-4f25-9858-a96e73adf264/canvas/29599483-0be0-4540-82ef-eb48bbf1588a
+    zoom: true
+
   - id: "cat-7_19"
     src: figures/7_19.jpg
     caption: "Fig. 19 - Alessandro Vittoria (da), *Ritratto di Apollonio Massa*, 1884 circa, Londra, Victoria and Albert Museum"
@@ -926,7 +947,7 @@ figure_list:
 
   - id: "cat-8"
     src: figures/8.jpg
-    caption: "Fig. 1 – Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa"
+    caption: "Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a14f74a9-0d36-41e8-ae21-fd83d28fb97e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/a14f74a9-0d36-41e8-ae21-fd83d28fb97e/canvas/e60f660c-ef50-4610-8863-02a703fcf6fc
     zoom: true
@@ -1200,8 +1221,8 @@ figure_list:
   - id: "cat-10"
     src: figures/10.jpg
     caption: "Pietro Bernini, *Allegoria della Virtù vittoriosa sul Vizio*, Collezione Zeri, Accademia Carrara, Bergamo"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
     zoom: true
 
   - id: "cat-10_1"
@@ -2019,8 +2040,8 @@ figure_list:
   - id: "cat-17_1"
     src: figures/17_1.jpg
     caption: "Fig. 1 – Giovanni Francesco Arrighi, *Statua reliquiario di Santa Palazia*, 1726"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aec64473-889c-4dfb-a631-a2581dd30359/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aec64473-889c-4dfb-a631-a2581dd30359/canvas/543e9c49-716b-43af-8e49-c7f395e4c888
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e0179908-2e6d-481a-b6fc-0abeab932bc8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e0179908-2e6d-481a-b6fc-0abeab932bc8/canvas/0bccdc2e-75e1-4f3b-9602-d4f3f3c04a7d
     zoom: true
 
   - id: "cat-17_2"
@@ -2133,6 +2154,13 @@ figure_list:
     caption: "Fig. 17 – Giovanni Francesco Arrighi, *Busto reliquiario di Sant’Urbano*, 1706, Apiro, Collegiata di Sant’Urbano"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b6ccec1-4d1b-422e-a834-07f45135365b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2b6ccec1-4d1b-422e-a834-07f45135365b/canvas/aa1d5ade-2b41-430b-ac82-3bb03e4caf81
+    zoom: true
+
+  - id: "cat-17_18"
+    src: figures/17_18.jpg
+    caption: "Fig. 18 – Urna di Santa Palazia, Ancona, Museo Diocesano"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9b6233f4-97d6-4bfe-b652-3cb81125c86c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9b6233f4-97d6-4bfe-b652-3cb81125c86c/canvas/9c742210-07da-428b-85c5-54e7245f7536
     zoom: true
 
   - id: "cat-17_19"
@@ -2373,6 +2401,20 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/61ea274f-3c39-4e0d-ba0f-9c1fe7dfcd0e/canvas/a29e3969-6025-4580-a953-b6fe03e98899
     zoom: true
 
+  - id: "cat-19_8"
+    src: figures/19_8.jpg
+    caption: "Fig. 8 - Giovanni Camillo Cateni, *Terza caduta di Cristo sotto la Croce*, 1685, Collezione privata"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9ac9a94a-55a7-4a62-af00-44915c557235/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9ac9a94a-55a7-4a62-af00-44915c557235/canvas/764afa81-cf04-4465-8b91-d5a42431d0d6
+    zoom: true
+
+  - id: "cat-19_9"
+    src: figures/19_9.jpg
+    caption: "Fig. 9 - Giuseppe Piamontini, *Flagellazione di Cristo alla colonna*, 1685, già sul mercato antiquario fiorentino"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/90a230d1-a0c9-4cbd-b072-7b342f258f99/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/90a230d1-a0c9-4cbd-b072-7b342f258f99/canvas/2798230b-2df1-4cbc-9fd9-68dbdd978e9d
+    zoom: true
+
   - id: "cat-19_10"
     src: figures/19_10.jpg
     caption: "Fig. 10 - Ciro Ferri, *Flagellazione di Cristo alla colonna*, 1685, modello in cera, Berlino (da Ursula Schlegel, *Die italienischen Bildwerke des 17. und 18. Jahrhunderts in Stein, Holz, Ton, Wachs und Bronze mit Ausnahme der Plaketten und Medaillen*, Berlin, Mann, 1978, ill. 57)"
@@ -2380,6 +2422,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/42356ba9-374a-47a1-a292-c9aa41f69e3c/canvas/79e9d0c5-3d92-44e2-9d0f-faa520469e8f
     zoom: true
 
+  - id: "cat-19_11"
+    src: figures/19_11.jpg
+    caption: "Fig. 11 - *Deposizione dalla Croce*, 1685, disegno, da *Miscellanea Medicea*"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f9f3b904-ebc4-4efd-8141-03b327801920/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f9f3b904-ebc4-4efd-8141-03b327801920/canvas/87ad377e-bffa-4dec-b979-5b95e9659afa
+    zoom: true
+  
   - id: "cat-19_12"
     src: figures/19_12.jpg
     caption: "Fig. 12 - Ciro Ferri, *Incontro di Cristo con la Madre*, 1685 circa, disegno preparatorio, Roma, Istituto Centrale per la Grafica, Fondo Corsini, proprietà Accademia Nazionale dei Lincei"
@@ -3199,6 +3248,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12817784-9dbd-425a-a376-25825892ca09/canvas/4db8378a-f873-4bba-8480-2728a0e4f16c
     zoom: true
 
+  - id: "cat-25_11"
+    src: figures/25_11.jpg
+    caption: "Fig. 11 – Jacques Bergé, *Aronne*, terracotta, Coll. King Baudouin Foundation, Charles Van Herck Collection (in deposito a Antwerp, Museum of Fine Arts Antwerp)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f7171d3d-d760-4348-b1d8-71dea349bab6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f7171d3d-d760-4348-b1d8-71dea349bab6/canvas/e1acd03f-ce27-4382-9887-e5563fc409fc
+    zoom: true
+
   - id: "cat-25_12"
     src: figures/25_12.jpg
     caption: "Fig. 12 – Jacques Bergé, *Davide*, 1738 (particolare)"
@@ -3332,6 +3388,13 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/canvas/d251d4e7-bf15-4a24-a7d2-5cebcaf0e967
     zoom: true
 
+  - id: "cat-26_10"
+    src: figures/26_10.jpg
+    caption: "Fig. 10 – John Flaxman (modello) e manifattura Wedgwood (realizzazione), *Profilo ritratto di Lord Cowper*, 1786, porcellana, Nottingham, Nottingham City Museums & Galleries (da Charles S. Ellin, Paola Gibbin, *Lord Cowper. Un conte inglese nell’età dei Lumi*, Firenze, Leonardo Libri, 2022, p. 282, fig. 41)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e1e74f4b-50d3-48c1-8d8f-55e79e6141de/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/e1e74f4b-50d3-48c1-8d8f-55e79e6141de/canvas/795defa1-1ff4-4dc6-819e-3744ae65a3fb
+    zoom: true
+
   - id: "cat-26_11"
     src: figures/26_11.jpg
     caption: "Fig. 11 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
@@ -3405,8 +3468,8 @@ figure_list:
   - id: "cat-27_6"
     src: figures/27_6.jpg
     caption: "Fig. 6 – Tommaso Righi, *Giove tonante*, Roma, Collezione dei principi d’Assia"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/628036a2-67ad-45e0-a5dc-b3c5280f426d/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/628036a2-67ad-45e0-a5dc-b3c5280f426d/canvas/5f8371b7-6d91-47d1-807e-c3fef1b9456a
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/304d15a6-58bf-43ce-81f1-2d893ecafe2c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/304d15a6-58bf-43ce-81f1-2d893ecafe2c/canvas/5cb163f8-5227-4fe8-8a12-2e3229aa6d9d
     zoom: true
 
   - id: "cat-27_7"
@@ -4245,57 +4308,50 @@ figure_list:
   - id: "cat-32_6"
     src: figures/32_6.jpg
     caption: "Fig. 6 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, *post* 1785 (particolare)."
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/fc2dfc03-cd6b-4d43-830f-990dcfe92f3c/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/fc2dfc03-cd6b-4d43-830f-990dcfe92f3c/canvas/d1845dc7-2e20-4c74-9f2e-f931331833d7
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d7fb90ce-c10f-4f60-b1b5-f085ea4d2ce9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d7fb90ce-c10f-4f60-b1b5-f085ea4d2ce9/canvas/43007f69-05b8-47e9-9387-362655728f3d
     zoom: true
 
   - id: "cat-32_7"
     src: figures/32_7.jpg
     caption: "Fig. 7 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d7fb90ce-c10f-4f60-b1b5-f085ea4d2ce9/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d7fb90ce-c10f-4f60-b1b5-f085ea4d2ce9/canvas/43007f69-05b8-47e9-9387-362655728f3d
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/79e53f9d-0374-4158-9f0a-27522e73b52f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/79e53f9d-0374-4158-9f0a-27522e73b52f/canvas/0eebcded-6f9c-428c-a37e-b7fcdebb4969
     zoom: true
 
   - id: "cat-32_8"
     src: figures/32_8.jpg
     caption: "Fig. 8 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/79e53f9d-0374-4158-9f0a-27522e73b52f/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/79e53f9d-0374-4158-9f0a-27522e73b52f/canvas/0eebcded-6f9c-428c-a37e-b7fcdebb4969
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/20bd73ed-543a-4500-b91e-c52aaac4ad6b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/20bd73ed-543a-4500-b91e-c52aaac4ad6b/canvas/020d234b-fab2-4932-8c43-de2d89b5599a
     zoom: true
 
   - id: "cat-32_9"
     src: figures/32_9.jpg
     caption: "Fig. 9 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/20bd73ed-543a-4500-b91e-c52aaac4ad6b/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/20bd73ed-543a-4500-b91e-c52aaac4ad6b/canvas/020d234b-fab2-4932-8c43-de2d89b5599a
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/dc9d04a9-1188-4c78-a38c-0618b0a79d11/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/dc9d04a9-1188-4c78-a38c-0618b0a79d11/canvas/3f06787f-9b7d-4458-91a0-fa935272b35a
     zoom: true
 
   - id: "cat-32_10"
     src: figures/32_10.jpg
     caption: "Fig. 10 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/dc9d04a9-1188-4c78-a38c-0618b0a79d11/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/dc9d04a9-1188-4c78-a38c-0618b0a79d11/canvas/3f06787f-9b7d-4458-91a0-fa935272b35a
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2a924306-3d56-430a-bf34-2fe3680c6998/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2a924306-3d56-430a-bf34-2fe3680c6998/canvas/0b4ea531-32b4-4f93-8b2c-ebcccfd933c2
     zoom: true
 
   - id: "cat-32_11"
     src: figures/32_11.jpg
     caption: "Fig. 11 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (particolare)"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2a924306-3d56-430a-bf34-2fe3680c6998/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2a924306-3d56-430a-bf34-2fe3680c6998/canvas/0b4ea531-32b4-4f93-8b2c-ebcccfd933c2
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d2cc6371-0003-4950-a9a0-cf08b1a32a22/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d2cc6371-0003-4950-a9a0-cf08b1a32a22/canvas/113cdc76-e7a4-45b7-8db3-d17c0f8f11a5
     zoom: true
 
   - id: "cat-32_12"
     src: figures/32_12.jpg
     caption: "Fig. 12 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d2cc6371-0003-4950-a9a0-cf08b1a32a22/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d2cc6371-0003-4950-a9a0-cf08b1a32a22/canvas/113cdc76-e7a4-45b7-8db3-d17c0f8f11a5
-    zoom: true
-
-  - id: "cat-32_13"
-    src: figures/32_13.jpg
-    caption: "Fig. 13 – Giovanni Volpato (manifattura), *Erma doppia con i ritratti di Anton Raphael Mengs e José Nicolás de Azara*, dopo il 1785 (fotografia di Filippo Reale, 1920-1930 circa)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/canvas/76de89dd-4370-408c-a98b-b64e28d5e149
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/39a7fdd2-a75a-4517-87a0-a430b8d1927a/canvas/76de89dd-4370-408c-a98b-b64e28d5e149    
     zoom: true
   
   - id: "cat-33"
