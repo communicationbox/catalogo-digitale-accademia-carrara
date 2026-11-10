@@ -989,14 +989,14 @@ figure_list:
 
   - id: "cat-8_6"
     src: figures/8_6.jpg
-    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V*, 1608, Londra, British Museum"
+    caption: "Fig. 6 – Paolo Sanquirico, *Medaglia di Paolo V Borghese*, 1608, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ebd849d0-6d0c-4cae-9765-acb2897457cd/canvas/d04274e7-ecea-48c6-925e-850a9498e99d
     zoom: true
 
   - id: "cat-8_7"
     src: figures/8_7.jpg
-    caption: "Fig. 7 – Paolo Sanquirico, *Medaglia di Paolo V*, 1609, Londra, British Museum"
+    caption: "Fig. 7 – Paolo Sanquirico, *Medaglia di Paolo V Borghese*, 1609, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8979b69c-2381-4984-bd32-8d2dc4fee88f/canvas/080bd7b0-15cc-4d60-9ab3-a589c0927728
     zoom: true
@@ -1108,9 +1108,9 @@ figure_list:
 
   - id: "cat-9"
     src: figures/9.jpg
-    caption: "Pietro Bernini, *Allegoria della Virtù vittoriosa sul Vizio*, Collezione Zeri, Accademia Carrara, Bergamo"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5bb18c8b-2b28-49b0-99f2-67eeffed5a4b/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5bb18c8b-2b28-49b0-99f2-67eeffed5a4b/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
+    caption: "Pietro Bernini, *Andromeda*, 1615-1616 circa, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b0a9268-277e-4e3b-9df1-c4f194a49dd8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b0a9268-277e-4e3b-9df1-c4f194a49dd8/canvas/a739fecd-c185-4e9d-bea5-1831ee7ab9ec
     zoom: true
 
   - id: "cat-9_1"
@@ -1213,9 +1213,9 @@ figure_list:
 
   - id: "cat-9_15"
     src: figures/9_15.jpg
-    caption: "Fig. 15 - Pietro Bernini, *Andromeda*, 1615-1616 circa (particolare)"
+    caption: "Fig. 15 - Pietro Bernini, *Andromeda*, 1615-1616 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d9ece3af-d2b3-4032-883c-e6362f938d76/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d9ece3af-d2b3-4032-883c-e6362f938d76/canvas/823636fc-ddd3-4635-9f80-67e745ba03c4
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b0a9268-277e-4e3b-9df1-c4f194a49dd8/canvas/a739fecd-c185-4e9d-bea5-1831ee7ab9ec
     zoom: true
 
   - id: "cat-10"
@@ -1262,7 +1262,7 @@ figure_list:
 
   - id: "cat-10_6"
     src: figures/10_6.jpg
-    caption: "Fig. 6 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
+    caption: "Fig. 6 - Pietro Bernini, *La Virtù sottomette il Vizio*, 1610-1615 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b65f4-c213-4861-89ce-cc939d83a7a0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b65f4-c213-4861-89ce-cc939d83a7a0/canvas/d1364f2c-de48-4fcc-82d9-afb81efb1978
     zoom: true
@@ -1857,7 +1857,7 @@ figure_list:
 
   - id: "cat-15_5"
     src: figures/15_5.jpg
-    caption: "Fig. 5 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa"
+    caption: "Fig. 5 - Domenico Guidi, *Busto di Alessandro Rondinini senior*, 1669-1675 circa (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09827038-89f1-48f0-a602-ce88753fc4cb/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09827038-89f1-48f0-a602-ce88753fc4cb/canvas/76b84266-01a9-43bf-99de-703c796c03fb
     zoom: true
@@ -2403,14 +2403,14 @@ figure_list:
 
   - id: "cat-19_8"
     src: figures/19_8.jpg
-    caption: "Fig. 8 - Giovanni Camillo Cateni, *Terza caduta di Cristo sotto la Croce*, 1685, Collezione privata"
+    caption: "Fig. 8 – Giovanni Camillo Cateni, *Terza caduta di Cristo sotto la Croce*, 1685, Germania, mercato antiquario (da Mara Visonà, *La Via Crucis del Convento di San Pietro d’Alcantara presso la Villa l’Ambrogiana a Montelupo Fiorentino*, in *Kunst des Barock in der Toskana: Studien zur Kunst unter den letzten Medici*, München, Bruckmann, 1976, p. 63, fig. 8)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9ac9a94a-55a7-4a62-af00-44915c557235/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/9ac9a94a-55a7-4a62-af00-44915c557235/canvas/764afa81-cf04-4465-8b91-d5a42431d0d6
     zoom: true
 
   - id: "cat-19_9"
     src: figures/19_9.jpg
-    caption: "Fig. 9 - Giuseppe Piamontini, *Flagellazione di Cristo alla colonna*, 1685, già sul mercato antiquario fiorentino"
+    caption: "Fig. 9 – Giuseppe Piamontini, *Flagellazione di Cristo alla colonna*, 1685, Firenze, mercato antiquario (da Mara Visonà, *La Via Crucis del Convento di San Pietro d’Alcantara presso la Villa l’Ambrogiana a Montelupo Fiorentino*, in *Kunst des Barock in der Toskana: Studien zur Kunst unter den letzten Medici*, München, Bruckmann, 1976, p. 66, fig. 12)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/90a230d1-a0c9-4cbd-b072-7b342f258f99/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/90a230d1-a0c9-4cbd-b072-7b342f258f99/canvas/2798230b-2df1-4cbc-9fd9-68dbdd978e9d
     zoom: true
@@ -2424,7 +2424,7 @@ figure_list:
 
   - id: "cat-19_11"
     src: figures/19_11.jpg
-    caption: "Fig. 11 - *Deposizione dalla Croce*, 1685, disegno, da *Miscellanea Medicea*"
+    caption: "Fig. 11 – *Deposizione dalla Croce*, 1685, disegno, da Miscellanea Medicea, Firenze, Archivio di Stato, 368 c.1268r"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f9f3b904-ebc4-4efd-8141-03b327801920/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/f9f3b904-ebc4-4efd-8141-03b327801920/canvas/87ad377e-bffa-4dec-b979-5b95e9659afa
     zoom: true
