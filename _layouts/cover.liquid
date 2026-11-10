@@ -20,28 +20,38 @@ layout: base.11ty.js
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
         {% if cover_title %}{{ cover_title | markdownify }}{% else %}{{ publication.title | markdownify }}{% endif %}
-        {% if publication.subtitle %}
+        {% if cover_subtitle %}
+          <span class="visually-hidden">: </span>
+          <span class="subtitle">{{ cover_subtitle | markdownify }}</span>
+        {% elsif publication.subtitle %}
           <span class="visually-hidden">: </span>
           <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
         {% endif %}
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
-      <div class="contributor">
-        <span class="visually-hidden">Contributors: </span>
-        {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
-        {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
-        {% endif %}
-      </div>
+      {% if cover_curator %}
+        <p class="quire-cover__curator">{{ cover_curator }}</p>
+      {% else %}
+        <div class="contributor">
+          <span class="visually-hidden">Contributors: </span>
+          {% if publication.contributor_as_it_appears %}
+            <em>{{ publication.contributor_as_it_appears }}</em>
+          {% else %}
+            <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
+          {% endif %}
+        </div>
+      {% endif %}
     </div>
   </div>
   {% if cover_logo %}
-    <img
-      class="quire-cover__logo"
-      src="{{ config.figures.imageDir | append: '/' | append: cover_logo }}"
-      alt="{{ cover_logo_alt }}"
-    />
+    <div class="quire-cover__sponsor">
+      {% if cover_logo_label %}<p class="quire-cover__sponsor-label">{{ cover_logo_label }}</p>{% endif %}
+      <img
+        class="quire-cover__logo"
+        src="{{ config.figures.imageDir | append: '/' | append: cover_logo }}"
+        alt="{{ cover_logo_alt }}"
+      />
+    </div>
   {% endif %}
 </section>
 
@@ -56,9 +66,25 @@ layout: base.11ty.js
 
   <section id="cover-content" class="section quire-page__content">
     <div class="container is-fluid">
-      <div class="content">
-        {{ content }}
-        {% bibliography citations %}
+      <div class="quire-cover__columns">
+        {% if cover_partners %}
+          <aside class="quire-cover__partners">
+            {% for partner in cover_partners %}
+              <div class="quire-cover__partner">
+                <p class="quire-cover__partner-label">{{ partner.label }}</p>
+                <img
+                  class="quire-cover__partner-logo"
+                  src="{{ config.figures.imageDir | append: '/' | append: partner.logo }}"
+                  alt="{{ partner.alt }}"
+                />
+              </div>
+            {% endfor %}
+          </aside>
+        {% endif %}
+        <div class="content">
+          {{ content }}
+          {% bibliography citations %}
+        </div>
       </div>
     </div>
   </section>

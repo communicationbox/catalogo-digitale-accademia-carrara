@@ -4,10 +4,20 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: cover-accademia-carrara-2026.jpg
-cover_title: Catalogo digitale<br>Collezione Zeri
+image: copertina-sculture-zeri-2026.jpg
+cover_title: Le sculture della collezione<br>Federico Zeri
+cover_subtitle: Catalogo scientifico
+cover_curator: a cura di Paolo Plebani
 cover_logo: logo-fondazione-bpb-white.svg
+cover_logo_label: Con il contributo di
 cover_logo_alt: Fondazione Banca Popolare di Bergamo - ente filantropico
+cover_partners:
+  - label: In collaborazione con
+    logo: logo-fondazione-zeri.png
+    alt: Fondazione Federico Zeri - Università di Bologna
+  - label: Con il sostegno di
+    logo: logo-amici-fondazione-zeri.png
+    alt: Amici di Federico Zeri
 ---
 
 Il progetto di catalogazione scientifica digitale delle collezioni di Accademia Carrara nasce per approfondire la conoscenza del patrimonio del museo e renderla accessibile a un pubblico ampio e diversificato. La pubblicazione dedicata alla collezione di sculture di Federico Zeri ne costituisce l’avvio.

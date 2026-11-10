@@ -1,9 +1,9 @@
 ---
 title: Introduzione
-subtitle: Le sculture della collezione Zeri 
+subtitle: Le sculture della collezione Federico Zeri
 layout: splash
 order: 10
-image: introduzione-sculture-zeri-2026.jpg
+image: introduzione-sculture-zeri-2026-11.jpg
 ---
 
 Federico Zeri (Roma, 12 agosto 1921 – Mentana, 5 ottobre 1998) è stato uno dei grandi conoscitori e storici dell’arte del Novecento. Spirito libero e anticonformista, fu uno studioso rigoroso, dotato di una memoria visiva prodigiosa e di un “occhio” eccezionale. Nei suoi scritti ha lasciato un patrimonio di ricerche, intuizioni e attribuzioni che costituisce ancora oggi un punto di riferimento imprescindibile per lo studio della storia dell’arte italiana.  
