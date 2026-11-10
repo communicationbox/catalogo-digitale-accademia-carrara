@@ -1,9 +1,13 @@
 name: Deploy Pages
 
-# Pubblica docs/ su GitHub Pages con actions/deploy-pages.
-# GitHub limita ogni tentativo a 10 minuti: con un sito di ~700 MB la copia
-# a volte scade ("syncing_files ... Timeout reached"), quindi il workflow
-# riprova da solo fino a 3 volte con lo stesso pacchetto.
+# Pubblica docs/ su GitHub Pages chiamando direttamente l'API di Pages.
+# Rispetto ad actions/deploy-pages:
+#  - non annulla la pubblicazione dopo 10 minuti: aspetta fino a 30;
+#  - ogni tentativo usa una versione diversa (commit + run + tentativo), cosi'
+#    un tentativo bloccato non blocca i successivi (oggi serviva un commit di
+#    "sblocco" in docs/ per ripartire);
+#  - se GitHub non prende in carico il tentativo (stato vuoto) per 5 minuti,
+#    passa al successivo. Fino a 3 tentativi.
 # Richiede Settings -> Pages -> Source: "GitHub Actions" e il dominio inserito
 # in Settings -> Pages -> Custom domain (il file docs/CNAME qui non conta).
 # Parte quando la build Quire termina con successo, a ogni modifica diretta
@@ -31,6 +35,7 @@ jobs:
   deploy:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     environment:
       name: github-pages
       url: ${{ steps.pages.outputs.base_url }}
@@ -40,16 +45,54 @@ jobs:
           ref: master
       - id: pages
         uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - id: upload
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs
-      - id: deploy1
-        uses: actions/deploy-pages@v4
-        continue-on-error: true
-      - id: deploy2
-        if: steps.deploy1.outcome == 'failure'
-        uses: actions/deploy-pages@v4
-        continue-on-error: true
-      - id: deploy3
-        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: actions/github-script@v7
+        env:
+          ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const artifact_id = Number(process.env.ARTIFACT_ID);
+            const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+            const FAILED = ['deployment_failed', 'deployment_content_failed',
+              'deployment_cancelled', 'deployment_lost', 'deployment_attempt_error'];
+            const MAX_ATTEMPTS = 3, MAX_WAIT = 30 * 60e3, MAX_EMPTY = 5 * 60e3;
+            if (!artifact_id) { core.setFailed('artifact_id mancante'); return; }
+
+            for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+              const version = `${context.sha}-${context.runId}-${context.runAttempt}-${attempt}`;
+              const oidc_token = await core.getIDToken();
+              let id;
+              try {
+                const { data } = await github.request('POST /repos/{owner}/{repo}/pages/deployments',
+                  { owner, repo, artifact_id, pages_build_version: version, oidc_token });
+                id = data.id;
+              } catch (e) {
+                core.warning(`Tentativo ${attempt}: creazione fallita (${e.status} ${e.message})`);
+                await sleep(30e3);
+                continue;
+              }
+              core.info(`Tentativo ${attempt}: deployment ${id}`);
+              const start = Date.now();
+              let status = '', last = '';
+              while (Date.now() - start < MAX_WAIT) {
+                await sleep(10e3);
+                try {
+                  status = (await github.request('GET /repos/{owner}/{repo}/pages/deployments/{id}',
+                    { owner, repo, id })).data.status || '';
+                } catch (e) { core.info(`lettura stato non riuscita: ${e.status}`); continue; }
+                if (status !== last) {
+                  core.info(`${Math.round((Date.now() - start) / 1000)}s stato: ${status || '(vuoto)'}`);
+                  last = status;
+                }
+                if (status === 'succeed') { core.info('Pubblicazione riuscita'); return; }
+                if (FAILED.includes(status)) break;
+                if (!status && Date.now() - start > MAX_EMPTY) break;
+              }
+              core.warning(`Tentativo ${attempt} non riuscito (ultimo stato: ${status || 'vuoto'})`);
+            }
+            core.setFailed(`Pubblicazione non riuscita dopo ${MAX_ATTEMPTS} tentativi`);
