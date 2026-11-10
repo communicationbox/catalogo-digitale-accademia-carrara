@@ -3,9 +3,10 @@ name: Deploy Pages
 # Pubblica docs/ su GitHub Pages chiamando direttamente l'API di Pages.
 # Rispetto ad actions/deploy-pages:
 #  - non annulla la pubblicazione dopo 10 minuti: aspetta fino a 30;
-#  - ogni tentativo usa una versione diversa (commit + run + tentativo), cosi'
-#    un tentativo bloccato non blocca i successivi (oggi serviva un commit di
-#    "sblocco" in docs/ per ripartire);
+#  - se un tentativo non va, crea da solo un commit di "sblocco" (cambia solo
+#    docs/.nojekyll) e ripubblica con quel commit: GitHub blocca le nuove
+#    pubblicazioni di un commit dopo un tentativo scaduto, e l'API accetta come
+#    versione solo un commit esistente;
 #  - se GitHub non prende in carico il tentativo (stato vuoto) per 5 minuti,
 #    passa al successivo. Fino a 3 tentativi.
 # Richiede Settings -> Pages -> Source: "GitHub Actions" e il dominio inserito
@@ -23,7 +24,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -63,22 +64,37 @@ jobs:
             const MAX_ATTEMPTS = 3, MAX_WAIT = 30 * 60e3, MAX_EMPTY = 5 * 60e3;
             if (!artifact_id) { core.setFailed('artifact_id mancante'); return; }
 
+            // Commit di sblocco: alterna docs/.nojekyll vuoto / a capo.
+            async function unblockCommit() {
+              const { data } = await github.rest.repos.getContent({ owner, repo, path: 'docs/.nojekyll', ref: 'master' });
+              const cur = Buffer.from(data.content || '', 'base64').toString();
+              const res = await github.rest.repos.createOrUpdateFileContents({
+                owner, repo, path: 'docs/.nojekyll', branch: 'master', sha: data.sha,
+                message: 'Pages: nuova versione per sbloccare la pubblicazione [skip ci]',
+                content: Buffer.from(cur === '' ? '\n' : '').toString('base64'),
+              });
+              return res.data.commit.sha;
+            }
+
+            let version = context.sha;
             for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-              const version = `${context.sha}-${context.runId}-${context.runAttempt}-${attempt}`;
+              if (attempt > 1) {
+                try { version = await unblockCommit(); core.info(`Commit di sblocco ${version.slice(0, 8)}`); }
+                catch (e) { core.warning(`Commit di sblocco non riuscito (${e.status} ${e.message})`); }
+              }
               const oidc_token = await core.getIDToken();
               let id;
               try {
                 const { data } = await github.request('POST /repos/{owner}/{repo}/pages/deployments',
                   { owner, repo, artifact_id, pages_build_version: version, oidc_token });
-                id = data.id;
+                id = data.id || version;
               } catch (e) {
                 core.warning(`Tentativo ${attempt}: creazione fallita (${e.status} ${e.message})`);
-                await sleep(30e3);
                 continue;
               }
-              core.info(`Tentativo ${attempt}: deployment ${id}`);
+              core.info(`Tentativo ${attempt}: deployment ${id} (versione ${version.slice(0, 8)})`);
               const start = Date.now();
-              let status = '', last = '';
+              let status = '', last = null;
               while (Date.now() - start < MAX_WAIT) {
                 await sleep(10e3);
                 try {
